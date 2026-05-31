@@ -1,0 +1,444 @@
+0: 
+0: 
+1: Exit and return to the title screen? Any unsaved progress will be lost.<key>
+1: Выйти и вернуться на титульный экран? Несохраненный прогресс будет утерян.<key>
+2: Create a new save data file?<key>
+2: Создать новый файл сохранения?<key>
+3: Save data already exists. It will be deleted if you start a new game. Are you sure you want to start a new game? <$cdef(224)>Your snapshots and saved settings will not be deleted.</color><key>
+3: Сохранение данных уже существует. Оно будет удалено, если вы начнете новую игру. Вы уверены, что хотите начать новую игру? <$cdef(224)>Ваши снапшоты и сохраненные настройки не будут удалены.</color><key>
+4: If you delete this save data, it will be lost for good. Are you sure you want to continue?<key>
+4: Если вы удалите эти данные, они будут потеряны навсегда. Вы уверены, что хотите продолжить?<key>
+5: Return to your own island?<key>
+5: Вернуться на свой остров?<key>
+6: Are you happy with these settings?<key>
+6: Вы довольны этими настройками?<key>
+7: Add this island to your favourites?<key>
+7: Добавить остров в избранное?<key>
+8: This island will added to your favourites. Is this okay?<key>
+8: Этот остров будет добавлен в избранное. Хорошо?<key>
+9: <pname> retrieves <morf(his,her)> belongings.<key>
+9: <pname> получает <morf(его,её)> вещи.<key>
+10: No bonus content available.<key>
+10: Нет доступного бонусного контента.<key>
+11: Are you happy with this character? You can change your character's appearance, gender and name once you reach a certain point in the game.<key>
+11: Вы довольны этим персонажем? Вы можете изменить внешний вид, пол и имя вашего персонажа, как только вы достигнете определенной точки в игре.<key>
+12: Write a message on <def_sgl_string(lstr1)>.<key>
+12: Напишите сообщение на <def_sgl_string(lstr1)>.<key>
+13: <6><string(lstr1)><9><br>Are you happy with this message?<key>
+13: <6><string(lstr1)><9><br>Вы довольны этим сообщением?<key>
+14: End the battle and try again from before it began?<key>
+14: Завершить битву и повторить попытку до её начала?<key>
+15: Listen up, lads! I've got good news for ya. Some of ya might 'ave 'eard already, but we've found <string(lstr1)><$cdef(244)><sgl_string(lstr1)></color> down the mine!<key>
+15: Послушайте, ребята! У меня для вас хорошие новости. Кое-кто из вас, возможно, уже слыхал, но мы надыбали в шахте <string(lstr1)><$cdef(244)><sgl_string(lstr1)></color>!<key>
+16: *: Get in, you beauty! GET IIIIIIN!<key>
+16: *: Прыгай, красотка! ДАВАААЙ!<key>
+17: Are you happy with this character?<key>
+17: Вы довольны этим персонажем?<key>
+18: This island will not be added to your favourites. Is this okay?<key>
+18: Этот остров не будет добавлен в избранное. Это нормально?<key>
+19: <IfSing(This resident,These residents)> will be relocated. Is this okay?<key>
+19: <IfSing(Житель будет перемещён,Жители будут перемещены)>. Вы согласны?<key>
+20: <6><string(lstr1)><9><key>
+20: <6><string(lstr1)><9><key>
+21: Return to before the battle began and try again?<key>
+21: Вернуться к началу битвы и повторить попытку?<key>
+22: Are you happy with your new look?<key>
+22: Нравится новая тачка?<key>
+23: This snapshot will be deleted. If you posted it online, it will be removed from the noticeboard and its rating will be reset. Is this okay?<key>
+23: Этот снапшот будет удален. Если вы разместили его в Интернете, он будет удален с доски, а его рейтинг будет сброшен. Вы согласны?<key>
+24: If you delete this snapshot, you will no longer be able to visit this island. Is this okay?<key>
+24: Если вы удалите этот снимок, вы больше не сможете посетить этот остров. Вы согласны?<key>
+25: Any changes you made to this snapshot will be lost. Is this okay?<key>
+25: Любые изменения, внесенные в этот снимок, будут потеряны. Вы согласны?<key>
+26: Apply these effects to your snapshot? They can't be removed once they've been applied.<key>
+26: Применить эти эффекты к снапшоту? Они не могут быть удалены после применения.<key>
+27: Your album is full. If you save this snapshot, the oldest image in your album that hasn't been uploaded will be overwritten. Is this okay?<key>
+27: Альбом заполнен. Если вы сохраните этот снапшот, самое старое изображение в альбоме, которое не было загружено, будет перезаписано. Вы согласны?<key>
+28: Delete this snapshot?<key>
+28: Удалить этот снимок?<key>
+29: Connect to the network?<key>
+29: Подключить к сети?<key>
+30: You must be connected to the network to continue.<key>
+30: Для продолжения необходимо подключиться к сети.<key>
+31: <cap><def_sgl_string(lstr1)> will be lost for good. Is this okay?<key>
+31: <cap><def_sgl_string(lstr1)> будут потеряны навсегда. Вы согласны?<key>
+32: Whose room do you want this to be?<key>
+32: Кому вы хотите передать эту комнату?<key>
+33: This room will belong to <def_sgl_string(lstr1)>. Is this okay?<key>
+33: Эта комната будет принадлежать<def_sgl_string(lstr1)>. Вы согласны?<key>
+34: The sign says this is <def_sgl_string(lstr1)>'s room.<key>
+34: На табличке написано, что это комната <def_sgl_string(lstr1)>.<key>
+35: Try adding some tags that best describe your snapshot. Be aware that tags can't be changed once a snapshot has been uploaded.<key>
+35: Попробуйте добавить теги, которые лучше всего описывают ваш снапшот. Имейте в виду, что теги не могут быть изменены после загрузки.<key>
+36: Upload your island? Be aware that this may take some time.<key>
+36: Загрузить остров? Это может занять некоторое время.<key>
+37: Upload complete! It may take some time before your content is visible online.<key>
+37: Загрузка завершена! Может пройти некоторое время, прежде чем ваш контент будет виден в Интернете.<key>
+38: Once you upload a snapshot, you won't be able to edit its comment or tags. Uploaded snapshots can be viewed by anyone. Is this okay?<key>
+38: После загрузки снапшота вы не сможете редактировать его комментарий или теги. Загруженные снимки могут просматривать все. Вы согласны?<key>
+39: If you remove your island, its rating will be reset. Is this okay?<key>
+39: Если вы удалите свой остров, его рейтинг будет сброшен. Вы согласны?<key>
+40: Please choose someone to send away.<key>
+40: Выберите человека для отправки.<key>
+41: Send <def_sgl_string(lstr1)> away?<key>
+41: Отослать <def_sgl_string(lstr1)>?<key>
+42: If you discard this letter, you won't be able to read it again. Is this okay?<key>
+42: Если вы откажетесь от этого письма, вы не сможете прочитать его снова. Вы согласны?<key>
+43: Discard this letter?<key>
+43: Выбросить это письмо?<key>
+44: Saving will overwrite this save data and it will be lost for good. Are you sure you want to continue?<key>
+44: Сохранение перезапишет эти сохраненные данные, и они будут потеряны навсегда. Вы уверены, что хотите продолжить?<key>
+45: Save successful!<key>
+45: Успешно сохранено!
+46: Load this save data? Any unsaved progress will be lost.<key>
+46: Загрузить эти сохраненные данные? Любой несохраненный прогресс будет потерян.<key>
+47: The version of your island that's currently uploaded will be overwritten by your current island, and its rating will be reset. Is this okay?<key>
+47: Загруженная версия острова будет перезаписана текущим островом, а его рейтинг будет сброшен. Вы согласны?<key>
+48: It's time to take a snapshot to upload with your island.<key>
+48: Пришло время сделать снапшот, чтобы загрузить его с вашего острова.<key>
+49: Once you upload it, this snapshot will be viewable by anyone. Is this okay?<key>
+49: Как только вы загрузите снапшот, его сможет увидеть любой пользователь. Вы согласны?<key>
+50: Time to add a caption! Be aware that captions can't be edited once a snapshot has been uploaded.<key>
+50: Пора добавить подпись! Помните, что подписи нельзя редактировать после загрузки снапшота.<key>
+51: Make <num(lnum1)> <plr_string(lstr1)>?<key>
+51: Сделать <num(lnum1)> <plr_string(lstr1)>?<key>
+52: 
+52: 
+53: Take whatever's ready?<key>
+53: Взять всё, что готово?<key>
+54: Use <num(lnum1)> gratitude <IfSing(point,points)> to learn this recipe?<key>
+54: Использовать <num(lnum1)> <IfSing(очко,очков)> благодарности, чтобы изучить этот рецепт?<key>
+55: Dye the <sgl_string(lstr1)> <string(lstr2)>?<key>
+55: Покрасить <sgl_string(lstr1)> <string(lstr2)>?<key>
+56: Upgrade the crafting station?<key>
+56: Улучшить верстак?<key>
+57: If you remove this snapshot, its rating will be reset. Is this okay?<key>
+57: Если вы удалите этот снапшот, его рейтинг будет сброшен. Вы согласны?<key>
+58: Removal complete! Please be aware that this item may still be visible to other users for a short time.<key>
+58: Удаление завершено! Обратите внимание, что этот элемент может быть виден другим пользователям в течение короткого времени.<key>
+59: Display this snapshot in <$def_sgl_iname(2192)>?<key>
+59: Показать этот снапшот в <$def_sgl_iname(2192)>?<key>
+60: Remove the current snapshot from <$def_sgl_iname(2192)>?<key>
+60: Удалить текущий снапшот из <$def_sgl_iname(2192)>?<key>
+61: That will cost <num(lnum1)> gratitude <IfSing(point,points)>. Is this okay?<key>
+61: Это будет стоить <num(lnum1)> очков благодарности. Вы согласны?<key>
+62: Rebuild the base to the way it was before the battle?<key>
+62: Восстановить базу так, как она была до битвы?<key>
+63: Please choose someone to stand here.<key>
+63: Пожалуйста, выберите кого-нибудь, кто будет стоять здесь.<key>
+64: This resident is already assigned to another <$sgl_iname(2440)>. Do you want to assign them to this one instead?<key>
+64: Этот житель уже назначен к <$sgl_iname(2440)>. Вы хотите переназначить?<key>
+65: <IfSing(<cap><indef_sgl_string(lstr1)>,<num(lnum1)> <plr_string(lstr1)>)> will cost <num(lnum2)> gratitude <IfSing(point,points)>. Is this okay?<key>
+65: <IfSing(<cap><indef_sgl_string(lstr1)>,<num(lnum1)> <plr_string(lstr1)>)>  будет стоить <num(lnum2)> очков благодарности. Вы согласны?<key>
+66: If you connect to the network, spectacular snapshots from players the world over will appear here automatically.<key>
+66: Если вы подключитесь к сети, здесь автоматически появятся впечатляющие снапшоты игроков со всего мира.<key>
+67: Your snapshot was entered into the current contest because you tagged it with <$cdef(230)>#<string(lstr1)></color>. Good luck!<key>
+67: Ваш снапшот был введен в текущий конкурс, потому что вы пометили его <$cdef(230)>#<string(lstr1)></color>. Удачи!<key>
+68: Are you sure you want to retire from the race?<key>
+68: Вы уверены, что хотите выйти из гонки?<key>
+69: <pname> will warp back to <string(lstr1)>, but <morf(he,she)> will lose some of <morf(his,her)> items on the way. Are you sure you want to do this?<key>
+69: <pname> вернется к <string(lstr1)>, но <morf(он,она)> потеряет некоторые предметы по пути. Вы уверены, что хотите это сделать?<key>
+70: Exit and return to title screen?<key>
+70: Выйти и вернуться на титульный экран?<key>
+71: Warp to <string(lstr1)>?<key>
+71: Телепорт к <string(lstr1)>?<key>
+72: Please choose your destination.<key>
+72: Выберите пункт назначения.<key>
+73: Are you sure you want to remove this blueprint?<key>
+73: Вы уверены, что хотите удалить этот чертёж?<key>
+74: This will completely erase the design on <def_sgl_string(lstr1)>. Are you sure?<key>
+74: Это полностью сотрет дизайн <def_sgl_string(lstr1)>. Вы уверены?<key>
+75: <pname> will put the MAGIC CARPET away and leave everything where it is. Is this okay?<key>
+75: <pname> уберёт ВОЛШЕБНЫЙ КОВЕР и оставит всё на месте. Вы согласны?<key>
+76: This will replace the design on <def_sgl_string(lstr1)>. Are you sure?<key>
+76: Это заменит дизайн на <def_sgl_string(lstr1)>. Вы уверены?<key>
+77: <cap><def_sgl_string(lstr1)> is now blank.<key>
+77: <cap><def_sgl_string(lstr1)> теперь чист.<key>
+78: The design on <def_sgl_string(lstr1)> has been copied on to <def_sgl_string(lstr2)>.<key>
+78: Дизайн из <def_sgl_string(lstr1)> скопирован в <def_sgl_string(lstr2)>.<key>
+79: That's not the right key!<key>
+79: Этот ключ неверный!<key>
+80: <cap><def_sgl_string(lstr1)> joins <pname>'s team!<key>
+80: <cap><def_sgl_string(lstr1)> присоединяется к команде <pname>!<key>
+81: Turn this area into a blueprint?<key>
+81: Превратить эту область в чертёж?<key>
+82: Turn this area into a multibuilder mode blueprint?<key>
+82: Превратить эту область в чертеж режима мультистроителя?<key>
+83: Select the height of the blueprint using <button(LOWER)> and <button(HIGHER)>.<key>
+83: Выберите высоту чертежа с помощью <button(LOWER)> и <button(HIGHER)>.<key>
+84: That's not the right key!<key>
+84: Это не тот ключ!<key>
+85: That's not the right key!<key>
+85: Это не тот ключ!<key>
+86: Malroth gets stronger, and <pname> reaches level <num(lnum1)>!<key>
+86: Мэлрот становится сильнее и <pname> достигает уровня <num(lnum1)>!<key>
+87: Move this resident to <string(lstr1)>?<key>
+87: Переместить этого жителя в <string(lstr1)>?<key>
+88: <pname> wonders what that bizarre bell is all about...<key>
+88: <pname> стало любопытно, что это за странный звон...<key>
+89: Write a message for them to say.<key>
+89: Напишите им сообщение.<key>
+90: <6><string(lstr1)><9><br>Are you happy with this message?<key>
+90: <6><string(lstr1)><9><br>Вы довольны этим сообщением?<key>
+91: It's time to head off to <string(lstr1)>'s island! Save your progress and continue?<key>
+91: Пора отправляться на остров <string(lstr1)>! Сохранить прогресс и продолжить?<key>
+92: Any unsaved progress will be lost. Is this okay?<key>
+92: Несохраненный прогресс будет потерян. Вы согласны?<key>
+93: You can now adjust the game's settings. Once you're happy, select <$ui(383)>Confirm to save your changes and start the game. You will be able to change these settings later.<key>
+93: Теперь вы можете настроить параметры игры. Как только вы будете довольны, выберите <$ui(383)>Подтвердить, чтобы сохранить изменения и начать игру. Вы сможете изменить эти настройки позже.<key>
+94: There's a space to write on. But <pname> can't think of anything to write just yet.<key>
+94: Тут есть место для надписей. Но <pname> пока не может придумать, что написать.<key>
+95: How many laps do you want to race for?<key>
+95: Сколько кругов вы хотите пробежать?<key>
+96: The race will last for <num(lnum1)> <IfSing(lap,laps)>. Is this okay?<key>
+96: Гонка продлится <num(lnum1)> <IfSing(круг,кругов)>. Вы согласны?<key>
+97: <pname> wonders what that mysterious monument is doing here...<key>
+97: <pname> любопытно, что здесь делает этот таинственный памятник...<key>
+98: <cap><string(lstr1)> is full. Please choose someone to send away.<key>
+98: <cap><string(lstr1)> заполнен. Выберите человека для отправки.<key>
+99: Your party is full. Please choose someone to send away.<key>
+99: Ваша партия заполнена. Выберите человека для отправки.<key>
+100: <IfSing(This resident,These residents)> will not be relocated. Is this okay?<key>
+100: <IfSing(Этот житель,Эти жители)> не будут перемещены. Вы согласны?<key>
+101: This will add <indef_sgl_string(lstr2)> to your inventory. Is that okay?<key>
+101: Это даст вам <indef_sgl_string(lstr2)> в инвентарь. Вы не против?<key>
+102: This isn't finished. Are you sure you want to stop now?<key>
+102: Это ещё не конец. Вы уверены, что хотите остановиться сейчас?<key>
+103: <cap><indef_sgl_string(lstr1)> comes to live on <karappo>!<key>
+103: <cap><indef_sgl_string(lstr1)> приходит жить на <karappo>!<key>
+104: Change your island's name back to <6><string(lstr1)><9>?<key>
+104: Изменить название острова обратно на <6><string(lstr1)><9>?<key>
+105: Select the blueprint's orientation using <button(LEFT_RIGHT)>.<key>
+105: Выберите ориентацию чертежа с помощью <button(LEFT_RIGHT)>.<key>
+106: You'll be able to use your downloaded content once you've progressed to a certain point in the game.<key>
+106: Вы сможете использовать загруженный контент, как только достигнете определенной точки в игре.<key>
+107: You receive the <$icon(2239)><$icon(2240)><$cdef(244)>historic headwear</color>!<key><br>Equip these items to change your character's headgear and hairstyle to that of the hero or heroine of the original DRAGON QUEST BUILDERS.<key><br>However, you can only change your appearance in this way once you've progressed to a certain point in the game.<key>
+107: Вы получаете <$icon(2239)><$icon(2240)><$cdef(244)>исторический головной убор</color>!<key><br>Экипируйте эти предметы, чтобы изменить головной убор и причёску вашего героя или героини оригинальной DRAGON QUEST BUILDERS.<key><br>Тем не менее, вы можете изменить свою внешность таким образом только после того, как вы продвинулись к определенной точке в игре.<key>
+108: To receive your bonus content, please continue an existing game or start a new one. Do not turn off the system while the game is loading.<key>
+108: Чтобы получить бонусный контент, пожалуйста, продолжите существующую игру или начните новую. Не выключайте систему во время загрузки игры.<key>
+109: <pname> brings back <indef_sgl_string(lstr1)>!<key>
+109: <pname> возвращает <indef_sgl_string(lstr1)>!<key>
+110: Save this snapshot?<key>
+110: Сохранить этот снапшот?<key>
+111: Save this snapshot?<key>
+111: Сохранить этот снапшот?<key>
+112: Snapshot saved successfully!<key>
+112: Снапшот успешно сохранен!<key>
+113: The <string(lstr2)><$cdef(244)><sgl_string(lstr3)></color> that's currently placed on <string(lstr1)> will be removed. Is this okay?<key>
+113: The <string(lstr2)><$cdef(244)><sgl_string(lstr3)></color>, который в настоящее время размещен в <string(lstr1)>, будет удален. Вы согласны?<key>
+114: <1>Ere's your share, Goldirox<--><num(lnum1)> lumps o' <string(lstr1)><$cdef(244)><sgl_string(lstr2)></color>!<key>
+114: <1>Вот твоя доля, Голдирокс<--><num(lnum1)> частички <string(lstr1)><$cdef(244)><sgl_string(lstr2)></color>!<key>
+115: ME HAVE <num(lnum1)> LUMPS OF <$cdef(244)><allcap><sgl_string(lstr1)></allcap></color> NOW. ME STILL NEED <num(lnum2)> MORE LUMPS TO BECOME <allcap><sgl_string(lstr2)></allcap> GOLEM.<key>
+115: Я БЕРУ <num(lnum1)> ЧАСТИЦ <allcap><sgl_string(lstr1)></allcap></color> СЕЙЧАС. МНЕ ЕЩЁ НАДО <num(lnum2)> ШТУК ЧТОБЫ СТАТЬ <allcap><sgl_string(lstr2)></allcap> ГОЛЕМОМ.<key>
+116: <cap><indef_sgl_string(lstr1)> joins <pname>'s team!<key>
+116: <cap><indef_sgl_string(lstr1)> присоединяется к команде <pname>!<key>
+117: The Builder's Bell seems to have lost all of its power...<key>
+117: Колокол строителя, кажется, потерял всю свою силу...<key>
+118: (Feature has been cut)<key>
+118: (Функция вырезана)<key>
+119: (Feature has been cut)<key>
+119: (Функция вырезана)<key>
+120: (Feature has been cut)<key>
+120: (Функция вырезана)<key>
+121: (Feature has been cut)<key>
+121: (Функция вырезана)<key>
+122: This field is for growing <string(lstr1)><$cdef(244)><plr_string(lstr2)></color>.<key>
+122: Это поле предназначено для выращивания <string(lstr1)><$cdef(244)><plr_string(lstr2)></color>.<key>
+123: <cap><def_sgl_string(lstr1)> joins <pname>'s team!<key>
+123: <cap><def_sgl_string(lstr1)> присоединяется к команде <pname>!<key>
+124: (Feature has been cut)<key>
+124: (Функция вырезана)<key>
+125: (Feature has been cut)<key>
+125: (Функция вырезана)<key>
+126: (Feature has been cut)<key>
+126: (Функция вырезана)<key>
+127: Listen 'ere, lads! The light's fadin' fast, so we'd better get crackin' wiv today's accumulation declaration!<key>
+127: Слушайте! Свет быстро гаснет, так шо нам лучше придерживаться декларации накопления!<key>
+128: <morf(His,Her)> maximum HP increase!<key>
+128: <morf(Его,Её)> макс. здоровье увеличивается!<key>
+129: <morf(His,Her)> attack increases!<key>
+129: <morf(Его,Её)> атака возростает!<key>
+130: <morf(His,Her)> resilence increases!<key>
+130: <morf(Его,Её)> устойчивость возрастает!<key>
+131: THANK YOU! ME NEED <num(lnum1)> MORE LUMPS OF <$cdef(244)><allcap><sgl_string(lstr1)></allcap></color>, THEN ME BECOME <allcap><sgl_string(lstr1)></allcap> GOLEM!<key>
+131: СПАСИБО! МНЕ НАДО ЕЩЁ <num(lnum1)> БОЛЬШЕ ЧАСТИЦ <$cdef(244)><allcap><sgl_string(lstr1)></allcap></color>, ТОГДА Я СТАНУ <allcap><sgl_string(lstr1)></allcap> ГОЛЕМОМ!<key>
+132: <pname> examines the strange stone carving... But nothing happens.<key>
+132: <pname> осматривает странную резьбу по камню… Но ничего не происходит.<key>
+133: Creating system data. Please wait...<key>
+133: Создание системных данных. Пожалуйста, подождите...<key>
+134: <morf(His,Her)> breath gauge gets a little bit bigger!<key>
+134: <morf(Его,Её)> шкала дыхания становится немного больше!<key>
+135: Are you happy with these settings?<key>
+135: Вы довольны этими настройками?<key>
+136: Please be aware that it may take some time before your content is visible online.<key>
+136: Обратите внимание, что может пройти некоторое время, прежде чем ваш контент будет виден в Интернете.<key>
+137: A report was made against one of your snapshots. That snapshot has now been deleted.<key>
+137: На один из ваших снапшотов прилетела жалоба. Он был удален.<key>
+138: Use the <string(lstr1)><$cdef(244)><string(lstr2)></color> to start a battle?<key>
+138: Использовать <string(lstr1)><$cdef(244)><string(lstr2)></color>, чтобы начать бой?<key>
+139: You are now back on your <string(lstr1)>.<key>
+139: Теперь вы снова на своем <string(lstr1)>.<key>
+140: Return to the title screen?<key>
+140: Вернутся на главный экран?<key>
+141: Do you want to save your completed game?<key>
+141: Сохранить завершенную игру?<key>
+142: <pname> reaches level <num(lnum1)>!<key>
+142: <pname> достигает уровня <num(lnum1)>!<key>
+143: If you can complete <num(lnum1)> more Tablet Targets, I'll reward you with-with-with a <$iicon(4)><$cdef(244)><$sgl_iname(4)></color>!<key>
+143: Если вы сможете завершить ещё <num(lnum1)> планшетных целей, я награжу Вас-с-с <$iicon(4)><$cdef(244)><$sgl_iname(4)></color>!<key>
+144: Finish off another <num(lnum1)> Tablet Targets and I'll give your <$iicon(4)><$cdef(244)><$sgl_iname(4)></color> a nice little boost-boost-boost!<key>
+144: Доделайте еще <num(lnum1)> планшетных целей, и я дам Вам <$iicon(4)><$cdef(244)><$sgl_iname(4)></color> маленькое улу-лу-лучшение!<key>
+145: Just <num(lnum1)> more Tablet Targets to complete, and I'll give-give-give you a <$iicon(1889)><$cdef(244)><$sgl_iname(1889)></color>!<key>
+145: Ещё <num(lnum1)> планшетных целей, и я дам-да-дам в-в-вам <$iicon(1889)><$cdef(244)><$sgl_iname(1889)></color>!<key>
+146: Fin-fin-finish <num(lnum1)> more Tablet Targets, and I'll give-give-give you your very own <$iicon(2168)><$cdef(244)><$sgl_iname(2168)></color>!<key>
+146: Е-е-ещё <num(lnum1)> планшетных целей, и я дам-да-дам в-в-вам собственную <$iicon(2168)><$cdef(244)><$sgl_iname(2168)></color>!<key>
+147: If you can complete <num(lnum1)> more Tablet Targets, I'll make that <$iicon(31)><$cdef(244)><$sgl_iname(31)></color> of yours even bet-bet-better!<key>
+147: Если сможете выполнить ещё <num(lnum1)> планшетных целей, я сделаю ваш <$iicon(31)><$cdef(244)><$sgl_iname(31)></color> ещё лучше!<key>
+148: Just <num(lnum1)> more Tablet Targets to tick-tick-tick off the list, and I'll give-give-give you a lovely set of <$iicon(2401)><$cdef(244)><$sgl_iname(2401)></color>!<key>
+148: Ещё <num(lnum1)> планшетных целей, чтобы вычеркнуть из списка, и я дам-да-дам в-в-вам прекрасный набор <$iicon(2401)><$cdef(244)><$sgl_iname(2401)></color>!<key>
+149: Are you sure you want to copy your save data from the DRAGON QUEST BUILDERS 2 Jumbo Demo?<key>
+149: Вы уверены, что хотите скопировать сохраненные данные из демо-версии DRAGON QUEST BUILDERS 2 Jumbo?<key>
+150: Save data from the DRAGON QUEST BUILDERS 2 Jumbo Demo has been detected.<key><br>If you proceed, your save data from the Jumbo Demo will be overwritten. Is this okay?<key>
+150: Обнаружено сохранение данных DRAGON QUEST BUILDERS 2 Jumbo.<key><br>Если вы продолжите, ваши сохраненные данные из Jumbo будут перезаписаны. Вы согласны?<key>
+151: Are you happy with these settings?<br>If you choose <6>No<9>, the game will start using the default settings, but you'll be able to change them later.<key>
+151: Вы довольны этими настройками?<br>Если вы выберете <6>Нет<9>, игра начнется с использованием настроек по умолчанию, но вы сможете изменить их позже.<key>
+152: Your save data cannot be loaded as it's no longer compatible with the version of the game you're using. Returning to the title screen.<key>
+152: Невозможно загрузить сохранённые данные, так как они больше не совместимы с используемой версией игры. Возврат к титульному экрану.<key>
+153: Toodlepip-pip-pip for now!<key>
+153: Ну пакеда!<key>
+154: When you travel between islands, your save data will be overwritten and your autosave will be deleted.<key><br>Please do not exit the game or turn off the system until you reach your destination. Are you sure you want to continue?<key>
+154: Когда вы путешествуете между островами, ваши сохранённые данные будут перезаписаны, а автосохранение будет удалено.<key><br>Пожалуйста, не выходите из игры и не выключайте систему, пока не доберетесь до места назначения. Вы уверены, что хотите продолжить?<key>
+155: Your album is full. If you save this snapshot, the oldest uploaded image in your album will be overwritten, removed from the noticeboard, and its rating will be reset. Is this okay?<key>
+155: Альбом переполнен. Если вы сохраните этот снапшот, самое старое загруженное изображение в вашем альбоме будет перезаписано, удалено с доски объявлений, а его рейтинг будет сброшен. Вы согласны?<key>
+156: Your album is full. If you save this snapshot, the oldest favourited snapshot or island image in your album will be overwitten. Is this okay?<key>
+156: Альбом переполнен. Если вы сохраните этот снапшот, самый старый любимый снапшот или изображение острова в вашем альбоме будет перезаписано. Вы согласны?<key>
+157: This save data cannot be loaded as it failed to save properly. Please start a new game from the title screen.<key>
+157: Невозможно загрузить эти сохраненные данные, так как они не были сохранены должным образом. Начните новую игру с главного экрана.<key>
+158: This save data cannot be loaded as it failed to save properly. Please start a new game from the title screen, or try loading your autosave data.<key>
+158: Невозможно загрузить эти сохраненные данные, так как они не были сохранены должным образом. Начните новую игру с главного экрана или попробуйте загрузить данные автосохранения.<key>
+159: This autosave data cannot be loaded as it failed to save properly.<key>
+159: Невозможно загрузить эти данные автосохранения, так как они не были сохранены должным образом.<key>
+160: To start a new game, please choose a save slot to record your progress.<key>
+160: Чтобы начать новую игру, выберите слот для сохранения, чтобы записать свой прогресс.<key>
+161: If you're unsure what to tag a snapshot with before uploading one for the first time, try tagging it with <$cdef(230)>#Beginner</color>. Tags can't be changed once a snapshot has been uploaded.<key>
+161: Если вы не знаете, чем пометить снапшот, прежде чем загрузить его в первый раз, попробуйте пометить его с помощью <$cdef(230)>#Beginner</color>. Теги не могут быть изменены после загрузки снапшота.<key>
+162: An error occurred while trying to create a new save file.<key>
+162: Произошла ошибка при создании нового сохранения.<key>
+163: You entered the password for <6><string(lstr1)><9>.<key><br>Permanently delete your existing save data and create a new file for <6><string(lstr1)><9>?<key>
+163: Вы ввели пароль для <6><string(lstr1)><9>.<key><br>Окончательно удалить существующие данные сохранения и создать новый файл для <6><string(lstr1)><9>?<key>
+164: You entered an invalid password. Do you want to try again?<key>
+164: Вы ввели неверный пароль. Хотите повторить попытку?<key>
+165: Creating save file... Please do not quit the game or turn off the system.<key>
+165: Создание файла сохранения... Пожалуйста, не выходите из игры и не выключайте систему.<key>
+166: An error occurred while trying to create a new save file.<key>
+166: Произошла ошибка при попытке создания нового файла сохранения.<key>
+167: Save file created successfully!<key>
+167: Файл создан успешно!<key>
+168: Obtain <num(lnum2)> <sgl_string(lstr1)> for <num(lnum1)> gratitude points?<key>
+168: Получить <num(lnum2)> <sgl_string(lstr1)> за <num(lnum1)> очков благодарности?<key>
+169: An error occurred the last time you saved your game.<key><br>Please ensure you don't turn off the system if you see the saving icon in the bottom-right corner of the screen.<key>
+169: При последнем сохранении игры произошла ошибка.<key><br>Если в правом нижнем углу экрана отображается значок сохранения, не выключайте систему.<key>
+170: Some of the Tablet Targets have been adjusted to be a little easier. You may be greeted by some completion messages when you arrive on the Isle of Awakening.<key>
+170: Некоторые из планшетных целей были настроены в целях упрощения. Вас могут встретить сообщения о завершении, когда вы прибудете на Остров Пробуждения.<key>
+171: To receive your bonuses, start playing by selecting either <6>Start New Game<9> or <6>Continue<9>. Please do not turn off the console.<key>
+171: Чтобы получить бонусы, начните играть, выбрав <6>Начать новую игру<9>; или <6>Продолжить<9>. Пожалуйста, не выключайте консоль.<key>
+172: When you travel between islands, your save data will be overwritten and your autosave will be deleted. Please do not exit the game or turn off the console until you reach your destination.<key><br>Are you sure you want to continue?<key>
+172: Когда вы путешествуете между островами, ваши сохраненные данные будут перезаписаны, а автосохранение будет удалено. Пожалуйста, не выходите из игры и не выключайте консоль, пока не доберетесь до места назначения.<key><br>Вы уверены, что хотите продолжить?<key>
+173: If you can complete <num(lnum1)> more Tablet Target, I'll reward you with-with-with a <$iicon(4)><$cdef(244)><$sgl_iname(4)></color>!<key>
+173: Если ты сможешь выполнить ещё <num(lnum1)> планшетных целей, я выда-да-дам тебе <$iicon(4)><$cdef(244)><$sgl_iname(4)></color>!<key>
+174: Finish off another Tablet Target and I'll give your <$iicon(4)><$cdef(244)><$sgl_iname(4)></color> a nice little boost-boost-boost!<key>
+174: Закончи ещё одну планшетную цель и я дам твоему <$iicon(4)><$cdef(244)><$sgl_iname(4)></color> приятное улучшение!<key>
+175: Just <num(lnum1)> more Tablet Target to complete, and I'll give-give-give you a <$iicon(1889)><$cdef(244)><$sgl_iname(1889)></color>!<key>
+175: Ещё <num(lnum1)> планшетных целей, и я дам-да-дам тебе <$iicon(1889)><$cdef(244)><$sgl_iname(1889)></color>!<key>
+176: Fin-fin-finish <num(lnum1)> more Tablet Target, and I'll give-give-give you your very own <$iicon(2168)><$cdef(244)><$sgl_iname(2168)></color>!<key>
+176: За-за-закончи ещё <num(lnum1)> планшетных целей и я по-по-подарю тебе <$iicon(2168)><$cdef(244)><$sgl_iname(2168)></color>!<key>
+177: If you can complete <num(lnum1)> more Tablet Target, I'll make that <$iicon(31)><$cdef(244)><$sgl_iname(31)></color> of yours even bet-bet-better!<key>
+177: Если вы сможете выполнить ещё <num(lnum1)> планшетных целей, я улучшу этот твой <$iicon(31)><$cdef(244)><$sgl_iname(31)></color>!<key>
+178: Just <num(lnum1)> more Tablet Target to tick-tick-tick off the list, and I'll give-give-give you a lovely set of <$iicon(2401)><$cdef(244)><$sgl_iname(2401)></color>!<key>
+178: Ещё <num(lnum1)> планшетных целей, и я подарю тебе классный набор  <$iicon(2401)><$cdef(244)><$sgl_iname(2401)></color>!<key>
+179: <cap><def_plr_string(lstr1)> will be lost for good. Is this okay?<key>
+179: <cap><def_plr_string(lstr1)> будет потеряно навсегда. Вы согласны?<key>
+180: This room will belong to <def_sgl_string(lstr1)>. Is this okay?<key>
+180: Эта комната будет принадлежать <def_sgl_string(lstr1)>. Вы согласны?<key>
+181: This room will belong to <def_sgl_string(lstr1)>. Is this okay?<key>
+181: Эта комната будет принадлежать <def_sgl_string(lstr1)>. Вы согласны?<key>
+182: The sign says this is <def_sgl_string(lstr1)>'s room.<key>
+182: На табличке написано, что это комната <def_sgl_string(lstr1)>.<key>
+183: The sign says this is <def_sgl_string(lstr1)>'s room.<key>
+183: На табличке написано, что это комната <def_sgl_string(lstr1)>.<key>
+184: Dye these <plr_string(lstr1)> <string(lstr2)>?<key>
+184: Покрасить <plr_string(lstr1)> <string(lstr2)>?<key>
+185: An error occurred the last time you saved your game.<key><br>Please ensure you don't turn off the console if you see the saving icon in the bottom-right corner of the screen.<key>
+185: Во время последнего сохранения игры произошла ошибка.<key><br>Пожалуйста, ни в коем случае не выключайте устройство когда справа внизу вы видите иконку сохранения.
+186: Obtain <num(lnum2)> <plr_string(lstr1)> for <num(lnum1)> gratitude points?<key>
+186: Получить <num(lnum2)> <plr_string(lstr1)> за <num(lnum1)> очков благодарности?
+187: Unable to load Buildertopia. Returning to the Isle of Awakening.<key>
+187: Строетопию невозможно загрузить. Возвращаемся к Острову Пробуждения.
+188: Preparing to start the game...<br>Please do not exit the game or turn off the system.<key>
+188: Подготовка к запуску игры...<br>Пожалуйста, не выходите из игры и не выключайте систему.<key>
+189: An error occurred while trying to copy your data.<key>
+189: Во время копирования данных призошел сбой.<key>
+190: Please choose a slot to copy your save data to. <$cdef(224)>It may take some time to complete the process.</color><key>
+190: Пожалуйста, выберите слот для копирования данных. <$cdef(224)>Для завершения процесса потребуется время.</color><key>
+191: This slot already contains save data. It will be deleted if you copy other save data here. Are you sure you want to proceed?<key>
+191: Этот слот уже содержит данные сохранения. Они будут удалены при перезаписи. Вы точно хотите продолжить?<key>
+192: Are you sure you want to copy this save data? Your snapshots will not be copied.<key>
+192: Вы точно хотите копировать эти данные? Ваши снапшоты не будут скопированы.<key>
+193: Copying... (<num(lnum1)>/<num(lnum2)>)<br>Please do not exit the game or turn off the system.<key>
+193: Копирование... (<num(lnum1)>/<num(lnum2)>)<br>Пожалуйста, не выходите из игры и не вырубайте систему.
+194: Copied successfully!<key>
+194: Копирование произведено!<key>
+195: 
+195: 
+196: You can continue playing from where you left off in the DRAGON QUEST BUILDERS 2 Jumbo Demo.<key><br>Please select a slot to copy your data to.<key>
+196: Вы можете продолжить с момента, где вы закончили в DRAGON QUEST BUILDERS 2 Jumbo Demо.<key><br>Пожалуйста, выберите слот копирования данных.<key>
+197: Your save data from the Jumbo Demo will be copied to this slot. Is this okay?<key>
+197: Ваше сохранение из Jumbo Demo будет скопировано в этот слот. Вы согласны?<key>
+198: The password for <6><string(lstr1)><9> save data was successfully input.<key><br>Please choose a slot to save this data to. Deleted save data cannot be recovered.<key>
+198: Пароль к <6><string(lstr1)><9> был успешно введён.<key><br>Пожалуйста, выберите слот для сохранения. Удалённое сохранение нельзя будет спасти, хоть ты тресни.<key>
+199: Delete the existing data and create <6><string(lstr1)><9> save data? Deleted save data cannot be recovered.<key>
+199: Удалить существующее сохранение и создать <6><string(lstr1)><9>? Удалённое сохранение нельзя будет спасти, хоть ты тресни.<key>
+200: Create <6><string(lstr1)><9> save data?<key>
+200: Создать сохранение <6><string(lstr1)><9>?<key>
+201: Would you also like to copy the snapshots from your album? <$cdef(224)>Only the images themselves will be copied. All noticeboard-related information will be reset to default.</color><key>
+201: Вы бы хотели так же скопировать снапшоты в Ваш альбом? <$cdef(224)>Скопированы будут только сами изображения. Вся информация доски объявлений будет сброшена.</color><key>
+202: Please choose a slot to copy your save data and snapshots to. <$cdef(224)>It may take some time to complete the process.</color><key>
+202: Пожалуйста, выберите слот для копирования снапшотов. <$cdef(224)>Для завершения процесса придётся подождать.</color><key>
+203: Your album is full. The oldest snapshot in your album will be overwritten. Is this okay?<key>
+203: Ваш альбом переполнен. Самый старый снапшот в вашем альбоме будет перезаписан. Вы согласны?<key>
+204: Cancel password input and return to the title screen?<key>
+204: Отменить ввод пароля и вернуться к титульному экрану?<key>
+205: Copy this save data and associated snapshots?<key>
+205: Скопировать сохранение и снапшоты?<key>
+206: Deleted save data cannot be recovered. Are you sure you wish to proceed?<key>
+206: Удалённое сохранение не получится восстановить. Вы точно хотите продолжить?<key>
+207: All snapshots associated with this save data, including those uploaded via the noticeboard, will be deleted.<key><br>Deleted save data cannot be recovered. Are you sure you wish to proceed?<key>
+207: Все снапшоты связаные с этим сохранением, включая загруженые через доску объявлений будут безвозвратно удалены.<key><br>Вы точно хотите продолжить?<key>
+208: If you cancel now, your data will not be copied. Is this okay?<key>
+208: Если вы отмените, данные не будут скопированы. Всё в порядке?<key>
+209: That save data is corrupted and cannot be copied.<key>
+209: Это сохранение повреждено и не подлежит копированию.<key>
+210: Обнаружены данные сохранения из полной версии DRAGON QUEST BUILDERS 2.<key><br>Если вы откроете альбом снимков во время игры в Jumbo Demo, ваши данные на доске объявлений из полной версии игры будут перезаписаны данными из демо-версии. Это нормально?<key>
+210: Обнаружены данные сохранения из полной версии DRAGON QUEST BUILDERS 2.<key><br>Если вы откроете альбом снимков во время игры в Jumbo Demo, ваши данные на доске объявлений из полной версии игры будут перезаписаны данными из демо-версии. Это нормально?<key>
+211: Save data from the full version of DRAGON QUEST BUILDERS 2 has been detected.<key><br>If you open the snapshot album while playing the Jumbo Demo, your noticeboard data from the full version of the game may be overwritten with that from the demo version. Is this okay?<key>
+211: Обнаружены данные сохранения из полной версии DRAGON QUEST BUILDERS 2.<key><br>Если вы откроете альбом снимков во время игры в Jumbo Demo, ваши данные на доске объявлений из полной версии игры могут быть перезаписаны данными из демо-версии. Это нормально?<key>
+212: Save data from the DRAGON QUEST BUILDERS 2 Jumbo Demo has been detected.<key><br>If you proceed, your adventure will continue from where you left off in the demo, and your save data from the full version will be overwritten. Is this okay?<key>
+212: Обнаружены данные сохранения из DRAGON QUEST BUILDERS 2 Jumbo Demo.<key><br>Если вы продолжите, ваше приключение продолжится с того места, где вы остановились в демоверсии, а данные сохранения из полной версии будут перезаписаны. Это нормально?<key>
+213: Are you sure you want to reset the controls to their default settings?<key>
+213: Вы уверены, что хотите сбросить настройки элементов управления до значений по умолчанию?<key>
+214: Apply these settings? (Different actions are assigned to the same key so they may not function as intended.)<key>
+214: Применить эти настройки? (Разные действия назначены одной и той же клавише, поэтому они могут работать не так, как задумано.)<key>
+215: Save data from the DRAGON QUEST BUILDERS 2 Jumbo Demo has been detected.<key><br>If you proceed, your save data from the Jumbo Demo will be overwritten.<key><br><$cdef(224)>CAUTION! Only snapshots will be copied from your album; all associated noticeboard data will be fully reset.</color><key><br><$cdef(224)>If you wish to copy your snapshots along with their associated noticeboard data, please copy to Save Slot 1.</color> Is this okay?<key>
+215: Обнаружены данные сохранения из DRAGON QUEST BUILDERS 2 Jumbo Demo.<key><br>Если вы продолжите, ваши данные сохранения из Jumbo Demo будут перезаписаны.<key><br><$cdef(224)>ВНИМАНИЕ! Из вашего альбома будут скопированы только снимки; все связанные с ними данные доски объявлений будут полностью сброшены.</color><key><br><$cdef(224)>Если вы хотите скопировать свои снимки вместе с соответствующими данными доски объявлений, скопируйте их в слот сохранения 1.</color> Вы согласны?<key>
+216: Your save data from the Jumbo Demo will be copied to this slot.<key><br><$cdef(224)>CAUTION! Only snapshots will be copied from your album; all associated noticeboard data will be fully reset.</color><key><br><$cdef(224)>If you wish to copy your snapshots along with their associated noticeboard data, please copy to Save Slot 1.</color> Is this okay?<key>
+216: Ваши сохраненные данные из Jumbo Demo будут скопированы в этот слот.<key><br><$cdef(224)>ВНИМАНИЕ! Из вашего альбома будут скопированы только снимки; все связанные с ними данные доски объявлений будут полностью сброшены.</color><key><br><$cdef(224)>Если вы хотите скопировать свои снимки вместе с соответствующими данными доски объявлений, скопируйте их в слот сохранения 1.</color> Вы согласны?<key>
+217: Exit the game? Any unsaved progress will be lost.<key>
+217: Выйти из игры? Весь несохранённый прогресс будет утерян.<key>
+218: Вас устраивают эти настройки? (Выбор <6>Да<9> сохранит ваши настройки, но не ваш игровой прогресс.) Чтобы применить изменения, перезапустите игру.<key>
+218: Вас устраивают эти настройки? (Выбор <6>Да<9> сохранит ваши настройки, но не ваш игровой прогресс.) Чтобы применить изменения, перезапустите игру.<key>
+219: Not enough space to create save data. Please ensure you have enough free space before trying again.<key>
+219: Недостаточно места для создания сохраненных данных. Убедитесь, что у вас достаточно свободного места, прежде чем повторить попытку.<key>
+220: Failed to load save data.<key>
+220: Не удалось загрузить сохранение.<key>
+221: Not enough space to create save data. Please ensure you have enough free space before trying again.<key>
+221: Недостаточно места для создания сохранения. Пожалуйста, убедитесь что у Вас есть свободное место и повторите процедуру.<key>

@@ -1,0 +1,302 @@
+0: 
+0: 
+1: Sorry, but that message contains words that cannot be used.
+1: Извините, но это сообщение содержит слова, которые нельзя использовать.
+2: It's time to design your character!
+2: Пришло время создать своего персонажа!
+3: You receive the <string(lstr1)>.
+3: Вы получаете <string(lstr1)>.
+4: Sorry, but that name cannot be used.
+4: Извините, но это имя нельзя использовать.
+5: The Buggy Buggy gets some headlights!
+5: У багованого-багги теперь есть фары!
+6: 
+6: 
+7: <pname> and Malroth's level increases!
+7: Уровень <pname> и Малрота повышается!
+8: <pname>'s level increases!
+8: Уровень <pname> увеличивается!
+9: Please enter a name.
+9: Пожалуйста, введите имя.
+10: An infinite supply of <string(lstr1)><$cdef(244)><plr_string(lstr2)></color><br>is now available at the builder's workbenches!
+10: Бесконечный запас <string(lstr1)><$cdef(244)><plr_string(lstr2)></color><br> теперь доступен на строительских верстаках!
+11: You can now travel to <string(lstr1)>!
+11: Теперь вы можете путешествовать в <string(lstr1)>!
+12: <pname> upgrades the crafting station to <indef_sgl_string(lstr1)>!
+12: <pname> улучшает верстак до <indef_sgl_string(lstr1)>!
+13: <pname> learns more recipes!
+13: <pname> узнаёт больше рецептов!
+14: <pname> builds <indef_sgl_string(lstr1)>!
+14: <pname> строит <indef_sgl_string(lstr1)>!
+15: <pname> can now upgrade<br><morf(his,her)> crafting stations!
+15: <pname> теперь можно улучшать верстаки!
+16: <pname> obtains <indef_art(lstr2)><sgl_string(lstr2)>!
+16: <pname> получает <indef_art(lstr2)><sgl_string(lstr2)>!
+17: <pname> obtains <indef_art(lstr2)><sgl_string(lstr2)>!
+17: <pname> получает <indef_art(lstr2)><sgl_string(lstr2)>!
+18: <pname> obtains the <!
+18: <pname> получает <$cdef(244)>сумку</color>!
+19: <pname>'s <$cdef(244)>bag</color> just got bigger!
+19: <$cdef(244)>Сумка</color> <pname> увеличена!
+20: <pname> obtains<br>the <string(lstr1)><$cdef(244)><sgl_string(lstr2)></color>!
+20: <pname> получает<br> <string(lstr1)><$cdef(244)><sgl_string(lstr2)></color>!
+21: A new destination has been added to your map!<key>
+21: На вашу карту добавлен новый пункт назначения!<key>
+22: You get <num(lnum1)> <$cdef(245)>gratitude <IfSing(point,points)></color>!
+22: Вы получаете <num(lnum1)> <num(lnum1)> <$cdef(245)><IfSing(очко,очки)> благодарности</color>!
+23: You can now exchange <$cdef(245)>gratitude points</color><br>for the <sgl_string(lstr1)> recipe!
+23: Теперь вы можете обменять <$cdef(245)>очки благодарности</color><br>на <sgl_string(lstr1)> рецепт!
+24: <cap><def_sgl_string(lstr1)> and <def_sgl_string(lstr2)> have a baby!
+24: <cap><def_sgl_string(lstr1)> и <def_sgl_string(lstr2)> забабахали малыша!
+25: <pname> acquires a mini medal!
+25: <pname> получает мини-медаль!
+26: <pname> acquires <num(lnum1)> mini medals!
+26: <pname> получает <num(lnum1)> мини-медалей!
+27: You can now raise the level of your base!
+27: Теперь вы можете повысить уровень своей базы!
+28: <pname> learns a load of new recipes!
+28: <pname> узнает кучу новых рецептов!
+29: The residents awaken<br>to the benefits of building!
+29: Жители начинают<br>интересоватся благами строительства!
+30: The residents become skilled at tilling fields!
+30: Жильцы становятся умелыми пахарями!
+31: The residents become capable crop-waterers!
+31: Жители становятся способными поливать урожай!
+32: The residents become<br>specialists at sowing seeds!
+32: Жители становятся<br>специалистами по посеву семян!
+33: The residents are incredibly inspired to build!
+33: Жители невероятно вдохновлены на строительство!
+34: A few monsters awaken to<br>the benefits of building!
+34: Несколько монстров осознают<br>преимущества строительства!
+35: The residents become business owners!
+35: Жители становятся владельцами бизнеса!
+36: The residents want to help<br>construct the castle!
+36: Жители хотят помочь<br>соорудить замок!
+37: 
+37: 
+38: 
+38: 
+39: 
+39: 
+40: 
+40: 
+41: You can now make <num(lnum1)> <string(lstr1)><$cdef(244)><plr_string(lstr2)></color><br>in one go!
+41: Теперь вы можете делать <num(lnum1)> <num(lnum1)> <string(lstr1)><$cdef(244)><plr_string(lstr2)></color><br>за раз!
+42: You can now make <num(lnum1)> items in one go!
+42: Теперь вы можете создавать <num(lnum1)> вещей за  раз!
+43: <pname> safely stows <morf(his,her)> stuff<br>in the <$cdef(244)><$sgl_iname(661)></color>!
+43: <pname> безопасно складывает свои вещи<br>в <$cdef(244)><$sgl_iname(661)></color>!
+44: The royal guards learn a spell: Kabuff!
+44: Королевские гвардейцы изучают заклинание: Кабуфф!
+45: The population of <pname>'s base<br>just got a little bigger!
+45: Население базы <pname><br>только что увеличилось!
+46: <pname> activates the naviglobe!
+46: <pname> активирует навигационный шар!
+47: You learn the recipe for <string(lstr1)><$cdef(244)><plr_string(lstr2)></color>!
+47: Вы узнаёте рецепт <string(lstr1)><$cdef(244)><plr_string(lstr2)></color>!
+48: You receive <indef_art(lstr2)><string(lstr1)><$cdef(244)><sgl_string(lstr2)></color>!
+48: Вы получаете <indef_art(lstr2)><string(lstr1)><$cdef(244)><sgl_string(lstr2)></color>!
+49: The soldiers learn a new ability: Spinning Slice!
+49: Солдаты изучают новую способность: Кручёная нарезка!
+50: The healers can now restore more HP<br>every time they cast Multiheal!
+50: Целители теперь могут восстанавливать<br>больше здоровья каждый раз, когда они<br>заклинают Мультилечение!
+51: <pname> draws out <indef_art(lstr2)><string(lstr1)><$cdef(244)><sgl_string(lstr2)></color>!
+51: <pname> вытягивает <indef_art(lstr2)><string(lstr1)><$cdef(244)><sgl_string(lstr2)></color>!
+52: <pname>'s <string(lstr1)> increase by <num(lnum1)>!
+52: <string(lstr1)> <pname> возрастает на <num(lnum1)>!
+53: <cap><def_sgl_string(lstr1)> runs straight to the <string(lstr2)>!
+53: <cap><def_sgl_string(lstr1)> бежит прямо к <string(lstr2)>!
+54: <pname> retrieves <morf(his,her)> stuff<br>from the <$cdef(244)><$sgl_iname(661)></color>!
+54: <pname> получает свои вещи<br>от <$cdef(244)><$sgl_iname(661)></color>!!
+55: <cap><def_sgl_string(lstr1)> relocates to <string(lstr2)>!
+55: <cap><def_sgl_string(lstr1)> переезжает в <string(lstr2)>!
+56: <cap><def_sgl_string(lstr1)> leaves the island...
+56: <cap><def_sgl_string(lstr1)> покидает остров...
+57: <string(lstr1)>'s new name is <string(lstr2)>!
+57: Новое имя <string(lstr1)> - <string(lstr2)>!
+58: <cap><def_sgl_string(lstr1)> joins the party!
+58: <cap><def_sgl_string(lstr1)> теперь в команде!
+59: <cap><def_sgl_string(lstr1)> leaves the party!
+59: <cap><def_sgl_string(lstr1)> покидает команду!
+60: All the Tablet Targets are complete!
+60: Все цели планшетов выполнены!
+61: New targets materialise on the tablet!
+61: Новые цели материализуются на планшете!
+62: You can now add residents to the party!
+62: Теперь вы можете добавлять жителей в команду!
+63: Residents can now move between the<br>Isle of Awakening and their home island!
+63: Теперь жители могут перемещаться между<br>островом Пробуждения и родным островом!
+64: The residents want to till the fields!
+64: Жители хотят возделывать поля!
+65: The residents want to water the crops!
+65: Жители хотят поливать урожай!
+66: Your builder ID is now <string(lstr1)>!
+66: Ваш ID строителя сейчас <string(lstr1)>!
+67: <pname> remembers all the recipes<br><morf(he,she)> learnt on Furrowfield!
+67: <pname> вспоминает все рецепты,<br>которые <morf(он изучил,она изучила)> в Фурроуфилде!
+68: <pname> remembers all the recipes<br><morf(he,she)> learnt on Khrumbul-Dun!
+68: <pname> вспоминает все рецепты,<br>которые <morf(он изучил,она изучила)> в Крамбл-дане!
+69: <pname> remembers all the recipes<br><morf(he,she)> learnt on Moonbrooke!
+69: <pname> вспоминает все рецепты,<br>которые <morf(он изучил,она изучила)> в Мунбруке!
+70: <pname> remembers all the recipes<br><morf(he,she)> learnt on Malhalla!
+70: <pname> вспоминает все рецепты,<br>которые <morf(он изучил,она изучила)> в Мальгалле!
+71: <pname> learns a few new recipes!
+71: <pname> узнает несколько новых рецептов!
+72: <pname> receives <indef_art(lstr2)><string(lstr1)><$cdef(244)><sgl_string(lstr2)></color>!
+72: <pname> получает <indef_art(lstr2)><string(lstr1)><$cdef(244)><sgl_string(lstr2)></color>!
+73: <pname> catches <morf(his,her)> first <sgl_string(lstr1)>!
+73: <pname> ловит свою первую <sgl_string(lstr1)>!
+74: Residents can now move between the<br>Isle of Awakening and Buildertopia!
+74: Теперь жители могут перемещаться между<br>островом Пробуждения и Стройтопией!
+75: <pname> learns the recipe for <string(lstr1)><$cdef(244)><plr_string(lstr2)></color>!
+75: <pname> изучает рецепт <string(lstr1)><$cdef(244)><plr_string(lstr2)></color>!
+76: You can now rename residents you've<br>brought back from Explorer's Shores!
+76: Теперь вы можете переименовывать жителей,<br>которых вы вернули с Исследовательских земель!
+77: <string(lstr1)>'s new name is <string(lstr2)>!
+77: Новое имя <string(lstr1)> - <string(lstr2)>!
+78: <string(lstr1)>'s new name is <string(lstr2)>!
+78: Новое имя <string(lstr1)> - <string(lstr2)>!
+79: <pname> obtains <num(lnum1)> <plr_string(lstr2)>!
+79: <pname> получает <num(lnum1)> <plr_string(lstr2)>!
+80: Malroth obtains <indef_art(lstr2)><string(lstr1)><$cdef(244)><sgl_string(lstr2)></color>!
+80: Малрот получает <indef_art(lstr2)><string(lstr1)><$cdef(244)><sgl_string(lstr2)></color>!
+81: 
+81: 
+82: 
+82: 
+83: 
+83: 
+84: 
+84: 
+85: 
+85: 
+86: 
+86: 
+87: 
+87: 
+88: 
+88: 
+89: 
+89: 
+90: 
+90: 
+91: 
+91: 
+92: 
+92: 
+93: 
+93: 
+94: 
+94: 
+95: 
+95: 
+96: 
+96: 
+97: 
+97: 
+98: 
+98: 
+99: 
+99: 
+100: 
+100: 
+101: 
+101: 
+102: 
+102: 
+103: 
+103: 
+104: 
+104: 
+105: 
+105: 
+106: 
+106: 
+107: 
+107: 
+108: 
+108: 
+109: 
+109: 
+110: 
+110: 
+111: 
+111: 
+112: 
+112: 
+113: 
+113: 
+114: 
+114: 
+115: 
+115: 
+116: 
+116: 
+117: 
+117: 
+118: 
+118: 
+119: 
+119: 
+120: 
+120: 
+121: 
+121: 
+122: 
+122: 
+123: 
+123: 
+124: 
+124: 
+125: 
+125: 
+126: 
+126: 
+127: 
+127: 
+128: 
+128: 
+129: 
+129: 
+130: 
+130: 
+131: 
+131: 
+132: 
+132: 
+133: 
+133: 
+134: 
+134: 
+135: 
+135: 
+136: 
+136: 
+137: 
+137: 
+138: 
+138: 
+139: 
+139: 
+140: 
+140: 
+141: 
+141: 
+142: 
+142: 
+143: 
+143: 
+144: 
+144: 
+145: 
+145: 
+146: 
+146: 
+147: 
+147: 
+148: 
+148: 
+149: 
+149: 
+150: 
+150: 

@@ -1,0 +1,465 @@
+0: 
+0: 
+0: 0
+1: 
+1: 
+1: 5
+2: Ahoy, <pname>! Where will ye be haulin' anchor to today?<key>
+2: Эгегей, <pname>! Где сегодня бросим якоря?<key>
+2: 5
+3: Yarrr, sorry, <pname>. Me vessel's scuppered in dock for the time bein'. I can't take her out just now.<key>
+3: Яррр, прости,<pname>. Моя посудина  застряла в доке. Я не могу вытащить её сейчас.<key>
+3: 5
+4: Setting sail for <sgl_string(lstr1)>. If you choose to continue, your save data will be overwritten and your autosave deleted. Is this okay?<key>
+4: Отметка на карте - <sgl_string(lstr1)>. Если вы решите продолжить, ваши данные сохранения будут перезаписаны, а ваше автосохранение удалено. Вы согласны?<key>
+4: 5
+5: All aboard for a trip abroad! Time to set sail!<key>
+5: Все на борт! Плывём на дальние земли!<key>
+5: 5
+6: But I must warn ye<-->this vessel ain't built for chuggin' cargo. Ye'll have to leave behind everythin' ye gathered here, an' fish for more materials back on the Isle of Awakenin'.<key>
+6: Но я должен предупредить, <-->что это судно не для перевозки груза. Придется оставить всё здешнее здесь, а материалы добыть на Острове Пробуждения.<key>
+6: 5
+7: 
+7: 
+7: 5
+8: Thar she blows! We sail for home! Yarrr!<key>
+8: Караул! Мы плывем домой! Яррр!<key>
+8: 5
+9: Yarrr? Yer mind changes like the tide, I see. No bother, just chat me up again when ye're ready to leave.<key>
+9: Яррр? Мнение меняется, как прилив? Ясно... Не волнуйся, когда захочешь, подходи ко мне.<key>
+9: 5
+10: Stow yer valuables in the bag on the dock, if ye please. I ain't insured for loss o' me passengers' personal effects.<key>
+10: Положите ценные вещи в сумку на причале, если хотите. Я не застрахован от потери личных вещей пассажиров.<key>
+10: 5
+11: 
+11: 
+11: 0
+12: 
+12: 
+12: 0
+13: 
+13: 
+13: 0
+14: 
+14: 
+14: 0
+15: 
+15: 
+15: 0
+16: <off><pname>... This is no time to conk-conk-conk out. Now, open your eyes!<key>
+16: <off><pname>... Не время для дрё-дрё-дрё... дрёма. Протри глаза!<key>
+16: 0
+17: Oi, <pname>! Wake up! Stop playing around!<key>
+17: Ой,<pname>! Проснись! Хватит уже!<key>
+17: 0
+18: 
+18: 
+18: 0
+19: 
+19: 
+19: 0
+20: 
+20: 
+20: 0
+21: 
+21: 
+21: 0
+22: 
+22: 
+22: 0
+23: 
+23: 
+23: 0
+24: 
+24: 
+24: 0
+25: Stay with me, <pname>! Can you open your eyes? Easy does it...<key>
+25: Останься со мной, <pname>! Можешь открыть глаза? Эй...<key>
+25: 0
+26: 
+26: 
+26: 0
+27: 
+27: 
+27: 0
+28: 
+28: 
+28: 0
+29: 
+29: 
+29: 0
+30: Thar she blows! We sail for <sgl_string(lstr1)>! Ye'll not be able to bring any more builders on deck while ye're away from the Isle of Awakenin'. Is that alright with ye?<key>
+30: Караул! Мы плывем к <sgl_string(lstr1)>! Нельзя привести больше строителей на палубу, пока ты вдали от Острова Пробуждения. Тебя это устраивает?<key>
+30: 5
+31: Ho ho ho! Have the mini medals tick-tick-tickled your fancy?<key>
+31: Хо-хо-хо! Мини-медали при-при-при... пришлись тебе по нраву?<key>
+31: 348
+32: It's good to know we share a com-com-common interest. You see, I'm rather an avid collector of mini medals. I'll even swap-swap-swap them for my treasures!<key>
+32: Приятно знать, что у нас общи-щи-щиие интересы. Знаешь, а я довольно заядлый коллекционер мини-медалей. Я даже их на свои сокровища обменяю! Хе-хе.<key>
+32: 348
+33: (sniff sniff) Unless I'm mistaken, that's the unmistakable whiff-whiff-whiff of mini medals! Let's see now...<key>
+33: (шмыг-шмыг) Если я не ошибаюсь, это ку-ку... кучка мини-медалей! Посмотрим...<key>
+33: 348
+34: <pname> receives <indef_sgl_string(lstr2)>!<key>
+34: <pname> получает <indef_sgl_string(lstr2)>!<key>
+34: 348
+35: 
+35: 
+35: 348
+36: 
+36: 
+36: 348
+37: Yarrr? Seems to me ye've left somethin' in the storage sack. I'm a stickleback for keepin' organised, so I refuse to accept anythin' else from ye!<key><br>Go and grab yer stuff, will ye? I'll be cuttin' no jib until ye do!<key>
+37: Яррр? Мне кажется, ты что-то оставил(а) в мешке. Я человек организованный, едрить его налево! Потому - соответствуй!<key><br>Иди давай за вещами! А ни то, нам с тобой не по одной волне!<key>
+37: 5
+38: Where's yer second mate, Malroth? Ye ain't thinkin' o' leavin' him behind, are ye? Go and keelhaul the blighter back here!<key>
+38: Где твой второй другалёк, Малрот? Ты же не думаешь, оставить его позади, а? Тащи сюда этого недомерка!<key>
+38: 5
+39: Ho ho ho! You've got-got-got a mini medal there, I see! I'll take that, if you don't mind!<key>
+39: Хо-хо-хо! Вижу, у тебя есть мини-медаль! Я возьму, если не возражаешь!<key>
+39: 348
+40: But I must warn ye<-->this vessel ain't built for chuggin' cargo. Ye'll have to leave behind everythin' ye gathered here, an' fish for more materials when we reach our destination.<key>
+40: Но я должен предупредить тебя, <-->что это судно построено не для перевозки груза. Тебе придётся оставить всё, что ты собрал(а) здесь, ты сможешь собрать ещё, когда мы доплывём до места назначения.<key>
+40: 5
+41: <pname>... Are ye truly contemplatin' settin' sail on the Eleventy Seas without yer trusty mallet?<key><br>Yarrr, I can't be lettin' ye behave so irresponsibly! Come back when ye've equipped a hammer like a proper builder!<key>
+41: <pname>... Ты точто хочешь отплыть в Одинадцать морей без своего верного молотка?<key><br>Яррр, я не могу позволить тебе вести себя так безответственно! Возвращайся, когда экипируешь молоток, как настоящий строитель!<key>
+41: 5
+42: Stow yer valuables in the bag on the dock, if ye please. I ain't insured for loss o' me passengers' personal effects.<key><br>Speakin' o' which<-->ye 'aven't left a <$cdef(244)>magic pencil sketch</color> on the ground, 'ave ye? Ye'll not want to leave that behind!<key>
+42: Положи ценные вещи в сумку на причале, если хочешь. Я не застрахован от потери личных вещей пассажиров.<key><br>А, кстати<-->ты не оставила <$cdef(244)>скетч волшебного карандаша</color> на земле? Тебе не нужно это терять!<key>
+42: 5
+43: Yarrr? Ye haven't left a <$cdef(244)>magic pencil sketch</color> on the ground, have ye? Ye'll not want to leave that behind!<key>
+43: Положи ценные вещи в сумку на причале, если хочешь. Я не застрахован от потери личных вещей пассажиров.<key><br>А, кстати<-->ты не оставила <$cdef(244)>скетч волшебного карандаша</color> на земле? Тебе не нужно это терять!<key>
+43: 5
+44: For hitt-hitt-hitting <num(lnum1)> <IfSing(medal,medals)>, I'll give you <indef_sgl_string(lstr2)>!<key>
+44: За сбо-сбо-сбор <num(lnum1)> <IfSing(медали,медалей)>, я дам тебе <indef_sgl_string(lstr2)>!<key>
+44: 348
+45: As things stand-stand-stand, you've brought me <num(lnum1)> mini medal.<key>
+45: Сей-сей-сейчас, ты принес(ла) мне <num(lnum1)> мини-медаль.<key>
+45: 348
+46: Make that <num(lnum1)>, and I'll give-give-give you <indef_sgl_string(lstr2)>! Wouldn't that be nice-nice-nice?<key>
+46: Набери <num(lnum1)>, и я дам-дам-дам тебе <indef_sgl_string(lstr2)>! Разве не класс-класс-класс?<key>
+46: 348
+47: You don't seem to have any mini medals on you at the min-min-minute. Not to worry! Seeing as you're here, why don't you check-check-check out my treasures?<key>
+47: Кажется, у тебя нет мини-медалей. Не волнуйся! Учитывая, что ты здесь, почему бы тебе не про-про-проверить мои сокровища?<key>
+47: 348
+48: You alright, <pname>? Open yer eyes, if ya can. There we go...<key>
+48: Ты в порядке, <pname>? Открой глаза, если можешь. Вот так...<key>
+48: 0
+49: Oh my days! <pname>! Are you alright? Speak to me!<key>
+49: Ой, надо же! <pname>! Ты в порядке? Поговори со мной!<key>
+49: 0
+50: Please, <pname>, don't do this to me! Open your eyes! Please!<key>
+50: Пожалуйста, <pname>, не делай этого со мной! Открой глаза! Пожалуйста!<key>
+50: 0
+51: Come now, <pname>! We cannot have you collapsing! Pick yourself up, dust yourself down, and apply yourself with a little more vigour!<key>
+51: Ну же, <pname>! Мы не можем допустить твоей отключки! Возьми себя в руки, не закрывай глаза!<key>
+51: 0
+52: You got с, <pname>. Can you open your eyes for me?<key>
+52: Ты плюхнулся на живот, <pname>. Можешь открыть глаза?<key>
+52: 0
+53: <pname>, I can feel you slipping away from me... Please, open your eyes. Come back to us!<key>
+53: <pname>, Я чувствую, как ты ускользаешь от меня... Пожалуйста, открой глаза. Вернитесь к нам!<key>
+53: 0
+54: Are ye tryin' to swindle me, ye lairy lunkfish? Ye ain't got the hearties to pay for that trip!<key>
+54: Ты пытаешься обмануть меня, молочная рыбка? У тебя не хватит смелости заплатить за проезд!<key>
+54: 5
+55: It'll cost ye <num(lnum1)><string(lstr1)> points to plot a course to <sgl_string(lstr2)>. Is that okay with ye?<key>
+55: Это обойдётся тебе в <num(lnum1)><string(lstr1)> очков, чтобы проложить курс к <sgl_string(lstr2)>. Ты не против, а?<key>
+55: 5
+56: Thar she blows! Now ye can set sail for <sgl_string(lstr1)> any time ye like.<key>
+56: Вот так! Теперь можешь отплыть в <sgl_string(lstr1)>, в любое время, когда захочешь.<key>
+56: 5
+57: <pname>... I can't let ye board me vessel while ye're carryin' blocks an' whatnot with yer <$iicon(395)><$cdef(244)><$sgl_iname(395)></color>.<key><br>Ye can try to hide it from me, but someone's definitely carryin' somethin'<-->if it ain't ye, it must be one o' yer mateys!<key><br>Everyone'll need their hands free for trimmin' the jib and splicin' the sheets, so make sure ye drop everythin' before ye hop aboard.<key>
+57: <pname>... Я не могу позволить тебе сесть на мое судно, пока ты несешь блоки.  <$iicon(395)><$cdef(244)><$sgl_iname(395)></color>.<key><br>Можешь попытаться скрыть это от меня, но кто-то определенно несет что-то <-->если это не ты, это должен быть один из твоих друзей !<key><br>Всем понадобятся свободные руки для поднятия якорей и нарезания ткани, поэтому убедись, что у тебя в карманах пусто, прежде чем сигать на борт.<key>
+57: 5
+58: Yarrr! We've certainly got a choppy situation on our hands, <pname>! We better head off to another island an' lie over till this all blows low.<key><br>Just point to where ye want to go on the map, and I'll guess a course!<key>
+58: Яррр! У нас определенно неспокойная ситуация, <pname>! Нам лучше отправиться на другой остров и лечь, пока все это не упадет.<key><br>Просто укажи, куда ты хочешь плыть на карте, и я соображу курс !<key>
+58: 5
+59: Right, then! Get yer hands on deck, an' I'll set sail!<key>
+59: Хорошо, тогда! Поднимите руки на палубу, я отплываю!<key>
+59: 5
+60: Excuse me! You seem to have left something in that storage bag. You can't just go away and expect me to tidy up after you.<key><br>You have to take everything out first. I shan't allow you to leave before you do!<key>
+60: Извините! Похоже, вы что-то оставили в сумке для хранения. Ты не можешь просто уйти и ожидать, что я приберусь за тобой.<key><br>Вы должны сначала все вытащить. Я не позволю тебе уйти раньше, чем ты это сделаешь!<key>
+60: 14
+61: *: What do you think you're playing at, builder? This is no time for a nap! Get up and get back to work, lazybones!<key>
+61: *: Ты кого из себя строишь, строитель? Сейчас не время для сна! Вставай и возвращайся к работе, лентяй!<key>
+61: 0
+62: Don't fright-fright-frighten me like that, <pname>! Anyway, you're safe now. Open your eyes...<key>
+62: Не пугай-пугай меня так,<pname>! В любом случае, теперь ты в безопасности. Открой глаза...<key>
+62: 0
+63: Yarrr, the demo ends here, young builder! If ye adventured this far, perhaps ye'd be interested in the full version o' the game. Just don't think about piratin' it!<key>
+63: Яррр, на этом демо заканчивается, молодой строитель! Если вы зашли так далеко, возможно, вам интересна полная версия игры. Только не качайте пиратку!<key>
+63: 5
+64: Ahoy there, <pname>. Will ye be returnin' to the Isle of Awakenin'?<key>
+64: Эй, <pname>ты вернешьсяна Остров Пробуждения?<key>
+64: 5
+65: The Explorer's Shores are mystical lands that shift and change after every visit. If ye've left somethin' behind, it won't be here when ye come back.<key><br>Are ye sure ye want to be returnin' to the Isle of Awakenin'?<key>
+65: Берега Исследователя - это мистические земли, которые меняются и меняются после каждого посещения. Если вы что-то оставили, его не будет здесь, когда вы вернетесь.<key><br>Вы уверены, что хотите вернуться на Остров Пробуждения?<key>
+65: 5
+66: A Buildertopia's a place where ye're free to build absolutely whatever ye want!<key><br>Once ye choose the <$cdef(244)>size</color> and <$cdef(244)>type</color> of island, I'll scour the Eleventy Seas for a land that fits that description.<key>
+66: Строетопия - это место, где вы можете строить абсолютно все, что захотите!<key><br>Как только вы выберете <$cdef(244)>размер</color> и <$cdef(244)>тип</color> я обыщу одинадцать морей в поисках земли, которая соответствует этому описанию.<key>
+66: 5
+67: Yarrr! Ye can choose to visit the Buildertopia ye already own, or I can search for a new one. So, what'll it be?<key>
+67: Яррр! Вы можете посетить Строетопию, которая у вас уже есть, или я могу найти новую. Итак, что это будет?<key>
+67: 5
+68: Thar she blows! I think I know an island that fits yer description. Are ye ready to set sail?<key>
+68: Свистать всех наверх! Кажется, я знаю остров, который подходит под твоё описание. Готов(а) отправиться в плавание?<key>
+68: 5
+69: Yarrr? Changed yer mind, have ye? In that case, I'll forget yer request. Is that alright with ye?<key>
+69: Яррр? Ты передумал? В таком случае, я забуду вашу просьбу. Тебя это устраивает?<key>
+69: 5
+70: Yarrr, I must warn ye, I can only remember the route to one o' these Buildertopias at a time. If I search for a new one, I'll forget where I put the other! Is that alright with ye?<key>
+70: Яррр, я должен предупредить тебя, я могу вспомнить только маршрут к одной из этих строетопий за раз. Если я буду искать новый, я забуду, куда положил другой! Тебя это устраивает?<key>
+70: 5
+71: I can search for islands as many times as ye like, but I'm sure ye're champin' at the jib to visit one right now! Tell me what kind of island ye want, an' I'll check me charts.<key>
+71: Я могу искать острова столько раз, сколько вам нравится, но я уверен, что выготовы посетить один из них прямо сейчас! Скажите мне, какой остров вам нужен, и я проверю свои карты.<key>
+71: 5
+72: A little seabird told me that Buildertopias now have a password feature that'll take ye to an identical island out in the ocean green!<key><br>If ye tell this secret password to other builders, they'll be able to visit an exact copy of that blocky rock!<br><key>
+72: Маленькая морская птичка напела мне, что в строетопиях теперь есть функция пароля, которая перенесет вас на идентичный остров в зеленом океане!<key><br>Если вы сообщите этот секретный пароль другим строителям, они смогут посетить точную копию этого мира!<br><key>
+72: 5
+73: For reaching the <num(lnum1)>-medal mark-mark-mark, I'll teach you to make <plr_string(lstr2)>!<key>
+73: За достижение <num(lnum1)> медалей, я научу тебя делать <plr_string(lstr2)>!<key>
+73: 348
+74: Ho ho ho! You've got-got-got <num(lnum1)> mini medals there, I see! I'll take them, if you don't mind!<key>
+74: Хо-хо-хо! Вижу, у тебя <num(lnum1)> мини-медалек! Я возьму их, если ты не возражаешь!<key>
+74: 348
+75: As things stand-stand-stand, you've brought me a total of <num(lnum1)> mini medals.<key>
+75: Пока-ка-ка что, я получил от тебя <num(lnum1)> мини-медалек.<key>
+75: 348
+76: Make that <num(lnum1)>, and I'll give-give-give you <indef_sgl_string(lstr2)>! Wouldn't that be nice-nice-nice?<key>
+76: Набери <num(lnum1)>, и я дам-дам-дай тебе <indef_sgl_string(lstr2)>! Разве это не ми-ми-мило?<key>
+76: 348
+77: Make that <num(lnum1)>, and I'll teach-teach-teach you the recipe for <plr_string(lstr2)>! Wouldn't that be nice-nice-nice?<key>
+77: Набери <num(lnum1)>, и я дам-дам-дай тебе <indef_sgl_string(lstr2)>! Разве это не ми-ми-мило?<key>
+77: 348
+78: Набери <num(lnum1)>, и я научу тебя <plr_string(lstr2)>! Wouldn't that be nice-nice-nice?<key>
+78: Набери <num(lnum1)>, и я научу-научу-научу тебя рецепту <plr_string(lstr2)>! Разве это не было бы ми-ми-мило?<key>
+78: 348
+79: 
+79: 
+79: 0
+80: 
+80: 
+80: 0
+81: 
+81: 
+81: 0
+82: 
+82: 
+82: 0
+83: 
+83: 
+83: 0
+84: 
+84: 
+84: 0
+85: 
+85: 
+85: 0
+86: 
+86: 
+86: 0
+87: 
+87: 
+87: 0
+88: 
+88: 
+88: 0
+89: 
+89: 
+89: 0
+90: 
+90: 
+90: 0
+91: 
+91: 
+91: 0
+92: 
+92: 
+92: 0
+93: 
+93: 
+93: 0
+94: 
+94: 
+94: 0
+95: 
+95: 
+95: 0
+96: 
+96: 
+96: 0
+97: 
+97: 
+97: 0
+98: 
+98: 
+98: 0
+99: 
+99: 
+99: 0
+100: 
+100: 
+100: 0
+101: 
+101: 
+101: 0
+102: 
+102: 
+102: 0
+103: 
+103: 
+103: 0
+104: 
+104: 
+104: 0
+105: 
+105: 
+105: 0
+106: 
+106: 
+106: 0
+107: 
+107: 
+107: 0
+108: 
+108: 
+108: 0
+109: 
+109: 
+109: 0
+110: 
+110: 
+110: 0
+111: 
+111: 
+111: 0
+112: 
+112: 
+112: 0
+113: 
+113: 
+113: 0
+114: 
+114: 
+114: 0
+115: 
+115: 
+115: 0
+116: 
+116: 
+116: 0
+117: 
+117: 
+117: 0
+118: 
+118: 
+118: 0
+119: 
+119: 
+119: 0
+120: 
+120: 
+120: 0
+121: 
+121: 
+121: 0
+122: 
+122: 
+122: 0
+123: 
+123: 
+123: 0
+124: 
+124: 
+124: 0
+125: 
+125: 
+125: 0
+126: 
+126: 
+126: 0
+127: 
+127: 
+127: 0
+128: 
+128: 
+128: 0
+129: 
+129: 
+129: 0
+130: 
+130: 
+130: 0
+131: 
+131: 
+131: 0
+132: 
+132: 
+132: 0
+133: 
+133: 
+133: 0
+134: 
+134: 
+134: 0
+135: 
+135: 
+135: 0
+136: 
+136: 
+136: 0
+137: 
+137: 
+137: 0
+138: 
+138: 
+138: 0
+139: 
+139: 
+139: 0
+140: 
+140: 
+140: 0
+141: 
+141: 
+141: 0
+142: 
+142: 
+142: 0
+143: 
+143: 
+143: 0
+144: 
+144: 
+144: 0
+145: 
+145: 
+145: 0
+146: 
+146: 
+146: 0
+147: 
+147: 
+147: 0
+148: 
+148: 
+148: 0
+149: 
+149: 
+149: 0
+150: 
+150: 
+150: 0
+151: 
+151: 
+151: 0
+152: 
+152: 
+152: 0
+153: 
+153: 
+153: 0
+154: 
+154: 
+154: 0

@@ -1,0 +1,2438 @@
+0: 
+0: 
+1: Y1s
+1: Да
+2: No
+2: Нет
+3: Type <num(lnum1)>
+3: Тип <num(lnum1)>
+4: <button(BLUEPRINT_COPY)>Change Type <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+4: <button(BLUEPRINT_COPY)>Изменить тип <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+5: <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+5: <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+6: Total Crafted
+6: Всего создано
+7: Total Acquired
+7: Всего получено
+8: 
+8: 
+9: Total Defeated
+9: Всего поражений
+10: Total Built
+10: Всего построено
+11: Total Discovered
+11: Всего обнаружено
+12: <button(MENU_LEFT)><button(MENU_RIGHT)>Change
+12: <button(MENU_LEFT)><button(MENU_RIGHT)>Изменить
+13: <button(ACCESS)>Build
+13: <button(ACCESS)>Соорудить
+14: <button(ACCESS)>Cancel
+14: <button(ACCESS)>Отмена
+15: <button(ACCESS)>Collect
+15: <button(ACCESS)>Собрать
+16: 
+16: 
+17: Connects when placed adjacently.
+17: Соеденяются, если поставить рядом.
+18: Can be made with:
+18: Можно создать из:
+19: <button(ACCESS)>Cook
+19: <button(ACCESS)>Стряпать
+20: Place Object/Use Tool Controls
+20: Расположите объект/используйте управление инструментом
+21: Camera Movement (Horizontal)
+21: Перемещение камеры (горизонтальное)
+22: (Vertical)
+22: (вертикальное)
+23: Show Character Outline
+23: Показать контур символа
+24: Vibration
+24: Вибрация
+25: Network Connection
+25: Сетевое подключение
+26: Music
+26: Музыка
+27: Sound Effects
+27: Звуковые эффекты
+28: Message Speed
+28: Скорость сообщения
+29: Restore Default Settings
+29: Восстановить настройки по умолчанию
+30: Confirm
+30: Подтвердить
+31: <button(USE_DEFALT)>Place Item <button(R2)>Use Tool
+31: <button(USE_DEFALT)>Разместить предмет <button(R2)>Использ. инструмент
+32: <button(R2)>Place Item <button(USE_DEFALT)>Use Tool
+32: <button(R2)>Разместить предмет <button(USE_DEFALT)>Использ. инструмент
+33: Normal
+33: Обычный
+34: Inverted
+34: Инвертированный
+35: On
+35: Вкл
+36: Off
+36: Выкл.
+37: Enormous
+37: Огромный
+38: ★
+38: ★
+39: ★★
+39: ★★
+40: <string(lstr1)><string(lstr2)><string(lstr3)><string(lstr4)><button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+40: <string(lstr1)><string(lstr2)><string(lstr3)><string(lstr4)><button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+41: <button(MENU_LEFT)><button(MENU_RIGHT)>Change Category<nbsp>
+41: <button(MENU_LEFT)><button(MENU_RIGHT)>Изменить категорию<nbsp>
+42: Focus
+42: Фокус
+43: Gender
+43: Пол
+44: Description
+44: Описание
+45: 
+45: 
+46: Current Location
+46: Текущая локация
+47: Small
+47: Маленький
+48: 
+48: 
+49: Large
+49: Большой
+50: <button(ACCESS)>Open
+50: <button(ACCESS)>Открыть
+51: <button(ACCESS)>Talk
+51: <button(ACCESS)>Болтать
+52: <button(ACCESS)>Examine
+52: <button(ACCESS)>Осмотреть
+53: <button(USE)>Use
+53: <button(USE)>Использовать
+54: <button(ACCESS)>Build
+54: <button(ACCESS)>Строить
+55: <button(ACCESS)>Collect
+55: <button(ACCESS)>Собрать
+56: <button(ACCESS)>Collect
+56: <button(ACCESS)>Собрать
+57: <button(ACCESS)>Sleep
+57: <button(ACCESS)>Спать
+58: <button(ACCESS)>Open
+58: <button(ACCESS)>Открыть
+59: <button(ACCESS)>Open
+59: <button(ACCESS)>Открыть
+60: <button(ACCESS)>Open
+60: <button(ACCESS)>Открыть
+61: <button(ACCESS)>Look Inside
+61: <button(ACCESS)>Заглянуть внутрь
+62: 
+62: 
+63: <button(ACCESS)>Open
+63: <button(ACCESS)>Открыть
+64: 
+64: 
+65: 
+65: 
+66: <button(ACCESS)>Display
+66: <button(ACCESS)>Отобразить
+67: <button(ACCESS)>Display
+67: <button(ACCESS)>Отобразить
+68: <button(ACCESS)>Open
+68: <button(ACCESS)>Открыть
+69: <button(ACCESS)>Use
+69: <button(ACCESS)>Использовать
+70: 
+70: 
+71: <button(ACCESS)>Push
+71: <button(ACCESS)>Толкать
+72: <button(ACCESS)>Sit
+72: <button(ACCESS)>Сесть
+73: <button(ACCESS)>Use
+73: <button(ACCESS)>Использовать
+74: <button(ACCESS)>Carry
+74: <button(ACCESS)>Нести
+75: <button(ACCESS)>Put Down<nbsp>
+75: <button(ACCESS)>Положить<nbsp>
+76: <button(ACCESS)>Lay Down
+76: <button(ACCESS)>Положить
+77: <button(ACCESS)>Read
+77: <button(ACCESS)>Читать
+78: <button(ACCESS)>Write
+78: <button(ACCESS)>Писать
+79: <button(USE)>Give
+79: <button(USE)>Дать
+80: 
+80: 
+81: <button(USE)>Give to Malroth
+81: <button(USE)>Отдать Малроту
+82: <button(ACCESS)>Get Up
+82: <button(ACCESS)>Подняться
+83: 
+83: 
+84: <button(ACCESS)>Rest
+84: <button(ACCESS)>Отдохнуть
+85: <button(ACCESS)>Inspect
+85: <button(ACCESS)>Осмотр
+86: <string(lstr1)> <button(ACCESS)>Stroke
+86: <string(lstr1)> <button(ACCESS)>Погладить
+87: <button(ACCESS)>Close
+87: <button(ACCESS)>Закрыть
+88: 
+88: 
+89: 
+89: 
+90: {K}<button(MOUSE_WHEEL_PUSH)>Select {E}<button(ITEM_HELP)>Hide/Show Description <button(EQUIP)>Equip <button(ITEM_SORT)>Tidy Up
+90: {K}<button(MOUSE_WHEEL_PUSH)>Выбор {E}<button(ITEM_HELP)>Скрыть/Показать описание <button(EQUIP)> <button(ITEM_SORT)>Навести порядок
+91: {K}<button(MOUSE_WHEEL_PUSH)>Select {E}<button(ITEM_HELP)>Hide/Show Description <button(ALL_PUTAWAY)>Put Away All <button(ITEM_SORT)>Tidy Up
+91: {K}<button(MOUSE_WHEEL_PUSH)>Выбор {E}<button(ITEM_HELP)>Скрыть/Показать описание <button(ALL_PUTAWAY)> <button(ITEM_SORT)>Навести порядок
+92: {K}<button(MOUSE_WHEEL_PUSH)>Select {E}<button(ITEM_HELP)>Hide/Show Description <button(EQUIP)>Equip <button(ALL_PUTAWAY)>Put Away All <button(ITEM_SORT)>Tidy Up
+92: {K}<button(MOUSE_WHEEL_PUSH)>Выбор {E}<button(ITEM_HELP)>Скрыть/Показать Описание <button(EQUIP)>Надеть <button(ALL_PUTAWAY)> <button(ITEM_SORT)>Навести порядок
+93: {K}<button(MOUSE_WHEEL_PUSH)>Select {E}<button(ITEM_HELP)>Hide/Show Description <button(NO_EQUIP)>Remove
+93: {K}<button(MOUSE_WHEEL_PUSH)>Выбор {E}<button(ITEM_HELP)>Скрыть/показать описание <button(NO_EQUIP)>Убрать
+94: {K}<button(MOUSE_WHEEL_PUSH)>Select {E}<button(ITEM_HELP)>Hide/Show Description <button(ALL_GETOUT)>Take Out All <button(ITEM_SORT)>Tidy Up
+94: {K}<button(MOUSE_WHEEL_PUSH)>Выбор {E}<button(ITEM_HELP)>Скрыть/Показать описание <button(ALL_GETOUT)> <button(ITEM_SORT)>Навести порядок
+95: {K}<button(MOUSE_WHEEL_PUSH)>Select {E}<button(ITEM_HELP)>Hide/Show Description <button(EQUIP)>Equip <button(ALL_GETOUT)>Take Out All <button(ITEM_SORT)>Tidy Up
+95: {K}<button(MOUSE_WHEEL_PUSH)>Выбор {E}<button(ITEM_HELP)>Скрыть/Показать описание <button(EQUIP)>Надеть <button(ALL_GETOUT)>Убрать всё <button(ITEM_SORT)>Навести порядок
+96: {P}<button(MENU_LEFT)><button(MENU_RIGHT)>Move Cursor <button(WINDOW_PREV)><button(WINDOW_NEXT)>Standard/Special Characters <button(START)>Finish <button(MAKE_NAME_RETURN)>Previous Screen <button(OK)>Select <button(CANCEL)>Delete{E}{K}<button(ENTER)>Finish <button(BS)><button(MOUSE_CANCEL)>Delete <button(MAKE_NAME_RETURN)>Previous Screen{E}
+96: {P}<button(MENU_LEFT)><button(MENU_RIGHT)>Переместить курсор <button(WINDOW_PREV)><button(WINDOW_NEXT)>Стандартные/особые символы <button(START)>Завершить <button(MAKE_NAME_RETURN)>Предыдущий экран <button(OK)>Выбор <button(CANCEL)>Удалить{E}{K}<button(ENTER)>Завершить <button(BS)><button(MOUSE_CANCEL)>Удалить <button(MAKE_NAME_RETURN)>Предыдущий экран{E}
+97: 
+97: 
+98: <button(OK)>Select <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+98: <button(OK)>Выбрать <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+99: <string(lstr1)><button(OK)>Select <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+99: <string(lstr1)><button(OK)>Выбрать <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+100: x
+100: х
+101: Bildrick
+101: Строитик
+102: m
+102: м
+103: s
+103: с
+104: <nil>
+104: <nil>
+105: G
+105: З
+106: *:<nbsp>
+106: *:<nbsp>
+107: %
+107: %
+108: *
+108: *
+109: <nil>
+109: <nil>
+110: Male
+110: Мальчик
+111: Female
+111: Девочка
+112: 
+112: 
+113: Focal Point
+113: Координатор
+114: Filter
+114: Фильтр
+115: +
+115: +
+116: -
+116: -
+117: ±
+117: ±
+118: All Items
+118: Все предметы
+119: <nil>
+119: <nil>
+120: Equip
+120: Нацепить
+121: Take Out
+121: Выкинуть
+122: Put Away
+122: Убрать
+123: Remove
+123: Удалить
+124: Swap
+124: Сменить
+125: Tidy Up
+125: Навести порядок
+126: Discard
+126: Выбросить
+127: Delete
+127: Удалить
+128: <button(ACCESS)>Take
+128: <button(ACCESS)>Взять
+129: 
+129: 
+130: Place
+130: Место
+131: Complete:
+131: Завершено: 
+132: /
+132: /
+133: ???
+133: ???
+134: <button(USE)>Give to <def_sgl_string(lstr1)>
+134: <button(USE)>Дать <def_sgl_string(lstr1)>
+135: <button(USE)>Give to <def_sgl_string(lstr1)>
+135: <button(USE)>Дать <def_sgl_string(lstr1)>
+136: <button(USE)>Heal <def_sgl_string(lstr1)>
+136: <button(USE)>Исцелить <def_sgl_string(lstr1)>
+137: 
+137: 
+138: 
+138: 
+139: <nbsp>Recipe
+139: <nbsp>Рецепт
+140: 
+140: 
+141: 
+141: 
+142: Low
+142: Низкий
+143: High
+143: Высокий
+144: Near
+144: Ближний
+145: Far
+145: Дальний
+146: <cap><string(lstr2)><cap><string(lstr1)><string(lstr3)>
+146: <cap><string(lstr2)><cap><string(lstr1)><string(lstr3)>
+147: ★★★
+147: ★★★
+148: ★★★★
+148: ★★★★
+149: <button(ACCESS)>Fire
+149: <button(ACCESS)>Стрелять
+150: {P}<button(MENU_LEFT)><button(MENU_RIGHT)>Move Cursor <button(WINDOW_PREV)><button(WINDOW_NEXT)>Standard/Special Characters <button(START)>Finish <button(OK)>Select{E}{K}<button(ENTER)>Finish{E}
+150: {P}<button(MENU_LEFT)><button(MENU_RIGHT)>Переместить курсор <button(WINDOW_PREV)><button(WINDOW_NEXT)>Стандартные/особые символы<button(START)>Завершить <button(OK)>Выбор{E}{K}<button(ENTER)>Завершить{E}
+151: 
+151: 
+152: <string(lstr2)><button(CAMERA_CHANGE)>Switch View <string(lstr1)>
+152: <string(lstr2)><button(CAMERA_CHANGE)>Сменить вид <string(lstr1)>
+153: <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Close
+153: <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Закрыть
+154: <button(ATTACK)>
+154: <button(ATTACK)>
+155: <button(BUILDER_TOOL)>Bash
+155: <button(BUILDER_TOOL)>Бить
+156: <button(BUILDER_TOOL)>Pick Up
+156: <button(BUILDER_TOOL)>Поднять
+157: 
+157: 
+158: <button(BUILDER_TOOL)>Cast
+158: <button(BUILDER_TOOL)>Магия
+159: 
+159: 
+160: 
+160: 
+161: 
+161: 
+162: <string(lstr3)><button(MENU)>Menu <string(lstr1)><button(CAMERA_CHANGE)>Switch View <string(lstr2)>
+162: <string(lstr3)><button(MENU)>Меню <string(lstr1)><button(CAMERA_CHANGE)>Смена вида <string(lstr2)>
+163: <string(lstr3)><string(lstr1)><button(CAMERA_CHANGE)>Switch View <string(lstr2)>
+163: <string(lstr3)><string(lstr1)><button(CAMERA_CHANGE)>Смена вида <string(lstr2)>
+164: <string(lstr2)><button(MENU)>Меню <button(CAMERA_CHANGE)>Смена вида <string(lstr1)>
+164: <string(lstr2)><button(MENU)>Меню <button(CAMERA_CHANGE)>Смена вида <string(lstr1)>
+165: <button(BLUEPRINT_SWITCH)>View Blueprint
+165: <button(BLUEPRINT_SWITCH)>Посмотреть чертеж
+166: {P}<button(MENU_LEFT)><button(MENU_RIGHT)>Move Cursor <button(WINDOW_PREV)><button(WINDOW_NEXT)>Standard/Special Characters <button(START)>Finish <button(MAKE_NAME_BLANK)>Space <button(MAKE_NAME_RETURN)>Previous Screen <button(OK)>Select <button(CANCEL)>Delete{E}{K}<button(ENTER)>Finish <button(BS)><button(MOUSE_CANCEL)>Delete <button(MAKE_NAME_RETURN)>Previous Screen{E}
+166: {P}<button(MENU_LEFT)><button(MENU_RIGHT)>Переместить курсор <button(WINDOW_PREV)><button(WINDOW_NEXT)>Стандартные/Специальные символы <button(START)>Завершить <button(MAKE_NAME_BLANK)>Пробел <button(MAKE_NAME_RETURN)>Предыдущий экран <button(OK)>Выбор <button(CANCEL)>Удалить{E}{K}<button(ENTER)>Завершить <button(BS)><button(MOUSE_CANCEL)>Удалить <button(MAKE_NAME_RETURN)>Предыдущий экран{E}
+167: <button(PHOTO_UPLOAD)>Upload <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+167: <button(PHOTO_UPLOAD)>Загрузить <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+168: {P}<button(R_STICK)>Rotate{E}
+168: {P}<button(R_STICK)>Повернуть{E}
+169: {K}<button(MOUSE_WHEEL_PUSH)>Select {E}<button(ITEM_HELP)>Hide/Show Description <button(ITEM_SORT)>Tidy Up
+169: {K}<button(MOUSE_WHEEL_PUSH)>Выбор {E}<button(ITEM_HELP)>Скрыть/показать описание <button(ITEM_SORT)>Навести порядок
+170: 
+170: 
+171: 
+171: 
+172: 
+172: 
+173: 
+173: 
+174: <$icon(1901)><button(USE)>Load
+174: <$icon(1901)><button(USE)>Загрузить
+175: 
+175: 
+176: 
+176: 
+177: 
+177: 
+178: 
+178: 
+179: 
+179: 
+180: 
+180: 
+181: 
+181: 
+182: <1>
+182: <1>
+183: 
+183: 
+184: <string(lstr1)><string(lstr2)><string(lstr3)><button(OK)>Build <button(RECIPE_HINT)>View Invention Conditions <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+184: <string(lstr1)><string(lstr2)><string(lstr3)><button(OK)>Строить <button(RECIPE_HINT)>Посмотреть условия создания <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+185: <string(lstr1)><string(lstr2)><string(lstr3)><button(OK)>Build <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+185: <string(lstr1)><string(lstr2)><string(lstr3)><button(OK)>Строить <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+186: <button(OK)>More Info <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+186: <button(OK)>Больше информации <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+187: 
+187: 
+188: <button(ACCESS)>Change Tools
+188: <button(ACCESS)>Смена инструментов
+189: <button(OK)>Select <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+189: <button(OK)>Выбрать <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+190: <string(lstr1)><string(lstr2)><string(lstr3)><button(OK)>Build <button(RECIPE_HINT)>View Recipe <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+190: <string(lstr1)><string(lstr2)><string(lstr3)><button(OK)>Строить <button(RECIPE_HINT)>Посмотреть рецепт <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+191: 0
+191: 0
+192: and <num(lnum1)> more <IfSing(resident,residents)>.
+192: и <num(lnum1)> многое другое <IfSing(resident,residents)>.
+193: Spend gratitude points to learn this recipe!
+193: Потратьте очки благодарности, чтобы изучить этот рецепт!
+194: <button(ACCESS)>Launch
+194: <button(ACCESS)>Запуск
+195: <string(lstr1)><string(lstr2)><string(lstr3)><button(OK)>Learn Recipe <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+195: <string(lstr1)><string(lstr2)><string(lstr3)><button(OK)>Изучить рецепт <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+196: Base Integrity
+196: Целостность базы
+197: Pots of dye required:
+197: Необходимо горшков с красителем:
+198: <string(lstr1)><string(lstr2)><string(lstr3)><button(OK)>Dye <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+198: <string(lstr1)><string(lstr2)><string(lstr3)><button(OK)>Красить <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+199: {P}<button(R_STICK)>Rotate {K}{E}<button(OK)>Dye <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+199: {P}<button(R_STICK)>Повернуть {K}{E}<button(OK)>Красить <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+200: white
+200: белый
+201: black
+201: чёрный
+202: purple
+202: фиолетовый
+203: pink
+203: розовый
+204: red
+204: красный
+205: green
+205: зеленый
+206: yellow
+206: желтый
+207: blue
+207: синий
+208: <button(ACCESS)>Check
+208: <button(ACCESS)>Проверить
+209: Hide Blueprint
+209: Скрыть чертеж
+210: Show Blueprint
+210: Показать чертеж
+211: Remove Blueprint
+211: Убрать чертеж
+212: :
+212: :
+213: <button(OK)>Select <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+213: <button(OK)>Выбрать <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+214: <button(OK)>Select <button(SOZAI_MAP_UI)>View Island Info <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+214: <button(OK)>Выбрать <button(SOZAI_MAP_UI)>Просмотр информацию об острове <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+215: <button(SOZAI_MAP_UI)>Hide Island Info <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+215: <button(SOZAI_MAP_UI)>Скрыть информацию об острове <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+216: <button(LETTER_LOCK)>Lock <button(LETTER_DELETE)>Discard <button(OK)>Read <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+216: <button(LETTER_LOCK)>Блокировка <button(LETTER_DELETE)>Отмена <button(OK)>Читать <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+217: <button(LETTER_LOCK)>Unlock <button(LETTER_DELETE)>Discard <button(OK)>Read <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+217: <button(LETTER_LOCK)>Разблокировать <button(LETTER_DELETE)>Отмена <button(OK)>Читать <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+218: <button(LETTER_LOCK)>Lock <button(OK)>Read <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+218: <button(LETTER_LOCK)>Заблокировать <button(OK)>Читать <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+219: <button(LETTER_LOCK)>Unlock <button(OK)>Read <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+219: <button(LETTER_LOCK)>Разблокировать <button(OK)>Читать <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+220: <string(lstr1)><button(LETTER_LOCK)>Lock <button(LETTER_DELETE)>Discard <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+220: <string(lstr1)><button(LETTER_LOCK)>Заблокировать <button(LETTER_DELETE)>Отмена <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+221: <string(lstr1)><button(LETTER_LOCK)>Unlock <button(LETTER_DELETE)>Discard <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+221: <string(lstr1)><button(LETTER_LOCK)>Разблокировать <button(LETTER_DELETE)>Отмена <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+222: <button(ACCESS)>Change Look
+222: <button(ACCESS)>Изменить вид
+223: <button(ACCESS)>Dye
+223: <button(ACCESS)>Красить
+224: <button(ACCESS)>Open <string(lstr1)><button(USE)>Stow
+224: <button(ACCESS)>Открыть <string(lstr1)><button(USE)>Оставить
+225: <button(USE)>Plant
+225: <button(USE)>Посадить
+226: <button(START)>Finish <button(OK)>Select <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back{P} <button(R_STICK)>Rotate{E}
+226: <button(START)>Завершить <button(OK)>Выбрать <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад{P} <button(R_STICK)>Повернуть{E}
+227: :
+227: :
+228: Name:
+228: Имя:
+229: <button(ACCESS)>Pull
+229: <button(ACCESS)>Тянуть
+230: {K}<button(MOUSE_WHEEL_PUSH)>Select {E}<button(ITEM_HELP)>Hide/Show Description <button(ITEM_SORT)>Tidy Up
+230: {K}<button(MOUSE_WHEEL_PUSH)>Выбор {E}<button(ITEM_HELP)>Скрыть/показать описание <button(ITEM_SORT)>Привести в порядок
+231: {K}<button(MOUSE_WHEEL_PUSH)>Select {E}<button(ITEM_HELP)>Hide/Show Description <button(ALL_PUTAWAY)>Stow All <button(ITEM_SORT)>Tidy Up
+231: {K}<button(MOUSE_WHEEL_PUSH)>Выбор {E}<button(ITEM_HELP)>Скрыть/Показать описание <button(ALL_PUTAWAY)>Выбросить всё <button(ITEM_SORT)>Привести в порядок
+232: {K}<button(MOUSE_WHEEL_PUSH)>Select {E}<button(ITEM_HELP)>Hide/Show Description <button(ALL_GETOUT)>Take Out All <button(ITEM_SORT)>Tidy Up
+232: {K}<button(MOUSE_WHEEL_PUSH)>Выбор {E}<button(ITEM_HELP)>Скрыть/Показать описание <button(ALL_GETOUT)>Выкинуть всё <button(ITEM_SORT)>Привести в порядок
+233: {K}<button(MOUSE_WHEEL_PUSH)>Select {E}<button(ITEM_HELP)>Hide/Show Description {P}{K}<button(MODIFIER1)>+{E}<button(WINDOW_PREV)><button(WINDOW_NEXT)>Open Bag <button(ITEM_SORT)>Tidy Up
+233: {K}<button(MOUSE_WHEEL_PUSH)>Выбор {E}<button(ITEM_HELP)>Скрыть/Показать описание {P}{K}<button(MODIFIER1)>+{E}<button(WINDOW_PREV)><button(WINDOW_NEXT)>Открыть сумку <button(ITEM_SORT)>Привести в порядок
+234: {K}<button(MOUSE_WHEEL_PUSH)>Select {E}<button(ITEM_HELP)>Hide/Show Description {P}{K}<button(MODIFIER1)>+{E}<button(WINDOW_PREV)><button(WINDOW_NEXT)>Open Bag <button(ALL_PUTAWAY)>Stow All <button(ITEM_SORT)>Tidy Up
+234: {K}<button(MOUSE_WHEEL_PUSH)>Выбор {E}<button(ITEM_HELP)>Скрыть/Показать описание {P}{K}<button(MODIFIER1)>+{E}<button(WINDOW_PREV)><button(WINDOW_NEXT)>Открыть сумку <button(ALL_PUTAWAY)>Убрать всё <button(ITEM_SORT)>Привести в порядок
+235: {K}<button(MOUSE_WHEEL_PUSH)>Select {E}<button(ITEM_HELP)>Hide/Show Description {P}{K}<button(MODIFIER1)>+{E}<button(WINDOW_PREV)><button(WINDOW_NEXT)>Open Bag <button(ALL_GETOUT)>Take Out All <button(ITEM_SORT)>Tidy Up
+235: {K}<button(MOUSE_WHEEL_PUSH)>Выбор {E}<button(ITEM_HELP)>Скрыть/Показать описание {P}{K}<button(MODIFIER1)>+{E}<button(WINDOW_PREV)><button(WINDOW_NEXT)>Открыть сумку <button(ALL_GETOUT)>Убрать всё <button(ITEM_SORT)>Привести в порядок
+236: {K}<button(MOUSE_WHEEL_PUSH)>Select {E}<button(ITEM_HELP)>Hide/Show Description {P}{K}<button(MODIFIER1)>+{E}<button(WINDOW_PREV)><button(WINDOW_NEXT)>View Held Items <button(ITEM_SORT)>Tidy Up
+236: {K}<button(MOUSE_WHEEL_PUSH)>Выбор {E}<button(ITEM_HELP)>Скрыть/показать описание {P}{K}<button(MODIFIER1)>+{E}<button(WINDOW_PREV)><button(WINDOW_NEXT)> <button(ITEM_SORT)>Просмотр вещей
+237: {K}<button(MOUSE_WHEEL_PUSH)>Select {E}<button(ITEM_HELP)>Hide/Show Description {P}{K}<button(MODIFIER1)>+{E}<button(WINDOW_PREV)><button(WINDOW_NEXT)>View Held Items <button(ALL_PUTAWAY)>Stow All <button(ITEM_SORT)>Tidy Up
+237: {K}<button(MOUSE_WHEEL_PUSH)>Выбор {E}<button(ITEM_HELP)>Скрыть/показать описание {P}{K}<button(MODIFIER1)>+{E}<button(WINDOW_PREV)><button(WINDOW_NEXT)>Просмотр вещей <button(ALL_PUTAWAY)>Убрать всё <button(ITEM_SORT)>Привести в порядок
+238: {K}<button(MOUSE_WHEEL_PUSH)>Select {E}<button(ITEM_HELP)>Hide/Show Description {P}{K}<button(MODIFIER1)>+{E}<button(WINDOW_PREV)><button(WINDOW_NEXT)>View Held Items <button(ALL_GETOUT)>Take Out All <button(ITEM_SORT)>Tidy Up
+238: {K}<button(MOUSE_WHEEL_PUSH)>Выбор {E}<button(ITEM_HELP)>Скрыть/Показать описание {P}{K}<button(MODIFIER1)>+{E}<button(WINDOW_PREV)><button(WINDOW_NEXT)>Просмотр вещей <button(ALL_GETOUT)>Убрать всё <button(ITEM_SORT)>Привести в порядок
+239: No. Defeated
+239: Кол-во поражений
+240: Carries
+240: Несёт
+241: Habitat
+241: Среда обитания
+242: :
+242: :
+243: <button(ACCESS)>Push
+243: <button(ACCESS)>Толкать
+244: <button(ACCESS)>Shuffle
+244: <button(ACCESS)>Смешивание
+245: 
+245: 
+246: 
+246: 
+247: <button(ACCESS)>Aim
+247: <button(ACCESS)>Целиться
+248: <button(CRAFT_TAKE)>Cancel<nbsp>
+248: <button(CRAFT_TAKE)>Отмена<nbsp>
+249: Tiny
+249: Мелкий
+250: ★★★★★
+250: ★★★★★
+251: <button(ITEM_HELP)>Hide/Show Description
+251: <button(ITEM_HELP)>Скрыть/показать описание.
+252: Hair Colour
+252: Цвет волос:
+253: Skin Colour
+253: Цвет кожи:
+254: <button(OK)>Select
+254: <button(OK)>Выбор
+255: Eye Colour
+255: Цвет глаз:
+256: 
+256: 
+257: <button(BIRD_VIEW)>Return Home <string(lstr1)><button(OK)>Select <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+257: <button(BIRD_VIEW)>Вернуться домой <string(lstr1)><button(OK)>Выбор <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+258: <button(RANDOM_ISLAND_LIST)>Add to Favourites<nbsp>
+258: <button(RANDOM_ISLAND_LIST)>Добавить в избранное<nbsp>
+259: <string(lstr2)> on top of <string(lstr1)>
+259: <string(lstr2)> сверху <string(lstr1)>
+260: <string(lstr1)> next to <string(lstr2)>
+260: <string(lstr1)> рядом с <string(lstr2)>
+261: and <string(lnum1)> more residents.
+261: и ещё <string(lnum1)> жителей.
+262: None
+262: Ничего
+263: 
+263: 
+264: 
+264: 
+265: 
+265: 
+266: 
+266: 
+267: 
+267: 
+268: 
+268: 
+269: 
+269: 
+270: 
+270: 
+271: 
+271: 
+272: 
+272: 
+273: 
+273: 
+274: 
+274: 
+275: 
+275: 
+276: 
+276: 
+277: Weapon
+277: Оружие
+278: <button(ACCESS)>Ride <button(USE)>Turn Lights On/Off
+278: <button(ACCESS)>Ехать <button(USE)>Поворотники вкл/выкл
+279: <string(lstr1)>{P}<button(L_STICK)>{K}<button(MOUSE)>{E}Move <string(lstr2)><button(CAMERA_CHANGE)>Reset <string(lstr3)><string(lstr4)><button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+279: <string(lstr1)>{P}<button(L_STICK)>{K}<button(MOUSE)>{E}Переместить <string(lstr2)><button(CAMERA_CHANGE)>Сброс <string(lstr3)><string(lstr4)><button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+280: Move<br>Rotate<br>Zoom<br>Roll<br>Reset<br>Character Display<br>Select Expression<br>Facial Expression<br>Gaze Direction<br>Sharp Shot
+280: Переместить<br>Повернуть<br>Масштаб<br>Прокрутка<br>Сброс<br>Отображение символов<br>Выбор выражения<br>Выражение лица<br>Направление взгляда<br>Резкий снимок
+281: Room
+281: Комната
+282: Field
+282: Поле
+283: <string(lstr1)> {P}<button(L_STICK)>{K}<button(MODIFIER2)>+<button(MOUSE_WHEEL_UP)><button(MOUSE_WHEEL_DOWN)>{E}Zoom {P}<button(R_STICK)>Rotate {K}{E}<string(lstr2)><button(OK)>View Info <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+283: <string(lstr1)> {P}<button(L_STICK)>{K}<button(MODIFIER2)>+<button(MOUSE_WHEEL_UP)><button(MOUSE_WHEEL_DOWN)>{E}Масштаб {P}<button(R_STICK)>Поворот {K}{E}<string(lstr2)><button(OK)>Просмотр информации <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+284: <string(lstr1)>{P}<button(L_STICK)>{K}<button(MODIFIER2)>+<button(MOUSE_WHEEL_UP)><button(MOUSE_WHEEL_DOWN)>{E}Zoom {P}<button(R_STICK)>Rotate {K}{E}<string(lstr2)> <button(BLUEPRINT_DELETE)>Erase <button(BLUEPRINT_COPY)>Copy <button(OK)>View Info <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+284: <string(lstr1)>{P}<button(L_STICK)>{K}<button(MODIFIER2)>+<button(MOUSE_WHEEL_UP)><button(MOUSE_WHEEL_DOWN)>{E}Масштаб {P}<button(R_STICK)>Повернуть {K}{E}<string(lstr2)> <button(BLUEPRINT_DELETE)>Стереть <button(BLUEPRINT_COPY)>Копировать <button(OK)>Просмотр информации <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+285: <button(SHIKAKU)>Remove Island from Favourites<nbsp>
+285: <button(SHIKAKU)>Удалить остров из избранного<nbsp>
+286: <button(BLUEPRINT_SLICE_RESET)>Full View <button(LOWER)>Down a Level <button(HIGHER)>Up a Level {P}<button(L_STICK)>{K}<button(MODIFIER2)>+<button(MOUSE_WHEEL_UP)><button(MOUSE_WHEEL_DOWN)>{E}Zoom {P}<button(R_STICK)>Rotate {K}{E}<button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+286: <button(BLUEPRINT_SLICE_RESET)>Полный обзор <button(LOWER)>На уровень ниже <button(HIGHER)>На уровень выше{P}<button(L_STICK)>{K}<button(MODIFIER2)>+<button(MOUSE_WHEEL_UP)><button(MOUSE_WHEEL_DOWN)>{E}Масштаб {P}<button(R_STICK)>Повернуть {K}{E}<button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+287: I Agree
+287: Согласен
+288: Cancel
+288: Отмена
+289: <button(START)>User-Generated Content Guidelines
+289: <button(START)>Правила пользовательских поделок
+290: 
+290: 
+291: <string(lstr1)><button(USE)>Use
+291: <string(lstr1)><button(USE)>Использовать
+292: 
+292: 
+293: maximum HP
+293: максимум жизней
+294: 
+294: 
+295: 
+295: 
+296: <button(ACCESS)>Remove
+296: <button(ACCESS)>Удалить
+297: <button(ALBUM_OPEN)>Open Album <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Cancel
+297: <button(ALBUM_OPEN)>Открыть альбом <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Отменить
+298: 
+298: 
+299: : Close
+299: : Близко
+300: 
+300: 
+301: : Far
+301: : Далеко
+302: 
+302: 
+303: Show Everyone
+303: Показать всем
+304: 
+304: 
+305: 
+305: 
+306: 
+306: 
+307: 
+307: 
+308: No Filter
+308: Без фильтра
+309: Greyscale
+309: Черно-белый
+310: Unlocks more recipes!
+310: Разблокируйте больше рецептов!
+311: <$icon(1853)><button(USE)>Use
+311: <$icon(1853)><button(USE)>Использовать
+312: <button(OK)>Menu <button(PHOTO_DELETE)>Delete <button(PHOTO_UPLOAD)>Upload <button(START)>Full Screen <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+312: <button(OK)>Меню <button(PHOTO_DELETE)>Удалить <button(PHOTO_UPLOAD)>Загрузка <button(START)>Полный экран<button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+313: <button(OK)>Menu <button(PHOTO_DELETE)>Delete <button(START)>Full Screen <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+313: <button(OK)>Меню <button(PHOTO_DELETE)>Удалить <button(START)>Полный экран <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+314: <button(OK)>Add/Remove Tag <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+314: <button(OK)>Добавить/удалить тег <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+315: Shield
+315: Щит
+316: 
+316: 
+317: Sepia
+317: Сепия
+318: Time-Worn
+318: Изношеный
+319: 
+319: 
+320: Enjoy your stay!
+320: Наслаждайтесь пребыванием!
+321: <button(OK)>Select <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+321: <button(OK)>Выбор <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+322: <$icon(1857)><button(USE)>Use
+322: <$icon(1857)><button(USE)>Использовать
+323: <button(START)>Advanced Options <button(OK)>Select <button(MULTI_RESEARCH)>Search Again <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Cancel
+323: <button(START)>Дополнительные параметры <button(OK)>Выбор <button(MULTI_RESEARCH)>Поиск ещё раз <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Отмена
+324: Start New Game
+324: Новая игра
+325: Continue
+325: Продолжить
+326: Claim Builder Bonus
+326: Получить бонус строителя
+327: Armour/Clothing
+327: Броня/Одежда
+328: Hair/Hat
+328: Волосы/шляпа
+329: No Data
+329: Нет данных
+330: Home Island
+330: Домашний остров
+331: Species
+331: Особенности
+332: Size
+332: Размер
+333: Abilities
+333: Способности
+334: Small
+334: Маленький
+335: Medium
+335: Средний
+336: Large
+336: Большой
+337: Enormous
+337: Огромный
+338: Builder
+338: Строитель
+339: Make many more monster mates!
+339: Подружитесь с другими монстрами!
+340: Mount<br>Oiler's Formula
+340: Монт<br>Формула Ойлера
+341: <$cdef(251)>Mount</color><br>I'll give you a ride anywhere you want to goo! And because I'm all squodgy and squidgy, you won't take any damage from high falls!<br><br><$cdef(251)>Oiler's Formula</color><br>As long as you have a bonfire, I can secrete goolorious gloops of gooey oil!
+341: <$cdef(251)>Монт</color><br>Я подвезу тебя куда захочешь! И ещё, ты не получишь улона от падений, потому что я очень слизкий и липкий!<br><br><$cdef(251)>Формула Ойлера</color><br>Пока у тебя есть костёр, я смогу источать гадкие маслянистые куски!
+342: Excavator
+342: Экскаватор
+343: <$cdef(251)>Excavator</color><br>Stick a smashing sign on a wall when I'm in your party, and I'll keep bash-bash-bashing till I'm all ham-ham-hammered out!
+343: <$cdef(251)>Excavator</color><br>Приклей знак ударов на стенку, и когда я буду в твоей команде, я буду стучать по ней, пока не выстучусь на полную!
+344: Meet and Gooreet<br>Heal
+344: Лекарство<br>Мит и Гурит
+345: <$cdef(251)>Мит и Гурит</color><br>I can imitate goomans in cottontail costumes as they goo about their work!<br><br><$cdef(251)>Heal</color><br>Goo into battle with me nearby and I'll heal your wounds!
+345: <$cdef(251)>Мит и Гурит</color><br>Я могу подражать людям в костюмах, когда они занимаются своей работой!<br><br><$cdef(251)>Лекарство</color><br> Сражайся бок о бок со мной, и я исцелю твои раны!
+346: Airlift
+346: Воздушный лифт.
+347: <$cdef(251)>Airlift</color><br>Bacaw! My high-flying ability puts even the fabled windbraker to shame! Just remember that we chimaeras get tired too. Squaaawk!
+347: <$cdef(251)>Воздушный лифт</color><br>Кар! Моя способность высоко взлетать постыдит даже самого прославленного мага ветра! Просто помни, что мы, химеры, тоже устаем. Кааар!
+348: Agritech
+348: Агритех
+349: <$cdef(251)>Agritech</color><br>Till-earth! Water-seeds! Harvest-crops! Embrace-the-automated-revolution!
+349: <$cdef(251)>Agritech</color><br>Пахать-землю! Поливать-семена! Пожинать-урожай! Да-здравствует-автоматизированная-революция!
+350: Barftender
+350: Барфмэн
+351: <$cdef(251)>Barftender</color><br>If you have a caaaAAAsk, I'll heEElp to make driiinks...
+351: <$cdef(251)>Barftender</color><br> Если у вас есть бооОООоочка, я помогууУУУ приготовить напИИИиииткиИИи...
+352: Desert Course<br>Hard Target
+352: Пустынная трасса<br>Трудная цель
+353: <$cdef(251)>Desert Course</color><br>YOU PLACE TERRAFORMA TILES ON GROUND. ME TURN NEARBY AREA INTO DESERT.<br><br><$cdef(251)>Hard Target</color><br>WHEN WE DO BATTLE, ME DRAW ENEMY ATTENTION.
+353: <$cdef(251)>Desert Course</color><br>ВЫ РАЗМЕЩАЕТЕ ПЛИТКИ ТЕРРАФОРМЫ НА ЗЕМЛЕ. Я ПРЕВРАЩАЮ БЛИЗЛЕЖАЩИЙ РАЙОН В ПУСТЫНЮ.<br><br><$cdef(251)>Трудная цель</color><br>КОГДА МЫ БУДЕМ В БОЮ, Я ПРИВЛЕКУ ВНИМАНИЕ ПРОТИВНИКА.
+354: Squish Chase
+354: Липкая погоня
+355: <$cdef(251)>Липкая погоня</color><br>Come near me and I'll run away. If you can catch me I'll goorant you a reward, but you only have one chance a day. Don't think I'll let you plant a big, sloppy squish on my cheek!
+355: <$cdef(251)>Липкая погоня</color><br>Подойди ко мне, и я убегу. Если сможешь поймать меня, я дам тебе награду, но у тебя есть только один шанс в день. Не думай, что я позволю тебе наступить мне на щёчку!
+356: Mount
+356: Монт
+357: <$cdef(251)>Mount</color><br>Hold on to my mane and we'll go for a ride. I've got a pretty mean double-jump, too. You can fang me later!
+357: <$cdef(251)>Mount</color><br>Держись за мою гриву, мы покатаемся. У меня тоже довольно злой двойной прыжок. Можешь похлопать меня попозже!
+358: Mud, Paper, Scissors<br>Manual Dexterity
+358: Грязь, ножницы, бумага<br>Ловкость рук
+359: <$cdef(251)>Mud, Paper, Scissors</color><br>I'll play my favourite game with the other residents<-->and I'll beat them all single-handed!<br><br><$cdef(251)>Manual Dexterity</color><br>As long as I've got the materials, I can make items as well as any full-bodied human!
+359: <$cdef(251)>Грязь, ножницы, бумага</color><br>Я буду играть в свою любимую игру с другими жителями<-->и я обыграю их всех в одиночку!br><br><$cdef(251)>Ловкость рук</color><br>Пока у меня есть материалы, я могу делать предметы, как и обычный человек!
+360: Snow Business
+360: Снежный бизнес
+361: <$cdef(251)>Снежный бизнес</color><br>If you plathe thome ithe lollieth on the ground, I'll make the thurrounding area all thnowy. I wonder what will happen if you plathe one near water...
+361: <$cdef(251)>Снежный бизнес</color><br>Если ты паставис его на симле, я сделаю многа снега тут. Интересна, сто будет, если поставис ево у вады...
+362: Dye Hard<br>Mimicry
+362: Крепкий краситель<br>Мимикрия
+363: <$cdef(251)>Dye Hard</color><br>If you have a.........stain extractor, I can help make.........plenty of dye.<br><br><$cdef(251)>Mimicry</color><br>When I stand next to.........another living statue, I can pull off a.........perfect imitation of it.
+363: <$cdef(251)>Крепкий краситель</color><br>Если у вас есть......... экстрактор пятен, я могу помочь сделать.........много красителя.<br><br><$cdef(251)>Мимикрия</color><br>Когда я стою рядом с.........другой живой статуей, я могу сделать.........идеальную её мимикрию.
+364: Mount
+364: Монт
+365: <$cdef(251)>Mount</color><br>Hold on to my mane and we'll go for a ride. I've got a pretty mean double-jump, too. You can fang me later!
+365: <$cdef(251)>Mount</color><br>Держитесь за мою гриву, мы прокатимся. У меня тоже довольно классный двойной прыжок. Можешь похлопать меня попозже!
+366: 
+366: 
+367: 
+367: 
+368: 
+368: 
+369: 
+369: 
+370: {K}<button(MOUSE_WHEEL_PUSH)>Select {E}<button(ITEM_HELP)>Hide/Show Description <button(ALL_PUTAWAY)>Place All <button(ITEM_SORT)>Tidy Up
+370: {K}<button(MOUSE_WHEEL_PUSH)>Выбор {E}<button(ITEM_HELP)>Скрыть/Показать описание <button(ALL_PUTAWAY)> <button(ITEM_SORT)>Привести все в порядок
+371: {K}<button(MOUSE_WHEEL_PUSH)>Select {E}<button(ITEM_HELP)>Hide/Show Description {P}{K}<button(MODIFIER1)>+{E}<button(WINDOW_PREV)><button(WINDOW_NEXT)>Open Bag <button(ALL_PUTAWAY)>Place All <button(ITEM_SORT)>Tidy Up
+371: {K}<button(MOUSE_WHEEL_PUSH)>Выбор {E}<button(ITEM_HELP)>Скрыть/Показать описание {P}{K}<button(MODIFIER1)>+{E}<button(WINDOW_PREV)><button(WINDOW_NEXT)>Открыть сумку <button(ALL_PUTAWAY)>Расставить по местам <button(ITEM_SORT)>Сортировка
+372: {K}<button(MOUSE_WHEEL_PUSH)>Select {E}<button(ITEM_HELP)>Hide/Show Description {P}{K}<button(MODIFIER1)>+{E}<button(WINDOW_PREV)><button(WINDOW_NEXT)>View Held Items <button(ALL_PUTAWAY)>Place All <button(ITEM_SORT)>Tidy Up
+372: {K}<button(MOUSE_WHEEL_PUSH)>Выбор {E}<button(ITEM_HELP)>Скрыть/Показать описание {P}{K}<button(MODIFIER1)>+{E}<button(WINDOW_PREV)><button(WINDOW_NEXT)>Просмотр вещей <button(ALL_PUTAWAY)>Расставить по местам  <button(ITEM_SORT)>Сортировка
+373: <button(ACCESS)>Вытыщить
+373: <button(ACCESS)>Вытыщить
+374: Happiness
+374: Счастье
+375: Time to Maturity
+375: Время созревания
+376: Plant in a <$cdef(230)>paddy field</color>.
+376: Посадить на <$cdef(230)>поле</color>.
+377: Plant with a <$iicon(1815)><$cdef(244)><$sgl_iname(1815)></color>.
+377: Посадить с <$iicon(1815)><$cdef(244)><$sgl_iname(1815)></color>.
+378: 
+378: 
+379: 
+379: 
+380: [Growth Conditions]<nbsp>
+380: [Условия роста]<nbsp>
+381: <--><--><-->
+381: <--><--><-->
+382: Selected
+382: Выбрано
+383: 
+383: 
+384: 
+384: 
+385: 
+385: 
+386: <button(ACCESS)>Turn Tap On
+386: <button(ACCESS)>Включить воду
+387: <button(OK)>Save <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+387: <button(OK)>Сохранить <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+388: <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+388: <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+389: <button(OK)>Save <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+389: <button(OK)>Save <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+390: <button(ACCESS)>Use
+390: <button(ACCESS)>Использовать
+391: <string(lstr1)><button(UP_DOWN)>Move Cursor <string(lstr2)><button(WARP_LIST)>Close List <string(lstr3)><button(OK)>Select <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+391: <string(lstr1)><button(UP_DOWN)>Двигать курсор <string(lstr2)><button(WARP_LIST)>Закрыть список <string(lstr3)><button(OK)>Выбор <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+392: 
+392: 
+393: <button(MENU_LEFT)><button(MENU_RIGHT)>Change Level<nbsp>
+393: <button(MENU_LEFT)><button(MENU_RIGHT)>Смена уровня<nbsp>
+394: Camera Rotation Speed
+394: Скорость вращения камеры
+395: Brightness
+395: Яркость
+396:  
+396:  
+397: 
+397: 
+398: Deitree's Strength
+398: Сила Дэйтри
+399: Base Integrity
+399: Целостность базы
+400: Previous/Next Snapshot
+400: Пред./следующий снапшот
+401: Add Tags
+401: Добавить тэги
+402: Edit Snapshot
+402: Редактировать снапшот
+403: Select Effect
+403: Выбор эффекта
+404: Add/Edit Caption
+404: Добавить/редактировать надпись
+405: Delete
+405: Удалить
+406: Upload
+406: Загрузить
+407: Back
+407: Назад
+408: <$cdef(224)>Report</color>
+408: <$cdef(224)>Жалоба</color>
+409: Like
+409: Нравится
+410: Remove Like
+410: Больше не нравится
+411: Visit This Island
+411: Навестить остров
+412: Upload<br>Your Island
+412: Загрузить<br>свой остров
+413: <button(USE)>Select Snapshot <button(ACCESS)>View
+413: <button(USE)>Выбор снапшота <button(ACCESS)>Вид
+414: Выберите, какие кнопки нажимать, чтобы размещать предметы и использовать инструменты.
+414: Выберите, какие кнопки нажимать, чтобы размещать предметы и использовать инструменты.
+415: Выберите, в какую сторону будет вращаться камера при перемещении правого стика влево и вправо.
+415: Выберите, в какую сторону будет вращаться камера при перемещении правого стика влево и вправо.
+416: Выберите, в какую сторону будет вращаться камера при перемещении правого стика вверх и вниз.
+416: Выберите, в какую сторону будет вращаться камера при перемещении правого стика вверх и вниз.
+417: Выберите, отображать ли контур персонажа, когда он заблокирован из поля зрения.
+417: Выберите, отображать ли контур персонажа, когда он вне поля зрения.
+418: 
+418: 
+419: Выберите, подключаться ли к сети и получать уведомления.
+419: Выберите, подключаться ли к сети и получать уведомления.
+420: Отрегулируйте громкость фоновой музыки.
+420: Отрегулировать громкость фоновой музыки.
+421: Отрегулируйте громкость звуковых эффектов.
+421: Отрегулировать громкость звуковых эффектов.
+422: Отрегулируйте скорость отображения сообщений.
+422: Отрегулировать скорость отображения сообщений.
+423: Отрегулируйте яркость игрового мира.
+423: Отрегулировать яркость игрового мира.
+424: Отрегулируйте скорость перемещения камеры при нажатии <button(R_STICK)>.
+424: Отрегулировать скорость перемещения камеры при нажатии <button(R_STICK)>.
+425: Восстановите все параметры до значений по умолчанию.
+425: Восстановить все параметры до значений по умолчанию.
+426: CANT DECODE
+426: Сохранить текущие настройки.
+427: <string(lstr1)>
+427: <string(lstr1)>
+428: <string(lstr1)><button(USE)>Place
+428: <string(lstr1)><button(USE)>Поставить
+429: <button(CRAFT_TAKE)>Remove
+429: <button(CRAFT_TAKE)>Убрать
+430: <button(BLUEPRINT_SLICE_RESET)>Максимальная высота <button(LOWER)>На уровень ниже <button(HIGHER)>На уровень выше {P}<button(L_STICK)>{K}<button(MODIFIER2)>+<button(MOUSE_WHEEL_UP)><button(MOUSE_WHEEL_DOWN)>{E}Масштаб {P}<button(R_STICK)>Поворот {E}<button(OK)><button(MOUSE_OK)>Подтвердить <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+430: <button(BLUEPRINT_SLICE_RESET)>Максимальная высота <button(LOWER)>На уровень ниже <button(HIGHER)>На уровень выше {P}<button(L_STICK)>{K}<button(MODIFIER2)>+<button(MOUSE_WHEEL_UP)><button(MOUSE_WHEEL_DOWN)>{E}Масштаб {P}<button(R_STICK)>Поворот {E}<button(OK)><button(MOUSE_OK)>Подтвердить <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+431: <button(BUILDER_TOOL)>Milk
+431: <button(BUILDER_TOOL)>Доить
+432: <button(UP_DOWN)>Change Mode <button(OK)>Select <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+432: <button(UP_DOWN)>Сменить режим <button(OK)>Выбор <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+433: <button(SELECT_EMOTION)>Cheer
+433: <button(SELECT_EMOTION)>Подбодрить
+434: <button(SELECT_EMOTION)>Laugh
+434: <button(SELECT_EMOTION)>Посмеяться
+435: <button(SELECT_EMOTION)>Stomp
+435: <button(SELECT_EMOTION)>Стукнуть ногой
+436: <button(SELECT_EMOTION)>Beckon
+436: <button(SELECT_EMOTION)>Манить
+437: <button(SELECT_EMOTION)>Hello!
+437: <button(SELECT_EMOTION)>Привет!
+438: <button(SELECT_EMOTION)>Goodbye!
+438: <button(SELECT_EMOTION)>Пока!
+439: <button(SELECT_EMOTION)>Clap
+439: <button(SELECT_EMOTION)>Хлопать
+440: <button(SELECT_EMOTION)>Show
+440: <button(SELECT_EMOTION)>Показать
+441: <nil>
+441: <nil>
+442: 
+442: 
+443: <button(ACCESS)>Draw Blueprint
+443: <button(ACCESS)>Чертить чертёж
+444: <button(ITEM_HELP)>Remove from Noticeboard <button(PHOTO_UPLOAD)>Upload <button(START)>Full Screen <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+444: <button(ITEM_HELP)>Удалить с доски объявлений <button(PHOTO_UPLOAD)>Загрузить <button(START)>Полный экран <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+445: <button(OK)>Menu <button(ITEM_HELP)>Remove from Noticeboard <button(PHOTO_DELETE)>Удалить <button(START)>Полный экран <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+445: <button(OK)>Menu <button(ITEM_HELP)>Remove from Noticeboard <button(PHOTO_DELETE)>Удалить <button(START)>Полный экран <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+446: The Pestilential Primate
+446: Разносящий хворь примат
+447: The Stony-Eyed Source of Subterranean Suffering
+447: Камне-глазый выводок подземных мук
+448: The Battle-Hardened Behemoth
+448: Закалённый бегемот
+449: His Terrifying True Form!
+449: Его ужасающая истиная форма!
+450: Lord and Master of Destruction
+450: Властитель и хозяин разрухи
+451: 
+451: 
+452: Get out of the brainy badboon's way!
+452: С дороги гения Бэдбуна!
+453: Reflect the madusa's stony glare!
+453: Отразите окаменяющий взор Мадузы!
+454: Blast Atlas with the Kazapple cannon!
+454: Выстрелите в Атласа с помощью пушки Казепл!
+455: Jump over Atlas's attacks!
+455: Перепрыгните атаки Атласа!
+456: Defeat Atlas's army!
+456: Уничтожьте армию Атласа!
+457: Keep moving to avoid the attacks from the air!
+457: Продолжайте движение минуя воздушные атаки!
+458: <button(BUILDER_TOOL)>Cancel
+458: <button(BUILDER_TOOL)>Отмена
+459: <button(BUILDER_TOOL)>Pack Up
+459: <button(BUILDER_TOOL)>Сбор
+460: <button(USE)>Play
+460: <button(USE)>Играть
+461: <button(ACCESS)>Stop <button(USE)>Play
+461: <button(ACCESS)>Прекратить <button(USE)>Играть
+462: <$icon(589)><button(USE)>Use
+462: <$icon(589)><button(USE)>Использовать
+463: Defeat the brainy badboon's troops!
+463: Одолейте воиско гения Бэдбуна!
+464: Defeat the madusa's minions!
+464: Одолейте прислугу Мадузы!
+465: Attack the madusa while she's petrified!
+465: Атакуйте Мадузу, пока она окаменела!
+466: Reflect the glare and see which one is real!
+466: Отразите взор и узнайте, кто из них настоящая!
+467: Attack the madusa's snaky appendage!
+467: Уничтожте подкрепление Мадузы!
+468: Unbalance him with a banana skin!
+468: Сбейте его при помощи банановой кожуры!
+469: Dodge his attacks or take cover!
+469: Уклоняйтесь от его атак или идите в укрытие!
+470: The brainy badboon is dazed! Attack!
+470: Гений Бэдбун в замешательстве! В атаку!
+471: <button(BIRD_VIEW)>Bird's Eye View<nbsp>
+471: <button(BIRD_VIEW)>Осмотр с высоты птичьего полёта<nbsp>
+472: Charge
+472: Заряд
+473: No Warp Points Available
+473: Нет доступных очков перемещения
+474: <def_sgl_string(lstr1)>
+474: <def_sgl_string(lstr1)>
+475: [Vegetable]
+475: [Овощ]
+476: [Meat]
+476: [Мясо]
+477: [Fish]
+477: [Рыба]
+478: [Fruit]
+478: [Фрукт]
+479: [Grain]
+479: [Зерно]
+480: [Seasoning]
+480: [Приправа]
+481: <button(PHOTO_LIKE)>Like
+481: <button(PHOTO_LIKE)>Нравится
+482: <button(PHOTO_LIKE)>Remove Like
+482: <button(PHOTO_LIKE)>Больше не нравится
+483: <button(PHOTO_FAV)>Add to Favourites
+483: <button(PHOTO_FAV)>В избранное
+484: <button(PHOTO_FAV)>Remove from Favourites
+484: <button(PHOTO_FAV)>Убрать из избранных
+485: <button(START)>Next Snapshot
+485: <button(START)>Следующий снапшот
+486: 
+486: 
+487: 
+487: 
+488: 
+488: 
+489: 
+489: 
+490: 
+490: 
+491: 
+491: 
+492: 
+492: 
+493: 
+493: 
+494: 
+494: 
+495: <button(START)>Finish <button(OK)>Select <button(LOOKSEQUIP_DETATCH)>Remove <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back{P} <button(R_STICK)>Rotate{E}
+495: <button(START)>Закончить <button(OK)>Выбрать <button(LOOKSEQUIP_DETATCH)>Убрать <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад{P} <button(R_STICK)>Повернуть{E}
+496: <button(START)>Finish <button(OK)>Select <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back{P} <button(R_STICK)>Rotate{E}
+496: <button(START)>Закончить <button(OK)>Выбрать <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад{P} <button(R_STICK)>Повернуть{E}
+497: 
+497: 
+498: 
+498: 
+499: 
+499: 
+500: 
+500: 
+501: <button(USE)>Select Snapshot <button(ACCESS)><$cdef(226)>View</color>
+501: <button(USE)>Выбрать снапшот <button(ACCESS)><$cdef(226)>Осмотр</color>
+502: <button(OK)>Display <button(BUILDART_PHOTO_REMOVE)>Remove <button(START)>Full Screen <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+502: <button(OK)>Отобразить <button(BUILDART_PHOTO_REMOVE)>Убрать <button(START)>Полный экран <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+503: <button(OK)>Display <button(START)>Full Screen <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+503: <button(OK)>Отобразить <button(START)>Полный экран <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+504: Bash blocks to bits with big, hard hits!
+504: Крошите на части блоки большими и тяжелыми ударами!
+505: Pick stuff up and plonk it down!
+505: Поднимайте и бросай вещи!
+506: Sketch scenes and structures onto blueprints!
+506: Чертите пейзажи и структуры на чертежах!
+507: Swap blocks for rapid renovations!
+507: Меняйте блоки для быстрых обустроек!
+508: Toot to find a route to treasure and loot!
+508: Трубите для поиска пути к сокровищу и обноси его!
+509: Chip away at blocks for a new angle on life!
+509: Ступайте околицами для поиска новых взглядов на жизнь!
+510: Scoop up water and slosh it out!
+510: Зачерпните водицы и вылейте её!
+511: Soar the skies and discover new secrets!
+511: Взмойте в небеса и раскройте новые тайны!
+512: Control your construction from afar!
+512: Управляйте строительством издали!
+513: <button(START)>Select <button(OK)>Add/Remove Tag <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+513: <button(START)>Выбор <button(OK)>Добавить/удалить тэг <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+514: <space(24)>
+514: <space(24)>
+515: <button(ACCESS)>Write
+515: <button(ACCESS)>Писать
+516: <button(ACCESS)>Write <button(USE)>Read
+516: <button(ACCESS)>Писать <button(USE)>Читать
+517: <button(KANPE_DELETE_SAVE)>Cancel <button(OK)>Select <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+517: <button(KANPE_DELETE_SAVE)>Отмена <button(OK)>Выбор <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+518: {P}<button(MENU_LEFT)><button(MENU_RIGHT)>Move Cursor <button(WINDOW_PREV)><button(WINDOW_NEXT)>Standard/Special Characters <button(BIRD_VIEW)>Next Line <button(START)>Confirm <button(MAKE_NAME_BLANK)>Space <button(MAKE_NAME_RETURN)>Previous Screen <button(OK)>Select <button(CANCEL)>Delete{E}{K}<button(ALLOWU)><button(ALLOWD)>Next Line <button(ENTER)>Confirm <button(BS)><button(MOUSE_CANCEL)>Delete <button(MAKE_NAME_RETURN)>Previous Screen{E}
+518: {P}<button(MENU_LEFT)><button(MENU_RIGHT)>Двигать курсор <button(WINDOW_PREV)><button(WINDOW_NEXT)>Стандартные/особые символы <button(BIRD_VIEW)>След. строка <button(START)>Подтвердить <button(MAKE_NAME_BLANK)>Пробел <button(MAKE_NAME_RETURN)>Предыдущий экран <button(OK)>Выбор <button(CANCEL)>Удалить{E}{K}<button(ALLOWU)><button(ALLOWD)>След. строка <button(ENTER)>Подтвердить <button(BS)><button(MOUSE_CANCEL)>Удалить <button(MAKE_NAME_RETURN)>Предыдущий экран{E}
+519: 
+519: 
+520: Defeat the enemy!
+520: Одолейте врага!
+521: <cap><sgl_string(lstr1)>'s Room
+521: Комната <cap><sgl_string(lstr1)>
+522: #
+522: #
+523: 
+523: 
+524: 
+524: 
+525: Cute
+525: Милый
+526: Cool
+526: Крутой
+527: Natural
+527: Естественный
+528: Flamboyant
+528: Яркий
+529: Cheeky
+529: Дерзкий
+530: Cute<nbsp>
+530: Милый<nbsp>
+531: Cool<nbsp>
+531: Крутой<nbsp>
+532: Natural<nbsp>
+532: NatuЕстественныйral<nbsp>
+533: Flamboyant<nbsp>
+533: Яркий<nbsp>
+534: Cheeky<nbsp>
+534: Яркий<nbsp>
+535: Recent Additions
+535: Недавние добавления
+536: [
+536: [
+537: ]
+537: ]
+538: Today's Top Islands
+538: Лучшие острова за сегодня
+539: All-Time Top Snaps
+539: Лучшие снапшоты за всё время
+540: Today's Top Snaps
+540: Лучшие снапшоты за сегодня
+541: Top Snaps by Tag
+541: Лучшие снапшоты по тэгам
+542: Current Competitions
+542: Текущие соревнования
+543: Past Competitions
+543: предыдущие соревнования
+544: New
+544: Нов.
+545: Snapshots
+545: Снапшоты
+546: Islands
+546: Острова
+547: Prizes
+547: Призы
+548: <num(lnum1)>
+548: <num(lnum1)>
+549: <string(lstr1)> - <string(lstr2)>
+549: <string(lstr1)> - <string(lstr2)>
+550: 
+550: 
+551: Uploader ID:<nbsp>
+551: ID загрузившего:<nbsp>
+552: <string(lstr1)>'s Page
+552: Страница <string(lstr1)>
+553: View This User's Snapshots
+553: Просмотр снапшотов данного пользователя
+554: Search for an Uploader ID
+554: Поиск по ID загрузившего
+555: View Your Snapshots
+555: Просмотр ваших снапшотов
+556: <$cdef(224)>Report</color>
+556: <$cdef(224)>Жалоба</color>
+557: <string(lstr1)><string(lstr2)><button(START)>Меню <string(lstr3)><string(lstr4)><button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Выход из доски
+557: <string(lstr1)><string(lstr2)><button(START)>Меню <string(lstr3)><string(lstr4)><button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Выход из доски
+558: <string(lstr1)><button(START)>Menu <string(lstr3)><button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Exit Noticeboard
+558: <string(lstr1)><button(START)>Меню  <string(lstr3)><button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Выход из доски
+559: <button(L2)><button(R2)>Snapshots/Islands<nbsp>
+559: <button(L2)><button(R2)>Снапшоты/Острова<nbsp>
+560: <button(L2)><button(R2)>Snapshots/Prizes<nbsp>
+560: <button(L2)><button(R2)>Снапшоты/Призы<nbsp>
+561: <button(PHOTO_LIKE)>Like<nbsp>
+561: <button(PHOTO_LIKE)>Мне нравится<nbsp>
+562: <button(PHOTO_LIKE)>Remove Like<nbsp>
+562: <button(PHOTO_LIKE)>Мне больше не нравится<nbsp>
+563: <button(BILLBOARD_SORT)>Sort by Upload Date<nbsp>
+563: <button(BILLBOARD_SORT)>Сортировка по дате загрузки<nbsp>
+564: <button(BILLBOARD_SORT)>Sort by Ranking<nbsp>
+564: <button(BILLBOARD_SORT)>Сортировка по оценкам<nbsp>
+565: <button(ACCESS)>Ring
+565: <button(ACCESS)>Позвонить
+566: Confirm
+566: Подтвердить
+567: <string(lstr1)><string(lstr2)><button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+567: <string(lstr1)><string(lstr2)><button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+568: <button(PHOTO_LIKE)>Visit This Island <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+568: <button(PHOTO_LIKE)>Зайти на этот остров <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+569: <button(BIRD_VIEW)>View Info
+569: <button(BIRD_VIEW)>Просмотр информации
+570: Normal
+570: Нормально
+571: 
+571: 
+572: Loading...
+572: Загрузка...
+573: <button(ACCESS)>Change Orientation
+573: <button(ACCESS)>Смена ориентации
+574: Hammer
+574: Молот
+575: 
+575: 
+576: {P}<button(L_STICK)>{K}<button(PAD_ALL)>{E}Двигать камеру <string(lstr3)><string(lstr4)><button(OK)>Карта <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+576: {P}<button(L_STICK)>{K}<button(PAD_ALL)>{E}Двигать камеру <string(lstr3)><string(lstr4)><button(OK)>Карта <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+577: <button(OK)>Warp
+577: <button(OK)>Перемещение
+578: <button(OK)>More Info
+578: <button(OK)>Подробнее
+579: Minimap Style
+579: Минималистичный стиль
+580: Minimap View
+580: Просмотр миникарты
+581: Chunky
+581: Крупный
+582: Retro
+582: Ретро
+583: Rotate
+583: Повернуть
+584: Fixed
+584: Зафиксировано
+585: Change the visual style of the minimap.
+585: Cмена визуального стиля миникарты.
+586: Choose whether or not the minimap rotates when you rotate the camera.
+586: Выберите, вращать ли миникарту во время Ваших поворотов камеры.
+587: <$cdef(226)>None</color>
+587: <$cdef(226)>Ничего</color>
+588: Change your island's name.
+588: Смена названия Вашего острова.
+589: {P}<button(MENU_LEFT)><button(MENU_RIGHT)>Move Cursor <button(WINDOW_PREV)><button(WINDOW_NEXT)>Standard/Special Characters <button(MAKE_NAME_NEW_LINE)>Restore Default <button(START)>Finish <button(MAKE_NAME_RETURN)>Previous Screen <button(OK)>Select <button(CANCEL)>Delete{E}{K}<button(ENTER)>Finish <button(BS)><button(MOUSE_CANCEL)>Delete <button(MAKE_NAME_RETURN)>Previous Screen{E}
+589: {P}<button(MENU_LEFT)><button(MENU_RIGHT)>Движение курсора <button(WINDOW_PREV)><button(WINDOW_NEXT)>Стандартные/особые символы <button(MAKE_NAME_NEW_LINE)>Восстановить заводские настройки. <button(START)>Завершить <button(MAKE_NAME_RETURN)>Пред. экран <button(OK)>Выбор <button(CANCEL)>Удалить{E}{K}<button(ENTER)>Завершить <button(BS)><button(MOUSE_CANCEL)>Удалить <button(MAKE_NAME_RETURN)>Пред. экран{E}
+590: <button(OK)>Collect Gift<nbsp>
+590: <button(OK)>Взять подарок<nbsp>
+591: 
+591: 
+592: <button(CAR_BRAKE)>Reverse <button(CAR_ACCEL)>Accelerate <button(CAR_EXIT)>Get Off <button(CAR_JUMP)>Jump
+592: <button(CAR_BRAKE)>Задний ход <button(CAR_ACCEL)>Газ <button(CAR_EXIT)>Выйти <button(CAR_JUMP)>Прыгнуть
+593: <button(CAR_FLY)>Lift Off <button(CAR_BRAKE)>Reverse <button(CAR_ACCEL)>Accelerate <button(CAR_EXIT)>Get Off <button(CAR_JUMP)>Jump
+593: <button(CAR_FLY)>Взлёт <button(CAR_BRAKE)>Задний ход <button(CAR_ACCEL)>Газ <button(CAR_EXIT)>Выйти <button(CAR_JUMP)>Прыгнуть
+594: <button(CAR_BRAKE)>Reverse <button(CAR_ACCEL)>Accelerate <button(CAR_UP)>Ascend <button(CAR_DOWN)>Descend
+594: <button(CAR_BRAKE)>Задний ход <button(CAR_ACCEL)>Газ <button(CAR_UP)>Взмыть <button(CAR_DOWN)>Снизойти
+595: Hide Yourself
+595: Спрятаться
+596: Hide Everyone
+596: Спрятать всех
+597: Off
+597: Выкл
+598: {P}<button(L_STICK)><br><button(R_STICK)><br>{K}<button(PAD_ALL)><br><button(MOUSE)><br>{E}<button(PHOTO_ZOOM_IN)><button(PHOTO_ZOOM_OUT)><br><button(PHOTO_LEFT_ROLL)><button(PHOTO_RIGHT_ROLL)><br><button(PHOTO_RESET)><br><button(PHOTO_RENDER_CHANGE)><br><button(PHOTO_CAMERA_CHANGE)><br><button(PHOTO_EMO_1)><button(PHOTO_EMO_2)><br><button(PHOTO_END_2)><br><button(PHOTO_FOG)>
+598: {P}<button(L_STICK)><br><button(R_STICK)><br>{K}<button(PAD_ALL)><br><button(MOUSE)><br>{E}<button(PHOTO_ZOOM_IN)><button(PHOTO_ZOOM_OUT)><br><button(PHOTO_LEFT_ROLL)><button(PHOTO_RIGHT_ROLL)><br><button(PHOTO_RESET)><br><button(PHOTO_RENDER_CHANGE)><br><button(PHOTO_CAMERA_CHANGE)><br><button(PHOTO_EMO_1)><button(PHOTO_EMO_2)><br><button(PHOTO_END_2)><br><button(PHOTO_FOG)>
+599: <button(PHOTO_GUIDE)>Hide Guide <string(lstr1)>
+599: <button(PHOTO_GUIDE)>Скрыть инструкцию <string(lstr1)>
+600: <button(PHOTO_GUIDE)>Show Guide <string(lstr1)>
+600: <button(PHOTO_GUIDE)>Показать инструкцию <string(lstr1)>
+601: {P}<button(L_STICK)>{K}<button(MODIFIER1)>+<button(MOUSE)>{E}Move Focal Point
+601: {P}<button(L_STICK)>{K}<button(MODIFIER1)>+<button(MOUSE)>{E}Сдвинуть координирующую точку
+602: 
+602: 
+603: Blur Intensity
+603: Глубина размытости
+604: <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back <button(PHOTO_PROCESSING)>Show Unedited Version
+604: <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад <button(PHOTO_PROCESSING)>Показать неотред. версию
+605: <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back <button(PHOTO_PROCESSING)>Show Edited Version
+605: <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад <button(PHOTO_PROCESSING)>Показать отредакт. версию
+606: Place
+606: Порложить
+607: Distance
+607: Дистанция
+608: <button(RIGHT)>Повернуть по-часовой <button(LEFT)>Повернуть против-часовой{P}<button(L_STICK)>{K}<button(MODIFIER2)>+<button(MOUSE_WHEEL_UP)><button(MOUSE_WHEEL_DOWN)>{E}Масштаб <button(OK)>Подтвердить <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+608: <button(RIGHT)>Повернуть по-часовой <button(LEFT)>Повернуть против-часовой{P}<button(L_STICK)>{K}<button(MODIFIER2)>+<button(MOUSE_WHEEL_UP)><button(MOUSE_WHEEL_DOWN)>{E}Масштаб <button(OK)>Подтвердить <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+609: <button(ACCESS)>Ride
+609: <button(ACCESS)>Ехать
+610: <button(START)>Remove Blueprint<nbsp>
+610: <button(START)>Убрать чертёж<nbsp>
+611: <button(ACCESS)>Inspect
+611: <button(ACCESS)>Оглядеть
+612: <string(lstr1)> <button(USE)>Sit
+612: <string(lstr1)> <button(USE)>Сесть
+613: <button(ACCESS)>Examine
+613: <button(ACCESS)>Изучить
+614: <-> Residents will begin farming.<br><-> More recipes will unlock at <$cdef(244)>crafting stations</color>.
+614: <-> Жители займутся фермерством.<br><-> На <$cdef(244)>верстаках</color> будут доступны новые рецепты.
+615: <-> Residents will till fields faster.<br><-> Residents will water crops faster.<br><-> More recipes will unlock at <$cdef(244)>crafting stations</color>.
+615: <-> Жители быстрее вспахают поля.<br><-> Жители быстрее польют посевы.<br><-> На <$cdef(244)>верстаках</color> будут доступны новые рецепты.
+616: <-> Residents will sow seeds.<br><-> New residents will join the farm.<br><-> More recipes will unlock at <$cdef(244)>crafting stations</color>.
+616: <-> Жители посадят семена.<br><-> Новые жители присоеденятся к фермерам.<br><-> На <$cdef(244)>верстаках</color> будут доступны новые рецепты.
+617: <-> New residents will join the farm.<br><-> More recipes will unlock at <$cdef(244)>crafting stations</color>.
+617: <-> Новые жители присоеденятся к фермерам.<br><-> На <$cdef(244)>верстаках</color> будут доступны новые рецепты.
+618: <-> New residents will join the town.<br><-> More recipes will unlock at <$cdef(244)>crafting stations</color>.
+618: <-> Новые жители переедут в город.<br><-> На <$cdef(244)>верстаках</color> будут доступны новые рецепты.
+619: <-> New residents will join the town.<br><-> More recipes will unlock at <$cdef(244)>crafting stations</color>.
+619: <-> Новые жители переедут в город.<br><-> На <$cdef(244)>верстаках</color> будут доступны новые рецепты.
+620: <-> New residents will join the town.<br><-> More recipes will unlock at <$cdef(244)>crafting stations</color>.
+620: <-> Новые жители переедут в город.<br><-> На <$cdef(244)>верстаках</color> будут доступны новые рецепты.
+621: <-> New residents will join the town.<br><-> More recipes will unlock at <$cdef(244)>crafting stations</color>.
+621: <-> Новые жители переедут в город.<br><-> На <$cdef(244)>верстаках</color> будут доступны новые рецепты.
+622: <-> New residents will join the town.<br><-> More recipes will unlock at <$cdef(244)>crafting stations</color>.
+622: <-> Новые жители переедут в город.<br><-> На <$cdef(244)>верстаках</color> будут доступны новые рецепты.
+623: <-> Royal guards will learn the Kabuff spell.<br><-> Residents will build blueprints using materials in <$iicon(2045)><$cdef(244)><$plr_iname(2045)></color>.<br><-> New residents will join the castle.<br><-> More recipes will unlock at <$cdef(244)>crafting stations</color>.
+623: <-> Королевская гвардия изучит заклинание Кабуфф.<br><-> Жители создадут чертежи с помощью материалов из <$iicon(2045)><$cdef(244)><$plr_iname(2045)></color>.<br><-> Новые жителю присоеденятся к замку.<br><-> На <$cdef(244)>верстаках</color> будут доступны новые рецепты.
+624: <-> Soldiers will learn the Spinning Slice ability.<br><-> New residents will join the castle.<br><-> More recipes will unlock at <$cdef(244)>crafting stations</color>.
+624: <-> Воиска изучат способность Кручёная нарезка.<br><-> Новые жители присоеденятся к замку.<br><-> На <$cdef(244)>верстаках</color> будут доступны новые рецепты.
+625: <-> Healers will restore more HP when they cast Multiheal.<br><-> New residents will join the castle.<br><-> More recipes will unlock at <$cdef(244)>crafting stations</color>.
+625: <-> Лекари восстановят больше ЕЖ, когда наведут Мульти-лечение.<br><-> Новые жители присоеденятся к замку.<br><-> На <$cdef(244)>верстаках</color> будут доступны новые рецепты.
+626: <-> Monsters will build blueprints using materials in <$iicon(2045)><$cdef(244)><$plr_iname(2045)></color>.<br><-> New monsters will join the Ark.<br><-> На <$cdef(244)>верстаках</color> будут доступны новые рецепты.
+626: <-> Монстры соорудят чертежи из материалов <$iicon(2045)><$cdef(244)><$plr_iname(2045)></color>.<br><-> На <$cdef(244)>верстаках</color> будут доступны новые рецепты.
+627: <-> New monsters will join the Ark.<br><-> More recipes will unlock at <$cdef(244)>crafting stations</color>.
+627: <-> Новые монстры присоединятся к ковчегу.<br><-> На <$cdef(244)>верстаках</color> будут доступны новые рецепты.
+628: 
+628: 
+629: <button(CAR_LIGHT)>Turn Lights On/Off<nbsp>
+629: <button(CAR_LIGHT)>Посоротники Вкл/выкл.<nbsp>
+630: Builder:
+630: Строитель:
+631: Metal Detector
+631: Метало-детектор
+632: Item Detector
+632: Детектор вещей
+633: {P}<button(R_STICK)>{K}<button(MOUSE_WHEEL_UP)><button(MOUSE_WHEEL_DOWN)>{E}Zoom<nbsp>
+633: {P}<button(R_STICK)>{K}<button(MOUSE_WHEEL_UP)><button(MOUSE_WHEEL_DOWN)>{E}Масштаб<nbsp>
+634: <nbsp>(Gardens)
+634: <nbsp>(Сады)
+635: <nbsp>(Sands)
+635: <nbsp>(Пески)
+636: <nbsp>(Steppe)
+636: <nbsp>(Степь)
+637: 
+637: 
+638: Cancel
+638: Отмена
+639: 
+639: 
+640: 
+640: 
+641: 
+641: 
+642: 
+642: 
+643: <button(RANDOM_ISLAND_LIST)>Quit Battle<nbsp>
+643: <button(RANDOM_ISLAND_LIST)>Покинуть бой<nbsp>
+644: <button(OK)>View Map
+644: <button(OK)>Смотреть карту
+645: Change the name that's visible to other players in multibuilder mode or on the noticeboard.
+645: Смена имени, которое видно игрокам в многопольз. режиме или на доске почёта.
+646: <num(lnum1)> lumps o' <$iicon(425)><$cdef(244)><$sgl_iname(425)></color>...
+646: <num(lnum1)> куски <$iicon(425)><$cdef(244)><$sgl_iname(425)></color>...
+647: <num(lnum1)> chunks of <$iicon(427)><$cdef(244)><$sgl_iname(427)></color>...
+647: <num(lnum1)> части <$iicon(427)><$cdef(244)><$sgl_iname(427)></color>...
+648: <num(lnum1)> chunks o' <$iicon(426)><$cdef(244)><$sgl_iname(426)></color>...
+648: <num(lnum1)> части <$iicon(426)><$cdef(244)><$sgl_iname(426)></color>...
+649: <num(lnum1)> chunks o' <$iicon(584)><$cdef(244)><$sgl_iname(584)></color>...
+649: <num(lnum1)> части <$iicon(584)><$cdef(244)><$sgl_iname(584)></color>...
+650: <num(lnum1)> nuggets o' <$iicon(461)><$cdef(244)><$iname(461)></color>...
+650: <num(lnum1)> слитки <$iicon(461)><$cdef(244)><$iname(461)></color>...
+651: <string(lstr1)>and that's all!
+651: <string(lstr1)>и всё!
+652: Builder ID
+652: ID строителя
+653: [Fungus]
+653: [Грибок]
+654: →
+654: →
+655: Notifications
+655: Уведомления
+656: Swap Mode
+656: Режим перестновки
+657: Fill Mode
+657: Режим заполнения
+658: The Buggy Buggy
+658: Багованая багги
+659: <button(ACCESS)>Just Build It!
+659: <button(ACCESS)>Просто строй!
+660: <button(ACCESS)>Transform
+660: <button(ACCESS)>Переместить
+661: Add to Favourites
+661: Добавить в избранное
+662: Display
+662: Отобразить
+663: Remove
+663: Удалить
+664: <button(PHOTO_FAV)>Add to Favourites<nbsp>
+664: <button(PHOTO_FAV)>Добавить в избранное<nbsp>
+665: <button(BLUEPRINT_SLICE_RESET)>Full View <button(LOWER)>Down a Level <button(HIGHER)>Up a Level {P}<button(L_STICK)>{K}<button(MODIFIER2)>+<button(MOUSE_WHEEL_UP)><button(MOUSE_WHEEL_DOWN)>{E}Zoom {P}<button(R_STICK)>Rotate {K}{E}<button(OK)>Select <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+665: <button(BLUEPRINT_SLICE_RESET)>Полный осмотр <button(LOWER)>Вниз на уровень <button(HIGHER)>Вверх на уровень {P}<button(L_STICK)>{K}<button(MODIFIER2)>+<button(MOUSE_WHEEL_UP)><button(MOUSE_WHEEL_DOWN)>{E}Масштаб {P}<button(R_STICK)>Поворот {K}{E}<button(OK)>Отбор <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+666: <string(lstr1)> <button(DASH)>Ride
+666: <string(lstr1)> <button(DASH)>Ехать
+667: <num(lnum1)> to Go
+667: Ещё <num(lnum1)>
+668: Smash even the sternest, stoutest stuff!
+668: Разбивай даже самое крепкое и прочное!
+669: 
+669: 
+670: 
+670: 
+671: Bung down blocks for brisk building!
+671: Кладите блоки для быстрого строительства!
+672: 
+672: 
+673: 
+673: 
+674: Scoop up lots and lots of liquids!
+674: Черпайте много-много жидкости!
+675: Surface
+675: Поверхность
+676: Upper Level
+676: Верхний уровень
+677: Lower Level
+677: Нижний уровень
+678: 
+678: 
+679: <button(BIRD_VIEW)>Map<nbsp>
+679: <button(BIRD_VIEW)>Карта<nbsp>
+680: <button(BIRD_VIEW)>(Press and Hold) Bird's Eye View<nbsp>
+680: <button(BIRD_VIEW)>(Нажмите и удерживайте) Вид птичьего полёта<nbsp>
+681: <button(BIRD_VIEW)>(Press and Hold) Map<nbsp>
+681: <button(BIRD_VIEW)>(Нажмите и удерживайте) Карта<nbsp>
+682: <button(OK)>Select <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Exit Noticeboard
+682: <button(OK)>Выбор <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Выйти с доски почёта
+683: <string(lstr1)><button(START)>Menu <string(lstr3)><button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+683: <string(lstr1)><button(START)>Меню <string(lstr3)><button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+684: <string(lstr1)><button(START)>Menu <string(lstr3)><button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+684: <string(lstr1)><button(START)>Меню <string(lstr3)><button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+685: <nbsp><button(OK)>{K}<button(MOUSE_OK)>{E}Menu <button(PHOTO_UPLOAD)>Upload <button(PHOTO_DELETE)>Delete <button(CANCEL)><button(START)>{K}<button(MOUSE_CANCEL)>{E}Back
+685: <nbsp><button(OK)>{K}<button(MOUSE_OK)>{E}Меню <button(PHOTO_UPLOAD)>Загрузить <button(PHOTO_DELETE)>Удалить <button(CANCEL)><button(START)>{K}<button(MOUSE_CANCEL)>{E}Назад
+686: <button(OK)>{K}<button(MOUSE_OK)>{E}Menu <button(ITEM_HELP)>Remove from Noticeboard <button(PHOTO_DELETE)>Delete <button(CANCEL)><button(START)>{K}<button(MOUSE_CANCEL)>{E}Back
+686: <button(OK)>{K}<button(MOUSE_OK)>{E}Меню <button(ITEM_HELP)>Удалить с доски почёта <button(PHOTO_DELETE)>Удалить <button(CANCEL)><button(START)>{K}<button(MOUSE_CANCEL)>{E}Назад
+687: <button(OK)>{K}<button(MOUSE_OK)>{E}Menu <button(PHOTO_DELETE)>Delete <button(CANCEL)><button(START)>{K}<button(MOUSE_CANCEL)>{E}Back
+687: <button(OK)>{K}<button(MOUSE_OK)>{E}Меню <button(PHOTO_DELETE)>Удалить <button(CANCEL)><button(START)>{K}<button(MOUSE_CANCEL)>{E}Назад
+688: <button(MENU_LEFT)><button(MENU_RIGHT)>Previous/Next Snapshot<nbsp>
+688: <button(MENU_LEFT)><button(MENU_RIGHT)>Предыдущий/следующий снапшот<nbsp>
+689: What's that over there? Go and pick it up!
+689: Что это там? Пойди подними!
+690: Avoid Atlas's attacks!
+690: Уклоняйтесь от атак Атласа!
+691: Defeat the monster Malroth has become!
+691: Одолейте мотстра, в коего обратился Малрот!
+692: 
+692: 
+693: Defeat the monster Malroth has become!
+693: Одолейте мотстра, в коего обратился Малрот!
+694: Attack the Master of Destruction!
+694: Атака владыки разрушения!
+695: Fire the blasters with <button(CAR_ATTACK)>!
+695: Стреляйте бластерами <button(CAR_ATTACK)>!
+696: 
+696: 
+697: 
+697: 
+698: Fulfil your promise to Malroth!
+698: Выполните обещание Малроту!
+699: 
+699: 
+700: <button(CAR_BARRIER)>Отразите луч багги-барьером!
+700: <button(CAR_BARRIER)>Отразите луч багги-барьером!
+701: <button(CAR_LASER_ATTACK)>Выстрелите из пушки Казаппл, прежде чем он поразит вас!
+701: <button(CAR_LASER_ATTACK)>Выстрелите из пушки Казепл, прежде чем он поразит вас!
+702: Битва почти окончена!
+702: Битва почти окончена!
+703: Попадите Атласу в глаз с помощью пушки Kazapple!
+703: Попадите Атласу в глаз с помощью пушки Казепл!
+704: Попытайтесь выдержать атаки Малрота!
+704: Попытайтесь выдержать атаки Малрота!
+705: <button(ACCESS)>???
+705: <button(ACCESS)>???
+706: 
+706: 
+707: 
+707: 
+708: 
+708: 
+709: 
+709: 
+710: Everyone attack Atlas together!
+710: Атакуйте Аттласа сообща!
+711: <button(ACCESS)>Light
+711: <button(ACCESS)>Свет
+712: <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Exit Noticeboard
+712: <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Выйти из доски почёта
+713: <button(BIRD_VIEW)>Show/Hide Description <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+713: <button(BIRD_VIEW)>Показать/скрыть описание <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+714: <button(MENU_LEFT)><button(MENU_RIGHT)>Change Category<nbsp>
+714: <button(MENU_LEFT)><button(MENU_RIGHT)>Смена категории<nbsp>
+715: <string(lstr1)><string(lstr3)><button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+715: <string(lstr1)><string(lstr3)><button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+716: <string(lstr1)><string(lstr3)><button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+716: <string(lstr1)><string(lstr3)><button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+717: Rose Tint
+717: Розовый оттенок
+718: 
+718: 
+719: <button(ITEM_HELP)>Show/Hide Description <button(OK)>Continue
+719: <button(ITEM_HELP)>Показать/скрыть описание <button(OK)>Продолжить
+720: <button(RECIPE_HINT)>View Invention Conditions<nbsp>
+720: <button(RECIPE_HINT)>Посмотреть условия постройки<nbsp>
+721: <string(lstr1)><button(USE)>Camouflage
+721: <string(lstr1)><button(USE)>Камуфляж
+722: <button(MENU)>Menu <string(lstr1)><button(ATTACK)>Attack <string(lstr2)><button(JUMP)>Jump <button(DASH)>Get Off
+722: <button(MENU)>Меню <string(lstr1)><button(ATTACK)>Атака <string(lstr2)><button(JUMP)>Прыжок <button(DASH)>Взлёт
+723: <button(MENU)>Menu <string(lstr1)><button(ATTACK)>Attack <string(lstr2)><button(JUMP)>Fly <button(DASH)>Let Go
+723: <button(MENU)>Меню <string(lstr1)><button(ATTACK)>Атака <string(lstr2)><button(JUMP)>Полёт <button(DASH)>Взлёт
+724: <button(MENU)>Menu <string(lstr1)><button(ATTACK)>Attack <string(lstr2)><button(JUMP)>Jump <button(DASH)>Get Off
+724: <button(MENU)>Меню <string(lstr1)><button(ATTACK)>Атака <string(lstr2)><button(JUMP)>Прыжок <button(DASH)>Взлёт
+725: <button(MENU)>Menu <string(lstr1)><button(ATTACK)>Attack <string(lstr2)><button(JUMP)>Jump <button(DASH)>Get Off
+725: <button(MENU)>Меню <string(lstr1)><button(ATTACK)>Атака <string(lstr2)><button(JUMP)>Прыжок <button(DASH)>Взлёт
+726: <button(MENU)>Menu <string(lstr1)><button(ATTACK)>Attack <string(lstr2)><button(JUMP)>Jump <button(DASH)>Get Off
+726: <button(MENU)>Меню <string(lstr1)><button(ATTACK)>Атака <string(lstr2)><button(JUMP)>Прыжок <button(DASH)>Взлёт
+727: Accessory
+727: Аксессуар
+728: <button(OK)>{K}<button(MOUSE_OK)><button(MOUSE_CANCEL)>{E}Resume Play
+728: <button(OK)>{K}<button(MOUSE_OK)><button(MOUSE_CANCEL)>{E}Продолжить игру
+729: <button(OPEN_MEDAL_UI)>Give Mini Medals
+729: <button(OPEN_MEDAL_UI)>Дать мини медали
+730: <button(ACCESS)>Ride <string(lstr1)><button(USE)>Upgrade
+730: <button(ACCESS)>Ride <string(lstr1)><button(USE)>Обновление
+731: <button(ACCESS)>Check!
+731: <button(ACCESS)>Заценить!
+732: <button(ITEM_HELP)>Remove from Noticeboard <button(PHOTO_UPLOAD)>Upload <button(CANCEL)><button(START)>{K}<button(MOUSE_CANCEL)>{E}Back
+732: <button(ITEM_HELP)>Удалить с доски почёта <button(PHOTO_UPLOAD)>Загрузить <button(CANCEL)><button(START)>{K}<button(MOUSE_CANCEL)>{E}Назад
+733: 
+733: 
+734: <button(OK)>{K}<button(MOUSE_OK)>{E}Display <button(BUILDART_PHOTO_REMOVE)>Remove <button(CANCEL)><button(START)>{K}<button(MOUSE_CANCEL)>{E}Back
+734: <button(OK)>{K}<button(MOUSE_OK)>{E}Отобразить <button(BUILDART_PHOTO_REMOVE)>Убрать <button(CANCEL)><button(START)>{K}<button(MOUSE_CANCEL)>{E}Назад
+735: <button(OK)>{K}<button(MOUSE_OK)>{E}Display <button(CANCEL)><button(START)>{K}<button(MOUSE_CANCEL)>{E}Back
+735: <button(OK)>{K}<button(MOUSE_OK)>{E}Отобразить <button(CANCEL)><button(START)>{K}<button(MOUSE_CANCEL)>{E}Назад
+736: 
+736: 
+737: 
+737: 
+738: <button(GOLDON_GUARD)>Block<nbsp>
+738: <button(GOLDON_GUARD)>Блокировать<nbsp>
+739: <button(R1)>Clobber Hargon<nbsp>
+739: <button(R1)>Молоточник Аргон<nbsp>
+740: {P}<button(R_STICK)>{K}<button(MOUSE)>{E}Choose Gesture
+740: {P}<button(R_STICK)>{K}<button(MOUSE)>{E}Выбрать жест
+741: very<nbsp>
+741: очень<nbsp>
+742: far away
+742: далеко
+743: nearby
+743: близко
+744: <button(LEFT_RIGHT)>Select
+744: <button(LEFT_RIGHT)>Выбор
+745: <$cdef(226)>(No Caption)</color>
+745: <$cdef(226)>(Без имени)</color>
+746: (No Tags)
+746: (Без тэгов)
+747: <button(BILLBOARD_TYPE)>Change
+747: <button(BILLBOARD_TYPE)>Сменить
+748: <string(lstr1)><string(lstr2)> <string(lstr3)>
+748: <string(lstr1)><string(lstr2)> <string(lstr3)>
+749: 
+749: 
+750: <button(RECIPE_HINT)>View Recipe<nbsp>
+750: <button(RECIPE_HINT)>Просмотр рецепта<nbsp>
+751: 
+751: 
+752: 
+752: 
+753: 
+753: 
+754: 
+754: 
+755: 
+755: 
+756: 
+756: 
+757: 
+757: 
+758: Builderdom's Best Category: <string(lstr1)>
+758: Лучшая строительская категория: <string(lstr1)>
+759: Infinite supply of <string(lstr1)>!
+759: Бесконечный набор <string(lstr1)>!
+760: 
+760: 
+761: Auto-Adjust Camera
+761: Автоматическая камера
+762: Choose whether or not to have the camera move automatically when your character is blocked from view.
+762: Выберите, двигать ли камеру автоматически, когда вашего персонажа не видно.
+763: Supervisor of the Siege
+763: Надзиратель осады
+764: The Hair Force's Head Honcho
+764: Глава военно-волосатых сил
+765: The Air Force's Awful Admiral
+765: Ужасный адмирал ВВС
+766: The Scare Force's Sinister Sergeant
+766: Злобный сержант военно-страшащих сил
+767: The Traitor and His Hateful Handler
+767: Отступник и его ненавистный координатор
+768: The Scaly Squadron's Superior
+768: Почётный член чешуйчатого эскадрона
+769: <string(lstr3)><button(CAR_ATTACK)>Blasters <string(lstr1)><string(lstr2)>
+769: <string(lstr3)><button(CAR_ATTACK)>Бластеры <string(lstr1)><string(lstr2)>
+770: <nbsp><button(CAR_BARRIER)>Buggy Barrier
+770: <nbsp><button(CAR_BARRIER)>Барьер багги
+771: <nbsp><button(CAR_LASER_ATTACK)>Kazapple Cannon
+771: <nbsp><button(CAR_LASER_ATTACK)>Пушка Казепл
+772: <button(ACCESS)>Create Flag <button(USE)>Start Again
+772: <button(ACCESS)>Создать флаг <button(USE)>Начать сначала
+773: Meadow
+773: Луг
+774: Desert
+774: Пустыня
+775: Forest
+775: Лес
+776: Tundra
+776: Тундра
+777: Volcanic
+777: Вулканы
+778: Lakeland
+778: Озеро
+779: Monstrous
+779: Монструозный
+780: <button(ACCESS)>Bury
+780: <button(ACCESS)>Копать
+781: {P}<button(L_STICK)>{K}<button(STICK_UP_RUN)><button(STICK_LEFT_RUN)><button(STICK_DOWN_RUN)><button(STICK_RIGHT_RUN)>{E}Целиться <button(OK)>Огонь <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Отмена
+781: {P}<button(L_STICK)>{K}<button(STICK_UP_RUN)><button(STICK_LEFT_RUN)><button(STICK_DOWN_RUN)><button(STICK_RIGHT_RUN)>{E}Целиться <button(OK)>Огонь <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Отмена
+782: <$icon(1964)><button(USE)>Use
+782: <$icon(1964)><button(USE)>Использовать
+783: <button(DASH)>Transform<nbsp>
+783: <button(DASH)>Переместить<nbsp>
+784: From the Start
+784: Сначала
+785: <button(CAR_BRAKE)>Reverse <button(CAR_ACCEL)>Accelerate <button(CAR_UP)>Ascend <button(CAR_DOWN)>Descend <button(CAR_ATTACK)>Blasters
+785: <button(CAR_BRAKE)>Задний ход <button(CAR_ACCEL)>Газ <button(CAR_UP)>Подъём <button(CAR_DOWN)>Спуск <button(CAR_ATTACK)>Бластеры
+786: <button(CAR_EXIT)>Get Off
+786: <button(CAR_EXIT)>Слезть
+787: From a Little Later On
+787: Немного позже
+788: Play the game from the very start of the story. Recommended for beginner builders.
+788: Играйте в игру с самого начала сюжета. Рекомендовано для начинающих строителей.
+789: Play the game from part way through the story. Recommended for experienced builders.
+789: Играйте в игру с определённого участка сюжета. Рекомендовано для опытных строителей.
+790: Bildrick
+790: Строитик
+791: Creatrix
+791: Создатик
+792: Total
+792: Всего
+793: <button(OK)>Select <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+793: <button(OK)>Выбор <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+794: Builderdom's Best
+794: Лучшая постройка
+795: <button(WARP_LIST)>Warp List<nbsp>
+795: <button(WARP_LIST)>Список перемещений<nbsp>
+796: 
+796: 
+797: <button(BUILDER_TOOL)>Fill
+797: <button(BUILDER_TOOL)>Заполнить
+798: 
+798: 
+799: 
+799: 
+800: 
+800: 
+801: {P}<button(L_STICK)>{E}{K}<button(MOUSE_WHEEL_UP)>{E}Zoom In/{K}<button(MOUSE_WHEEL_DOWN)>{E}Zoom Out
+801: {P}<button(L_STICK)>{E}{K}<button(MOUSE_WHEEL_UP)>{E}Увеличить/{K}<button(MOUSE_WHEEL_DOWN)>{E}Отдалить
+802: {P}<button(L_STICK)>{E}{K}<button(MOUSE_WHEEL_UP)>{E}Zoom In
+802: {P}<button(L_STICK)>{E}{K}<button(MOUSE_WHEEL_UP)>{E}Увеличить
+803: {P}<button(L_STICK)>{E}{K}<button(MOUSE_WHEEL_DOWN)>{E}Zoom Out
+803: {P}<button(L_STICK)>{E}{K}<button(MOUSE_WHEEL_DOWN)>{E}Отдалить
+804: <button(BUILDER_TOOL)>Place
+804: <button(BUILDER_TOOL)>Поставить
+805: <button(BUILDER_TOOL)>Scoop
+805: <button(BUILDER_TOOL)>Зачерпнуть
+806: <button(BUILDER_TOOL)>Pour
+806: <button(BUILDER_TOOL)>Вылить
+807: <button(BUILDER_TOOL)>Mark
+807: <button(BUILDER_TOOL)>Пометить
+808: <button(BUILDER_TOOL)>Swap
+808: <button(BUILDER_TOOL)>Поменять
+809: <button(BUILDER_TOOL)>Play
+809: <button(BUILDER_TOOL)>Играть
+810: <button(BUILDER_TOOL)>Chisel
+810: <button(BUILDER_TOOL)>Высечь
+811: <button(OK)>Select <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back{P} <button(R_STICK)>Rotate{E}
+811: <button(OK)>Выбор <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад{P} <button(R_STICK)>Повернуть{E}
+812: <button(RANDOM_ISLAND_LIST)>View Info<nbsp>
+812: <button(RANDOM_ISLAND_LIST)>Просмотр информации<nbsp>
+813: 
+813: 
+814: 
+814: 
+815: 
+815: 
+816: 
+816: 
+817: 
+817: 
+818: 
+818: 
+819: 
+819: 
+820: <$cdef(230)>Can be dyed.</color>
+820: <$cdef(230)>Можно покрасить.</color>
+821: Explorer's Shores
+821: Берега проводника
+822: <$icon(866)>Преобразующая кельма<br><$icon(866)>Transform-O-Trowel Upgrade<br><$icon(1269)>Magic Pencil<br><$icon(881)>Chisel<br><$icon(867)>Bottomless Pot Upgrade<br><$icon(2252)>Buildnoculars
+822: <$icon(866)>Преобразующая кельма<br><$icon(866)>Улучшение преобразующей кельмы<br><$icon(1269)>Волшебный карандаш<br><$icon(881)>Высечь<br><$icon(867)>Улучшение бездонного горшка<br><$icon(2252)>Стройнокль
+823: <button(START)>Rewards List<nbsp>
+823: <button(START)>Список наград<nbsp>
+824: <button(BLUEPRINT_GET)>Take as Item<nbsp>
+824: <button(BLUEPRINT_GET)>Взять предмет<nbsp>
+825: <button(HAMMER1)>Big Bash<nbsp>
+825: <button(HAMMER1)>Большой удар<nbsp>
+826: <button(HAMMER2)>Bigger Bash<nbsp>
+826: <button(HAMMER2)>Сильный удар<nbsp>
+827: Continue from Demo
+827: Продолжить с демо
+828: <button(ACCESS)>Dance
+828: <button(ACCESS)>Танец
+829: water
+829: вода
+830: hot water
+830: горячая вода
+831: poison
+831: яд
+832: liquid lava
+832: жидкая лава
+833: swamp water
+833: болотная вода
+834: muddy water
+834: грязная вода
+835: seawater
+835: морская вода
+836: plasma
+836: плазма
+837: Green Gardens
+837: Зелёные сады
+838: Scarlet Sands
+838: Алые пески
+839: Cerulean Steppe
+839: Лазурная степь
+840: <nbsp>(Any)
+840: <nbsp>(Любой)
+841: <nbsp>(Set)
+841: <nbsp>(Выбрать)
+842: <string(lstr1)><button(OK)>Select <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+842: <string(lstr1)><button(OK)>Выбор <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+843: <button(LOOKSEQUIP_DETATCH)>Add/Remove from Party<nbsp>
+843: <button(LOOKSEQUIP_DETATCH)>Добавить/удалить из команды<nbsp>
+844: Relocate
+844: Переместить
+845: Send Away
+845: Отослать
+846: Rename
+846: Переименовать
+847: Add to Party
+847: Добавить в команду
+848: Remove from Party
+848: Удалить из команды
+849: <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Get Up
+849: <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Встать
+850: <button(BIRD_VIEW)>Close
+850: <button(BIRD_VIEW)>Закрыть
+851: Crafts<nbsp>
+851: Крафты<nbsp>
+852: <nil>
+852: <nil>
+853: {P}<nbsp><button(R_STICK)>Rotate{K}{E}
+853: {P}<nbsp><button(R_STICK)>Повернуть{K}{E}
+854: 
+854: 
+855: Placement Rules
+855: Правила расположения
+856: +
+856: +
+857: Look Up and Down/Dash and Ride Controls
+857: Взгляд вверх и вниз/Панель управления и управление ездой
+858: Change Tool Controls
+858: Смена управления
+859: Type 1
+859: Тип 1
+860: Type 2
+860: Тип 2
+861: Type 3
+861: Тип 3
+862: <button(L1)>Look Up <button(L2)>Look Down <button(R1)>Dash/Ride Monster
+862: <button(L1)>Смотреть вверх <button(L2)>Смотреть вниз <button(R1)>Рывок/езда на монстре
+863: <button(L1)>Look Up <button(R1)>Look Down <button(L2)>Dash/Ride Monster
+863: <button(L1)>Смотреть вверх <button(R1)>Смотреть вниз <button(L2)>Рывок/езда на монстре
+864: <button(R1)>Look Up <button(L1)>Look Down <button(L2)>Dash/Ride Monster
+864: <button(R1)>Смотреть вверх <button(L1)>Смотреть вниз <button(L2)>Рывок/езда на монстре
+865: Choose whether or not to cycle between the gloves, hammer and the last other tool you used by tapping <button(ACCESS)>. Pressing and holding <button(ACCESS)> will always bring up the tool menu.
+865: Выберите, следует ли переключаться между перчатками, молотком и последним другим инструментом, который вы использовали, нажав <button(ACCESS)>. Нажатие и удерживание <button(ACCESS)> всегда будет вызывать меню инструментов.
+866: <nbsp>
+866: <nbsp>
+867: ********
+867: ********
+868: Etc.
+868: и т.д.
+869: <IfSing(pt,pts)>
+869: <IfSing(pt,pts)>
+870: sea
+870: море
+871: meadow
+871: поляна
+872: freshwater
+872: вода
+873: forest
+873: лес
+874: snowfield
+874: снежная поляна
+875: desert
+875: пустыня
+876: lava
+876: лава
+877: town
+877: город
+878: beach
+878: пляж
+879: shallows
+879: мелководье
+880: <button(BUILDER_TOOL_CHANGE)>(Press and Hold) Tool Menu<nbsp>
+880: <button(BUILDER_TOOL_CHANGE)>(Нажмите и удерживайте) Меню инструмента<nbsp>
+881: Purchase Full Version
+881: Купить полную версию
+882: <string(lstr1)> (Uploader ID: <string(lstr2)>)
+882: <string(lstr1)> (ID загрузившего: <string(lstr2)>)
+883: Ver. <string(lstr1)>
+883: Версия <string(lstr1)>
+884: Island Name
+884: Имя острова
+885: Size
+885: Размер
+886: Type
+886: Тип
+887: Password
+887: Пароль
+888: Search for an Island
+888: Поиск острова
+889: Small
+889: Малый
+890: Medium
+890: Средний
+891: Large
+891: Большой
+892: Visit This Island
+892: Навестить этот остров
+893: Search Again
+893: Поиск снова
+894: Cast a line and lure in some lovely lunkers!
+894: Забрось удочку и лови классных язей!
+895: Icon Size
+895: Размер иконки
+896: Small
+896: Маленький
+897: Large
+897: Большой
+898: Choose the size of icons used in the field and on the minimap, such as quest and destination markers.
+898: Выберите размер иконок на поле и миникарте, например квест или отметка назначения.
+899: Type 4
+899: Тип 4
+900: <button(BUILDER_TOOL_CHANGE)>Change Tools <button(BUILDER_TOOL_CHANGE)>(Press and Hold) Tool Menu <button(PUT_TRUNK)>Stow in Bag <button(GOODS)>Inventory
+900: <button(BUILDER_TOOL_CHANGE)>Смена инструментов <button(BUILDER_TOOL_CHANGE)>(Нажмите и удерживайте) Меню инструментов <button(PUT_TRUNK)>Положить в сумку <button(GOODS)>Инвентарь
+901: <button(BUILDER_TOOL_CHANGE)>(Press and Hold) Tool Menu <button(PUT_TRUNK)>Stow in Bag <button(GOODS)>Inventory
+901: <button(BUILDER_TOOL_CHANGE)>(Нажмите и удерживайте) Меню инструментов <button(PUT_TRUNK)>Сунуть в сумку <button(GOODS)>Инвентарь
+902: <button(UP_DOWN)>Change Tools <button(UP_DOWN)>(Press and Hold) Tool Menu <button(ACCESS)>(Press and Hold) Inventory
+902: <button(UP_DOWN)>Смена инструментов <button(UP_DOWN)>((Нажмите и удерживайте) Меню инструментов <button(ACCESS)>(Нажмите и удерживайте) Инвентарь
+903: <button(DOWN)>Change Tools <button(DOWN)>(Press and Hold) Tool Menu <button(UP)>Inventory
+903: <button(DOWN)>Смена инструментов <button(DOWN)>(Нажмите и удерживайте) Меню инструментов <button(UP)>Инвентарь
+904: You Only
+904: Только Вы
+905: Everyone
+905: Все
+906: Normal
+906: Обычный
+907: Happy
+907: Счастливый
+908: Angry
+908: Злой
+909: Sad
+909: Понурый
+910: Surprised
+910: Удивлённый
+911: Serious
+911: Серьёзный
+912: Knickknack Pack
+912: Набор безделушек
+913: Hotto Stuff Pack
+913: Набор горячих вещичек
+914: Aquarium Pack
+914: Набор аквариум
+915: Modernist Pack
+915: Набор модерниста
+916: Pack
+916: Набор
+917: Pack
+917: Набор
+918: Pack
+918: Набор
+919: 
+919: 
+920: <button(OK)>
+920: <button(OK)>
+921: 
+921: 
+922: 
+922: 
+923: <button(START_TOURISM)>
+923: <button(START_TOURISM)>
+924: View
+924: Вид
+925: 
+925: 
+926: 
+926: 
+927: Visit This Island
+927: Навестить остров
+928: <button(START_TOURISM)>Visit This Island <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+928: <button(START_TOURISM)>Навестить остров <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+929: <button(START_TOURISM)>Visit This Island<nbsp>
+929: <button(START_TOURISM)>Навестить остров<nbsp>
+930: Save Slot <string(lstr1)>
+930: Слот сохранения <string(lstr1)>
+931: <button(FISH_CATCH)>Grab
+931: <button(FISH_CATCH)>Схватить
+932: Январь
+932: Январь
+933: Февраль
+933: Февраль
+934: Март
+934: Март
+935: Апрель
+935: Апрель
+936: Май
+936: Май
+937: Июнь
+937: Июнь
+938: Июль
+938: Июль
+939: Август
+939: Август
+940: Сентябрь
+940: Сентябрь
+941: Октябрь
+941: Октябрь
+942: Ноябрь
+942: Ноябрь
+943: Декабрь
+943: Декабрь
+944: До необузданых полян
+944: До Фуроуфилд
+945: After Furrowfield
+945: После Фуроуфилд
+946: Before Khrumbul-Dun
+946: До Храмбл-дан
+947: After Khrumbul-Dun
+947: После Храмбл-дан
+948: До Мунбрука
+948: До Мунбрука
+949: After Moonbrooke
+949: После Мунбрука
+950: After Malhalla
+950: После Мальгаллы
+951: After the Credits
+951: После титров
+952: Before Malhalla
+952: До Мальгаллы
+953: <button(L_STICK)> Walk/Run Setting
+953: <button(L_STICK)> Настройки ходьбы/бега
+954: Your character will start to run when you tilt <button(L_STICK)> all the way.
+954: Ваш персонаж начнёт бежать когда вы наклоните <button(L_STICK)> полностью.
+955: Your character will start to run when you tilt <button(L_STICK)> a fair amount.
+955: Ваш персонаж начнёт бежать когда вы наклоните <button(L_STICK)> достаточно сильно.
+956: Your character will start to run when you tilt <button(L_STICK)> a small amount.
+956: Ваш персонаж начнёт бежать когда вы наклоните <button(L_STICK)> чуть-чуть.
+957: 
+957: 
+958: <button(MENU)>Menu <string(lstr1)>
+958: <button(MENU)>Меню <string(lstr1)>
+959: <button(FISHING)>Put Fish Away
+959: <button(FISHING)>Убрать рыбу
+960: <button(FISH_ICON)>Show Fish Icons<nbsp>
+960: <button(FISH_ICON)>Показать иконки рыбы<nbsp>
+961: <button(FISH_ICON)>Hide Fish Icons<nbsp>
+961: <button(FISH_ICON)>Скрыть иконки рыбы<nbsp>
+962: Resident Rendering
+962: Рендер жителей
+963: Always On
+963: Всегда вкл
+964: Prioritise Performance
+964: Приоритет производительности
+965: Always show all of your residents, even when it impacts on performance.<br><$cdef(224)>This only applies on the Isle of Awakening or Buildertopia.</color>
+965: Всегда показывать всех Ваших жителей, даже когда это влияет на производительность.<br><$cdef(224)>Это влияет только на Остров пробуждения или Стройтопию.</color>
+966: Prioritise performance by limiting the number of residents shown on screen to 30.<br><$cdef(224)>This only applies on the Isle of Awakening or Buildertopia.</color>
+966: Ограничить кол-во жителей на экране до 30, для прироста производительности.<br><$cdef(224)>Это влияет только на Остров пробуждения или Стройтопию.</color>
+967: Normal Mode
+967: Обычный режим
+968: Shallow Mode
+968: Режим мелководья
+969: <button(ITEM_HELP)>Показать/Hide Description <string(lstr1)><button(OK)>Add to Inventory <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+969: <button(ITEM_HELP)>Показать/скрыть описание <string(lstr1)><button(OK)>Добавить в инвентарь <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+970: <button(ITEM_HELP)>Show/Hide Description <string(lstr1)><button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+970: <button(ITEM_HELP)>Показать/скрыть описание <string(lstr1)><button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+971: <button(POINT_DISP)>Show/Hide Point Values<nbsp>
+971: <button(POINT_DISP)>Показать/скрыть кол-во очков<nbsp>
+972: <button(POINT_DISP)>Show/Hide Point Values<nbsp>
+972: <button(POINT_DISP)>Показать/скрыть кол-во очков<nbsp>
+973: <button(START)>Enter Password <button(OK)>Select <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Cancel
+973: <button(START)>Ввести пароль <button(OK)>Выбор <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Отмена
+974: <button(START)>Enter Password <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Cancel
+974: <button(START)>Ввести пароль <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Отмена
+975: <$cdef(230)>Lives in <sgl_string(lstr1)>.</color>
+975: <$cdef(230)>Живёт в <sgl_string(lstr1)>.</color>
+976: <button(FISHING)>Reel In
+976: <button(FISHING)>Намотать
+977: Residents on <string(lstr1)>:
+977: Жители <string(lstr1)>:
+978: Water Translucency
+978: Прозрачность воды
+979: Low
+979: Низкая
+980: Medium
+980: Среднаяя
+981: High
+981: Высокая
+982: Choose the translucency level of water.<br><$cdef(224)>Please note that will be fixed at <6>low<9> when you play through the main scenario.</color>
+982: Выберите уровень прозрачности воды.<br><$cdef(224)>Обратите внимание, что он будет зафиксирован на <6>низком<9> уровне при прохождении основного сценария.</color>
+983: See Water Through Glass
+983: Видеть воду через стекло
+984: Choose whether or not to display water and other translucent materials when looking through glass.
+984: Выберите, отображать ли воду и другие прозрачные материалы через прозрачное стекло.
+985: Auto-Adjust Glass Position
+985: Авто-настройка позиции стекла
+986: Choose whether or not to position glass panels so that they are in direct contact with water in cases where the panels and the water are adjacent to one another.
+986: Выберите, следует ли размещать стеклянные панели таким образом, чтобы они находились в непосредственном контакте с водой в случаях, когда панели и вода находятся рядом друг с другом.
+987: Choose which buttons to press to place items and use tools.
+987: Выбирайте, какие кнопки нажимать, чтобы размещать предметы и использовать инструменты.
+988: Choose which way the camera rotates when you push the right stick to the left and right.
+988: Выберите, в какую сторону будет вращаться камера при перемещении правого джойстика влево и вправо.
+989: On
+989: Вкл
+990: <nbsp>Recipes
+990: <nbsp>Рецепты
+991: Slow
+991: Медленно
+992: Normal
+992: Нормально
+993: Fast
+993: Быстро
+994: Buildnoculars Cursor Speed
+994: Скорость курсора стройнокля
+995: Adjust the speed at which the cursor moves when using the buildnoculars.
+995: Отрегулируйте скорость перемещения курсора при использовании стройнокля.
+996: Plant Growth
+996: Рост растений
+997: Choose whether or not plants grow and multiply. (This excludes crops and plants you have planted.) <$cdef(224)>If you choose "off", animals will not eat grass.</color>
+997: Выберите, будут ли растения расти и размножаться. (Это не касается посаженных вами урожаев и растений.) <$cdef(224)>Если вы выберете 'выкл', животные не будут есть траву.</color>
+998: <button(USE)>Give to <def_sgl_string(lstr1)>
+998: <button(USE)>Передать <def_sgl_string(lstr1)>
+999: <button(USE)>Give to <def_sgl_string(lstr1)>
+999: <button(USE)>Передать <def_sgl_string(lstr1)>
+1000: <button(USE)>Heal <def_sgl_string(lstr1)>
+1000: <button(USE)>Лечить <def_sgl_string(lstr1)>
+1001: Complete:
+1001: Выполнено:
+1002: <button(ACCESS)>Turn Tap Off
+1002: <button(ACCESS)>Отключить касания
+1003: <string(lstr1)><button(ACCESS)>Display
+1003: <string(lstr1)><button(ACCESS)>Отобразить
+1004: <button(ACCESS)>Remove
+1004: <button(ACCESS)>Удалить
+1005: 
+1005: 
+1006: Set Sail Using This Password
+1006: Установить курс этим паролем
+1007: <button(SAVEDATA_COPY)>Copy <button(OK)>Select <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+1007: <button(SAVEDATA_COPY)>Копировать <button(OK)>Выбор <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+1008: <button(OK)>Копировать в этот слот <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Отмена
+1008: <button(OK)>Копировать в этот слот <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Отмена
+1009: 
+1009: 
+1010: Неизвестный остров
+1010: На картах не значащийся остров
+1011: You can now change the name of each Buildertopia.<key>
+1011: Теперь можно сменить название каждой Стройтопии.<key>
+1012: Album for <$cdef(236)><string(lstr1)></color>
+1012: Альбом для <$cdef(236)><string(lstr1)></color>
+1013: {P}<button(MENU_LEFT)><button(MENU_RIGHT)>Move Cursor <button(WINDOW_PREV)><button(WINDOW_NEXT)>Standard/Special Characters <button(BIRD_VIEW)>Restore Default (<string(lstr1)>) <button(START)>Finish <button(MAKE_NAME_BLANK)>Space <button(MAKE_NAME_RETURN)>Previous Screen <button(OK)>Select <button(CANCEL)><button(MOUSE_CANCEL)>Delete{E}{K}<button(ENTER)>Finish <button(BS)>Delete <button(MAKE_NAME_RETURN)>Previous Screen{E}
+1013: {P}<button(MENU_LEFT)><button(MENU_RIGHT)>Двигать курсор <button(WINDOW_PREV)><button(WINDOW_NEXT)>Стандартные/особые символы <button(BIRD_VIEW)>Сбросить (<string(lstr1)>) <button(START)>Закончить <button(MAKE_NAME_BLANK)>Пробел <button(MAKE_NAME_RETURN)>Преждний экран <button(OK)>Выбор <button(CANCEL)><button(MOUSE_CANCEL)>Удалить{E}{K}<button(ENTER)>Завершить <button(BS)>Удалить <button(MAKE_NAME_RETURN)>Предыдущий экран{E}
+1014: Exit Game
+1014: Выйти из игры
+1015: Continue from Demo
+1015: Продолжить с демо
+1016: Controls
+1016: Управление
+1017: <button(SAVEDATA_DELETE)>Assign Nothing <button(START)>Restore Default Settings <button(OK)>Select <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Back
+1017: <button(SAVEDATA_DELETE)>Удалить <button(START)>Восстановить как было <button(OK)>Выбор <button(CANCEL)>{K}<button(MOUSE_CANCEL)>{E}Назад
+1018: Main Key
+1018: Кнопка
+1019: Sub Key
+1019: Доп. кнопка
+1020: Mouse
+1020: Мышь
+1021: Gamepad
+1021: Джойстик
+1022: Actions
+1022: Действия
+1023: Commands
+1023: Комманды
+1024: Interacting
+1024: Взаимодействие
+1025: Driving
+1025: Вождение
+1026: Inventory
+1026: Инвентарь
+1027: Blueprints
+1027: Чертежи
+1028: Snapshot Mode
+1028: Режим снапшота
+1029: Noticeboard
+1029: Доска почёта
+1030: Text Input
+1030: Ввод текста
+1031: General
+1031: Общее
+1032: Use Item
+1032: Использование предмета
+1033: Use Tool
+1033: Использование инструмента
+1034: Attack
+1034: Атака
+1035: Swap Weapon/Tool Controls
+1035: Смена оружия/инструмента
+1036: Jump
+1036: Прыжок
+1037: Открыть меню
+1037: Открыть меню
+1038: Взаимодействовать
+1038: Взаимодействовать
+1039: Переключить вид
+1039: Переключить вид
+1040: Смотреть вверх
+1040: Смотреть вверх
+1041: Смотреть вниз
+1041: Смотреть вниз
+1042: Применить <6>Посмотреть вверх<9> Переключить
+1042: Применить <6>Посмотреть вверх<9>
+1043: Применить <6>Посмотреть вниз<9> Переключить
+1043: Применить <6>Посмотреть вниз<9>
+1044: Применить <6>Шаг в сторону<9> Переключить
+1044: Применить <6>Шаг в сторону<9>
+1045: Открыть инвентарь
+1045: Открыть инвентарь
+1046: Просмотреть карту
+1046: Просмотреть карту
+1047: Открыть меню жестов
+1047: Открыть меню жестов
+1048: Выбрать жест
+1048: Выбрать жест
+1049: Использовать Buildnoculars
+1049: Использовать стройнокль
+1050: Просмотреть чертеж
+1050: Просмотреть чертеж
+1051: Переместить вперед
+1051: Идти вперед
+1052: Двигаться назад
+1052: Идти назад
+1053: Двигаться влево
+1053: Идти влево
+1054: Двигаться вправо
+1054: Идти вправо
+1055: Идти
+1055: Идти
+1056: Бежать
+1056: Бежать
+1057: Развернуть Windbraker
+1057: Снарядиться ветровкой
+1058: Атака из Windbraker
+1058: Атака из под ветровки
+1059: Установить Co-op de Grâce
+1059: Приготовить Co-op de Grâce
+1060: Выполнить Co-op de Grâce
+1060: Исполнить Co-op de Grâce
+1061: Big Bash
+1061: Большой удар
+1062: Bigger Bash
+1062: Сильный удар
+1063: Rotate Object (With Gloves Equipped)
+1063: Вращение объекта (в перчатках)
+1064: Use Golden Gauntlets
+1064: Использовать золотые перчатки
+1065: Ride Friendly Monster
+1065: Ехать верхом на монстре
+1066: Return to Normal (Mod Rod)
+1066: Вернуться к нормальному состоянию (мод род)
+1067: Take Out/Remove Item
+1067: Снять/убрать вещь
+1068: Exchange Mini Medals
+1068: Обмен мини-медалями
+1069: Grab Fish
+1069: Схватить рыбу
+1070: Display Tools List
+1070: Отобразить список инструментов
+1071: Change Tools
+1071: Смена инструментов
+1072: Ride Friendly Monster
+1072: Ехать верхом на монстре
+1073: Return to Normal (Mod Rod)
+1073: Вернуться к нормальному состоянию (мод род)
+1074: Take Out/Remove Item
+1074: Снять/убрать вещь
+1075: Exchange Mini Medals
+1075: Обмен мини-медалями
+1076: Turn Fish into Item
+1076: Сделать рыбу предметом
+1077: Turn Lights On/Off
+1077: Свет вкл/выкл
+1078: Accelerate
+1078: Газ
+1079: Reverse
+1079: Задний ход
+1080: Ascend
+1080: Подъём
+1081: Descend
+1081: Спуск
+1082: Jump
+1082: Прыжок
+1083: Get Off
+1083: Взлёт
+1084: Lift Off
+1084: Взлёт
+1085: Fire Cannon
+1085: Стрельба из пушки
+1086: Fire Blasters
+1086: Стрельба из бластеров
+1087: Activate Barrier
+1087: Активация барьера
+1088: Turn Lights On/Off
+1088: Свет вкл/выкл
+1089: Stow in Bag
+1089: Класть в сумку
+1090: Put Away All
+1090: Убрать всё
+1091: Take Out All
+1091: Выкинуть всё
+1092: Tidy Up
+1092: Порядок
+1093: Equip
+1093: Снарядить
+1094: Remove Equipment
+1094: Снять снарягу
+1095: Show/Hide Descriptions
+1095: Показать/скрыть описание
+1096: Show/Hide Gratitude Point Values
+1096: Показать/скрыть очки благодарности
+1097: Open Submenu
+1097: Открыть доп. меню
+1098: Copy
+1098: Скопировать
+1099: Delete
+1099: Удалить
+1100: Obtain Item
+1100: Заполучить вещи
+1101: Full View (When Checking Blueprint)
+1101: Полный осмотр (При осмотре чертежа)
+1102: Up a Level (When Checking Blueprint)
+1102: На уровень выше (При осмотре чертежа)
+1103: Down a Level (When Checking Blueprint)
+1103: На уровень ниже (При осмотре чертежа)
+1104: Zoom In
+1104: Приблизить
+1105: Zoom Out
+1105: Отдалить
+1106: Show/Hide Characters
+1106: Показать/скрыть символы
+1107: Exit Snapshot Mode
+1107: Выход из режима снапшотов
+1108: Toggle Facial Expressions
+1108: Включить лицевые выражения
+1109: Change Facial Expressions (Scroll Left)
+1109: Сменить лицевые выражения (листать влево)
+1110: Change Facial Expression (Scroll Right)
+1110: Сменить лицевые выражения (листать вправо)
+1111: Roll Camera Right
+1111: Повернуть камеру направо
+1112: Roll Camera Left
+1112: Повернуть камеру налево
+1113: Reset Camera Position
+1113: Повернуть камеру на место
+1114: Toggle Camera Gaze
+1114: Переключить взгляд камеры
+1115: Toggle Sharp Shot
+1115: Переключить резкость картинки
+1116: Open Album
+1116: Открыть альбом
+1117: Toggle Effect Preview
+1117: Переключить предпросмотр эфектов
+1118: Show/Hide Guide
+1118: Показать/скрыть инструкцию
+1119: Go to My Page
+1119: Заходите ко мне на страничку
+1120: Sort by New/Best
+1120: Сортировка по новым/лучшим
+1121: Switch Between Snaps and Islands
+1121: Переключить между снапшотами и островами
+1122: Visit Island
+1122: Прибыть на остров
+1123: Add to Favourites
+1123: В избранное
+1124: Upload
+1124: Загрузить
+1125: Delete
+1125: Удалить
+1126: Like a Snapshot
+1126: Мне нравится снапшот
+1127: Space
+1127: Пробел
+1128: New Line
+1128: С новой строки
+1129: Back
+1129: Назад
+1130: Backspace
+1130: Стереть символ
+1131: Start
+1131: Начать
+1132: Select
+1132: Выбрать
+1133: Back
+1133: Назад
+1134: Left
+1134: Влево
+1135: Right
+1135: Вправо
+1136: Up
+1136: Вверх
+1137: Down
+1137: Вниз
+1138: Previous Tab
+1138: Предыдущая вкладка
+1139: Next Tab
+1139: Следующая вкладка
+1140: Use Magic Pencil
+1140: Использовать волшебный карандаш
+1141: Previous Screen
+1141: Предыдущий экран
+1142: Next Screen
+1142: Следующий экран
+1143: Enter Snapshot Mode
+1143: Войти в режим снапшотов
+1144: Show/Hide Invention Conditions
+1144: Показать/скрыть условия постройки
+1145: Graphics Settings
+1145: Настройки графики
+1146: Graphical Quality
+1146: Качество графики
+1147: Anti-Aliasing
+1147: Анти-алиасинг
+1148: Texture Filtering
+1148: Фильтрация текстур
+1149: Texture Quality
+1149: Качество текстур
+1150: Shadow Quality
+1150: Качество теней
+1151: Shadow Distance
+1151: Дистанция теней
+1152: LOD Distance
+1152: Дистанция ЛОДов
+1153: Bloom
+1153: Сияние
+1154: Custom
+1154: Пользов.
+1155: High
+1155: Высоко
+1156: Medium
+1156: Средне
+1157: Low
+1157: Низко
+1158: On
+1158: Вкл
+1159: Off
+1159: Выкл.
+1160: Far
+1160: Далеко
+1161: Middle
+1161: Средне
+1162: Near
+1162: Близко
+1163: Field of View
+1163: Поле зрения
+1164: Narrow
+1164: Узкий
+1165: Wide
+1165: Широкий
+1166: Configuration Tool
+1166: Инструмент настройки
+1167: Game Settings
+1167: Настройки игры
+1168: Display Settings
+1168: Настройки графики
+1169: Full-Screen
+1169: Полный экран
+1170: Simulated Full-Screen
+1170: Симуляция полноэкр. режима
+1171: Windowed
+1171: В окне
+1172: Screen Resolution
+1172: Разрешение экрана
+1173: Frame Rate
+1173: Частота кадров
+1174: Uncapped
+1174: Без ограничений
+1175: Video Playback
+1175: Видеоролики
+1176: Language
+1176: Язык
+1177: Restore the controls to their default settings.
+1177: Сбросить настройки управления на заводские.
+1178: Customise the control scheme.
+1178: Настройте схему управления.
+1179: Adjust the angle of the field of view in first-person mode.
+1179: Настройте угол поля зрения в режиме первого лица.
+1180: Configure detailed graphical settings.
+1180: Настройте графику игры.
+1181: Change the size of the display. You will have to restart the game to apply any changes.
+1181: Настройте разрешение экрана. Потребуется перезапуск игры.
+1182: Adjust the screen resolution. You will have to restart the game to apply any changes.
+1182: Настройте разрешение экрана. Потребуется перезапуск игры.
+1183: Adjust how often the screen refreshes.
+1183: Настройте частоту обновления экрана.
+1184: Choose whether or not to play cinematic videos.
+1184: Выберите, стоит ли проигрывать видеоролики.
+1185: Adjust how smooth the outlines of objects appear.
+1185: Настройте качество появления контуров объектов.
+1186: Adjust how natural the textures appear.
+1186: Настройте качество появления текстур.
+1187: Adjust the level of detail of textures.
+1187: Настройте уровень детализации текстур.
+1188: Adjust the level of detail of shadows. You will have to restart the game to apply any changes.
+1188: Настройте уровень детализации теней. Потребуется перезапуск игры.
+1189: Adjust the distance at which shadows appear.
+1189: Настройте дистанцию появления теней.
+1190: Adjust the distance at which the level of detail of far-off objects changes.
+1190: Настройте дистанцию преобразования объекта в дальний объект.
+1191: Adjust how intensely light sources glow.
+1191: Настройте интенсивность источников освещения.
+1192: Exit Game
+1192: Выход из игры
+1193: <button(UP_SHIFT)>Cancel <6>Look Up<9> Toggle
+1193: <button(UP_SHIFT)>Отмена <6>Look Up<9> Выбор
+1194: <button(DOWN_SHIFT)>Cancel <6>Look Down<9> Toggle
+1194: <button(DOWN_SHIFT)>Отмена <6>Look Down<9> Выбор
+1195: <button(FRONT_SHIFT)>Cancel <6>Sidestep<9> Toggle
+1195: <button(FRONT_SHIFT)>Отмена <6>Sidestep<9> Выбор
+1196: Cancel
+1196: Отмена
+1197: PRESS ANY KEY
+1197: НАЖМИТЕ ЛЮБУЮ КНОПКУ
+1198: <button(ATK_TOOLUSE_TYPE)>Swap Weapon/Tool Controls
+1198: <button(ATK_TOOLUSE_TYPE)>Сменить управление оружия/инструмента
+1199: Draw Distance
+1199: Дальность прорисовки
+1200: Adjust the distance at which far-off objects appear.
+1200: Настройте дистанцию появления дальних объектов.
+1201: Mouse Sensitivity
+1201: Чувствительность мыши
+1202: Adjust how quickly the mouse cursor and camera move.
+1202: Настройте скорость курсора мышки и движения камеры.
+1203: {P}<button(MENU_LEFT)><button(MENU_RIGHT)>Move Cursor <button(START)>Done <button(MAKE_NAME_RETURN)>Previous Screen <button(OK)>Select <button(CANCEL)>Backspace {E}{K}<button(ENTER)>Done <button(BS)><button(MOUSE_CANCEL)>Backspace <button(MAKE_NAME_RETURN)>Previous Screen{E}
+1203: {P}<button(MENU_LEFT)><button(MENU_RIGHT)>Двигать курсор <button(START)>Завершить <button(MAKE_NAME_RETURN)>Пред. экран <button(OK)>Выбор <button(CANCEL)>Стереть {E}{K}<button(ENTER)>Завершить <button(BS)><button(MOUSE_CANCEL)>Стереть <button(MAKE_NAME_RETURN)>Пред. экран{E}
+1204: 640x360
+1204: 640x360
+1205: 800x450
+1205: 800x450
+1206: 1024x576
+1206: 1024x576
+1207: 1280x720
+1207: 1280x720
+1208: 1360x765
+1208: 1360x765
+1209: 1600x900
+1209: 1600x900
+1210: 1920x1080
+1210: 1920x1080
+1211: 2048x1152
+1211: 2048x1152
+1212: 2560x1440
+1212: 2560x1440
+1213: 3840x2160
+1213: 3840x2160
+1214: {K}<button(DOWN_SHIFT)><button(FRONT_SHIFT)><button(UP_SHIFT)>Look Up/Down/Sidestep Toggles{E}
+1214: {K}<button(DOWN_SHIFT)><button(FRONT_SHIFT)><button(UP_SHIFT)>Смотреть вверх/вних/по сторонам{E}
+1215: 30
+1215: 30
+1216: 60
+1216: 60
+1217: Choose which way the camera rotates when you move the mouse to the left and right.
+1217: Выберите направление камеры при движении мышкой влево-вправо.
+1218: Choose which way the camera rotates when you move the mouse up and down.
+1218: Выберите направление камеры при движении мышкой вверх-вниз.

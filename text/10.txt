@@ -1,0 +1,342 @@
+0: 
+0: 
+1: Failed to connect to the network. Please check your network settings.<key>
+1: Не удалось подключиться к сети. Проверьте настройки сети.<key>
+2: Failed to sign in. You must be signed in to enjoy online content.<key>
+2: Не удалось войти. Вы должны войти в систему, чтобы просматривать онлайн-контент.<key>
+3: Choose the rules for your island.<key>
+3: Выберите правила для своего острова.<key>
+4: Unable to connect. Returning to the search results.<key>
+4: Не удалось подключиться. Возврат к результатам поиска.<key>
+5: <string(lstr1)><string(lstr2)> has come to play!
+5: <string(lstr1)><string(lstr2)> пришел поиграть!
+6: <string(lstr1)><string(lstr2)> has left.
+6: <string(lstr1)><string(lstr2)> покинул нас.
+7: Choose how you want to connect.<key>
+7: Выберите способ подключения.<key>
+8: Via the Internet
+8: Активация через Интернет.
+9: Via Local Wireless
+9: Через локальную беспроводную сеть
+10: You'll soon depart for <string(lstr1)>'s island! You can't take your items with you, but you'll get them all back when you return. Is this okay?<key>
+10: Скоро вы отправитесь на остров <string(lstr1)>! Вы не можете взять свои вещи с собой, но вы получите их все обратно, когда вернетесь. Хорошо?<key>
+11: Failed to connect to the network.<key>
+11: Не удалось подключиться к сети. <key>
+12: Multibuilder mode is currentl unavailable as you're not allowed to access user-generated content.<key>
+12: Режим мультистроителя недоступен, так как вам не разрешен доступ к пользовательским поделкам.<key>
+13: It's taking a long time to connect. Please wait a while and try again.<key>
+13: Подключение занимает много времени. Подождите немного и повторите попытку.<key>
+14: Checking the network...
+14: Проверка сети...
+15: <string(lstr1)>
+15: <string(lstr1)>
+16: DRAGON QUEST BUILDERS 2
+16: ПОХОД НА ДРАКОНА: СТРОИТЕЛИ 2
+17: Create New Save Data
+17: Создать новое сохранение
+18: System Data
+18: Системные данные
+19: This save data contains parts of the game that have not been purchased.
+19: Эти данные сохранения содержат части игры, которые не были куплены.
+20: Connect to the network?<key>
+20: Подключитесь к сети?<key>
+21: You can't use the <$sgl_iname(2439)> unless you connect to the network.<key>
+21: Вы не можете использовать <$sgl_iname(2439)>, если не подключены к сети.<key>
+22: You already have this snapshot saved.<key>
+22: Вы уже сохранили этот снапшот.<key>
+23: Snapshot saved successfully!<key>
+23: Снапшот успешно сохранен!<key>
+24: This island's data will now be downloaded. This may take some time, depending on your network connection.<key>
+24: Данные этого острова будут загружены. Это может занять некоторое время, в зависимости от вашего сетевого подключения.<key>
+25: You've chosen to report this snapshot. Only snapshots that are found to have violated the rules will be removed.<key><br>Are you sure you want to report this snapshot?
+25: Вы решили пожаловаться на этот снимок. Будут удалены только снимки, которые нарушили правила.<key><br>Вы уверены, что хотите пожаловаться на этот снапшот?
+26: Your report has been submitted.<key>
+26: Вы подали жалобу.<key>
+27: <string(lstr1)> couldn't be found.<key>
+27: <string(lstr1)> не удалось найти.<key>
+28: Download complete! It's time to set sail for <string(lstr1)>'s island!<key>
+28: Загрузка завершена! Пора отправляться в плавание к острову <string(lstr1)>!<key>
+29: Your save data cannot be loaded as it's no longer compatible with the version of the game you're using.<key>
+29: Невозможно загрузить сохраненные данные, так как они больше не совместимы с используемой версией игры.<key>
+30: Unable to load.
+30: Невозможно загрузить.
+31: Friends of Friends
+31: Друзья друзей
+32: There are no islands you can visit at this time.<key>
+32: Нет островов, которые вы можете посетить в это время.<key>
+33: Are you sure you want to exit multibuilder mode?<key>
+33: Вы уверены, что хотите выйти из режима мультиконструктора?<key>
+34: DRAGON QUEST BUILDERS 2 system data.
+34: Системные данные DRAGON QUEST BUILDERS 2.
+35: Game settings and other shared data are saved here.
+35: Настройки игры и другие общие данные сохраняются здесь.
+36: The island belonging to <string(lstr1)><string(lstr2)> is no longer accessible. Exiting multibuilder mode.
+36: Остров, принадлежащий <string(lstr1)><string(lstr2)>, больше недоступен. Выход из режима мультистроителя.
+37: Exit multibuilder mode?<key>
+37: Выйти из режима мультистроителя?<key>
+38: Setting sail for <sgl_string(lstr1)> in <num(lnum1)> <IfSing(second,seconds)>.
+38: Отправляемся на <sgl_string(lstr1)> через <num(lnum1)> <IfSing(секунд,секунд)>.
+39: Waiting for guests...
+39: Ждем гостей...
+40: Setting sail for <string(lstr1)>'s island!<key>
+40: Отправляемся на остров <string(lstr1)>!<key>
+41: Your builder ID is now <6><string(lstr1)><9>. You can change it after you've progressed to a certain point in the game.<key>
+41: Ваш строительский номер теперь <6><string(lstr1)><9>. Вы можете изменить его по мере прохождения игры.<key>
+42: Your rules are in place. You'll now go to an online version of your island.<key>
+42: Ваши правила действуют. Теперь вы перейдете к онлайн-версии своего острова.<key>
+43: Searching for an island to visit...<key>
+43: Поиск острова для посещения...<key>
+44: Setting sail for the Explorer's Shores shortly...
+44: Скоро отправимся к исследовательским берегам...
+45: <string(lstr1)> <string(lstr2)> has arrived on the island!
+45: <string(lstr1)> <string(lstr2)> прибыл на остров!
+46: Autosave Data
+46: Автосохранение данных
+47: Screenshot Data
+47: Данные снимка экрана
+48: DRAGON QUEST BUILDERS 2 has not been purchased.
+48: DRAGON QUEST BUILDERS 2 не был приобретен.
+49: Installing trophy pack...
+49: Установка набора трофеев...
+50: Loading trophy pack...
+50: Загрузка набора трофеев...
+51: Main Save Data
+51: Основные сохраненные данные
+52: Not enough space available. You must have at least <num(lnum1)>MB of free memory in order to save your game. Please exit the game and create the necessary space before trying again.
+52: Недостаточно свободного места. Чтобы сохранить игру, у вас должно быть не менее <num(lnum1)>МБ свободной памяти. Выйдите из игры и создайте необходимое пространство, прежде чем повторить попытку.
+53: Failed to load system data. Would you like to try again? If you select <6>No<9>, your system data will be reset.
+53: Не удалось загрузить системные данные. Хотите повторить попытку? Если вы выберете <6>нет<9>, данные системы будут сброшены.
+54: Failed to create save data. Would you like to try again?
+54: Не удалось создать данные сохранения. Хотите повторить попытку?
+55: Not enough space available. You must have at least <num(lnum1)>MB of free memory in order to save your game. Would you like to delete save existing save data to create space?
+55: Недостаточно свободного места. Чтобы сохранить игру, у вас должно быть не менее <num(lnum1)>МБ свободной памяти. Удалить сохранение существующих данных для создания пространства?
+56: Sorry, no spaces allowed!
+56: К сожалению, пробелы недопустимы!
+57: You can go online and enjoy the game as a multiplayer experience by examining the <$iicon(1414)><$cdef(244)><$sgl_iname(1414)></color>.<key><br>Before starting multibuilder mode for the first time, you need to choose a builder ID. This is the name you'll use when you play online.<key><br>This name will be visible to all players regardless of their language settings.<key>
+57: Вы можете выйти в интернет и насладиться игрой в режиме многопользовательской игры, изучив <$iicon(1414)><$cdef(244)><$sgl_iname(1414)></color>.<key><br>Перед первым запуском режима мультистроителя необходимо выбрать идентификатор конструктора. Это имя вы будете использовать, когда будете играть онлайн.<key><br>Это имя будет видно всем игрокам независимо от их языковых настроек.<key>
+58: 
+58: 
+59: You can now continue to multibuilder mode.<key><br>You can open up your island to as many as three other builders, or take a tour of someone else's island.<key><br>Show off your creations and get inspired by those of others, or take on tricky challenges with some new-found friends<-->in this world, the only limit is your imagination!<key>
+59: Теперь вы можете перейти в режим мультиконструктора.<key><br>Вы можете открыть свой остров для трех других строителей или совершить экскурсию по чужому острову.<key><br>Продемонстрируйте свои творения и вдохновляйтесь творениями других людей или возьмите на себя сложные задачи с новыми друзьями<-->в этом мире, единственный предел - ваше воображение!<key>
+60: Do you want to connect to the network? You'll be able to enjoy a range of online features if you do.
+60: Хотите подключиться к сети? Если вы это сделаете, вы сможете пользоваться целым рядом онлайн-функций.
+61: Not everyone wants to leave.<key>
+61: Не все хотят уходить.<key>
+62: You've been disconnected from the session. Exiting multibuilder mode.<key>
+62: Вы отключены от сеанса. Выход из режима мультистроителя.<key>
+63: A connection error occurred. Exiting multibuilder mode.<key>
+63: Произошла ошибка подключения. Выход из режима мультистроителя.<key>
+64: <string(lstr1)> suggests returning to the Isle of Awakening. Do you want to go back?<key>
+64: <string(lstr1)> предлагает вернуться на Остров Пробуждения. Вы хотите вернуться?<key>
+65: A connection error occurred.<key>
+65: Произошла ошибка подключения.<key>
+66: Do you understand this, and still want to enter multibuilder mode?<key>
+66: Вы понимаете это и все еще хотите войти в режим мультистроителя?<key>
+67: Enter a builder ID. This can be up to 8 characters long.
+67: Введите идентификатор строителя до 8 символов.
+68: Please enter an uploader ID.
+68: Введите идентификатор пользователя, загрузившего файл.
+69: Returning to your island in <num(lnum1)> <IfSing(second,seconds)>.
+69: Возвращение на остров через <num(lnum1)> секунд.
+70: Enabled
+70: Включено
+71: Disabled
+71: Отключено
+72: No Restrictions
+72: Никаких ограничений
+73: 2
+73: 2
+74: 3
+74: 3
+75: 4
+75: 4
+76: Allowed
+76: Разрешено
+77: With Restrictions
+77: С ограничениями
+78: Not Allowed
+78: Не разрешено
+79: Invite Only
+79: Только по приглашению
+80: Please use half-width characters only.
+80: Пожалуйста, используйте только символы половинной ширины.
+81: There's nothing to display.<key>
+81: Тут нечего показывать.<key>
+82: You must connect to the network if you want to enjoy the game's online features.<key>
+82: Вы должны подключиться к сети, если хотите пользоваться онлайн-функциями игры.<key>
+83: Failed to log in to the game's server.<key>
+83: Не удалось войти на сервер игры.<key>
+84: You're not allowed to access user-generated content.<key>
+84: Вам не разрешен доступ к пользовательским поделкам.<key>
+85: The game's servers are currently experiencing heavy traffic. Please wait a while and try again.<key>
+85: Сервера игры в настоящее время испытывают интенсивный трафик. Подождите немного и повторите попытку.<key>
+86: Allow Friends of Friends
+86: Разрешить друзьям друзей
+87: No. of Players
+87: Кол-во игроков
+88: Advanced Options
+88: Расширенные параметры
+89: Restore Default Settings
+89: Восстановить по умолчанию
+90: Your save data is corrupted.<key>
+90: Ваши сохраненные данные повреждены.<key>
+91: Due to a connection error, some content cannot be displayed.<key>
+91: Из-за ошибки подключения не удается отобразить некоторое содержимое.<key>
+92: You must create an account if you want to enjoy the game's online features.<key>
+92: Вы должны создать учетную запись, если хотите пользоваться онлайн-функциями игры.<key>
+93: Your account has been registered successfully!<key>
+93: Ваша учетная запись успешно зарегистрирована!<key>
+94: This has already been deleted.<key>
+94: Этот элемент уже удалён.<key>
+95: This snapshot has already been deleted.<key>
+95: Этот снапшот уже удален.<key>
+96: The game's servers are currently undergoing maintenance.<key>
+96: Сервера игры в настоящее время проходят техническое обслуживание.<key>
+97: You are running a different version of the game to that on the servers. Please update the game to the latest version.<key>
+97: Вы запускаете версию игры, отличную от версии на серверах. Обновите игру до последней версии.<key>
+98: Please enter a password.
+98: Пожалуйста, введите пароль.
+99: Please enter a password.
+99: Пожалуйста, введите пароль.
+100: Exit
+100: Выход
+101: Community Chest
+101: Общий сундук
+102: Accessing Chests
+102: Доступ к сундукам
+103: Building
+103: Строительство
+104: Explosion Damage
+104: Урон от взрыва
+105: Day-Night Cycle
+105: Цикл дня и ночи
+106: Weather
+106: Погода
+107: Enemies
+107: Враги
+108: Get Items from Blocks
+108: Получить предметы из блоков
+109: Get Items from Monsters
+109: Получить предметы от монстров
+110: Secondary Save Data
+110: Вторичное сохранение данных
+111: Contains information relating to game and character settings.
+111: Содержит информацию, относящуюся к настройкам игры и персонажа.
+112: Save data created automatically by the game. Contains information relating to game progress. Cannot be loaded without a main save data file.
+112: Сохраняйте данные, созданные автоматически игрой. Содержит информацию, относящуюся к ходу игры. Невозможно загрузить без основного файла данных сохранения.
+113: Contains information relating to images captured in Snapshot Mode.
+113: Содержит информацию, относящуюся к изображениям, снятым в режиме снапшотов.
+114: Contains information relating to game progression. If this data is deleted and a Secondary Save Data file has been created, the game will be unable to load properly.
+114: Содержит информацию, относящуюся к прогрессу игры. Если эти данные будут удалены и будет создан дополнительный файл сохранения данных, игра не сможет загрузиться должным образом.
+115: Contains information relating to game progression. This data only works in conjunction with a Main Save Data file.
+115: Содержит информацию, относящуюся к прогрессу игры. Эти данные работают только в сочетании с основным файлом сохранения данных.
+116: Leaving this island shortly...
+116: Вскоре, мы покинем сей остров...
+117: DRAGON QUEST BUILDERS 2 JUMBO DEMO
+117: DRAGON QUEST BUILDERS 2 JUMBO DEMO
+118: Your save data from the Jumbo Demo is corrupted.
+118: Ваши сохраненные данные из Jumbo Demo повреждены.
+119: Your system data from the Jumbo Demo is corrupted.
+119: Ваши системные данные из Jumbo Demo повреждены.
+120: Your screenshot data from the Jumbo Demo is corrupted.
+120: Данные скриншота из демо-версии Jumbo повреждены.
+121: 
+121: 
+122: Enabling this option will allow friends of your friends to visit your island.
+122: Включение этой опции позволит друзьям ваших друзей посетить ваш остров.
+123: Choose the maximum number of builders, including you, that can play at one time.
+123: Выберите максимальное количество строителей, включая вас, которые могут играть одновременно.
+124: Adjust a range of detailed options.
+124: Настройка ряда подробных параметров.
+125: Restore all options to their defaults.
+125: Восстановление всех параметров по умолчанию.
+126: Confirm changes and exit the options menu.
+126: Подтвердить изменения и выйти из меню опций.
+127: Choose whether or not to place a chest containing borrowable equipment next to the <$iicon(1414)><$cdef(244)>teleportal</color>. This may not be possible due to the position of nearby objects.
+127: Выберите, следует ли размещать сундук с одалживаемым снаряжением рядом с <$iicon(1414)><$cdef(244)>телепорталом</color>. Это может быть невозможно из-за положения близлежащих объектов.
+128: Choose whether or not players can access and interact with any <$iicon(2045)><$cdef(244)>chests</color> on your island.
+128: Выберите, могут ли игроки получить доступ и взаимодействовать с любыми <$iicon(2045)><$cdef(244)>сундуками</color> на вашем острове.
+129: Disable this option to prevent players from engaging in building activities on your island.
+129: Отключите эту опцию, чтобы игроки не могли участвовать в строительных работах на вашем острове.
+130: 
+130: 
+131: 
+131: 
+132: 
+132: 
+133: Island Info
+133: Информация об острове
+134: Currently Playing
+134: Сейчас играет
+135: Builder ID
+135: ИД строителя
+136: Online ID
+136: Онлайн ИД
+137: Who Can Join?
+137: Кто может зайти?
+138: No. of Players
+138: Кол-во игроков
+139: Friends Only
+139: Только друзья
+140: Disable this option to prevent players from taking damage if they're caught up in explosions.
+140: Отключите эту опцию, чтобы игроки не получали урон, если они попали во взрывы.
+141: Disable this option to stop the flow of time.
+141: Отключите эту опцию, чтобы остановить течение времени.
+142: Before you upload something to the noticeboard for the first time, you need to choose a builder ID. This is the name you'll use when you play online.<key><br>This name will be visible to all players who view the content you've uploaded.<key>
+142: Прежде чем загружать что-то на доску почёта в первый раз, необходимо выбрать ИД строителя. Это имя вы будете использовать, когда будете играть онлайн.<key><br>Это имя будет видно всем игрокам, которые просматривают загруженный вами контент.<key>
+143: A connection error occurred. Exiting multibuilder mode and returning to the title screen.<key>
+143: Произошла ошибка подключения. Выход из режима мультистроителя и возврат к титульному экрану.<key>
+144: A connection error occurred. Exiting multibuilder mode and returning to the title screen.<key>
+144: Произошла ошибка подключения. Выход из режима мультистроителя и возврат к титульному экрану.<key>
+145: 
+145: 
+146: Disable this option to stop the weather from changing.
+146: Отключите эту опцию, чтобы погода не менялась.
+147: 
+147: 
+148: Disable this option to prevent items from appearing when blocks or objects are destroyed.
+148: Отключите эту опцию, чтобы элементы не появлялись при уничтожении блоков или объектов.
+149: Disable this option to prevent monsters and animals from dropping any items.
+149: Отключите эту опцию, чтобы монстры и животные не бросали предметы.
+150: <string(lstr1)> has come to play!
+150: <string(lstr1)> пришел поиграть!
+151: <string(lstr1)> has left.
+151: <string(lstr1)> покинул нас. 
+152: The island belonging to <string(lstr1)> is no longer accessible. Exiting multibuilder mode.
+152: Остров, принадлежащий <string(lstr1)>, больше недоступен. Выход из режима мультистроителя.
+153: <string(lstr1)> has arrived on the island!
+153: <string(lstr1)> прибыл на остров!
+154: 
+154: 
+155: 
+155: 
+156: 
+156: 
+157: 
+157: 
+158: 
+158: 
+159: 
+159: 
+160: 
+160: 
+161: 
+161: 
+162: 
+162: 
+163: 
+163: 
+164: 
+164: 
+165: 
+165: 
+166: 
+166: 
+167: 
+167: 
+168: 
+168: 
+169: 
+169: 
+170: 
+170: 

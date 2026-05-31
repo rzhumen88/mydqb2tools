@@ -1,0 +1,708 @@
+0: 
+0: 
+1: <pname> can't hold any more items!
+1: <pname> больше не может вместить предметы!
+2: <pname> can't hold any more items!
+2: <pname> больше не может вместить предметы!
+3: <pname>'s bag is full!
+3: Cумка <pname> заполнена!
+4: <pname>'s bag is full!
+4: Cумка <pname> заполнена!
+5: <pname>'s bag is now full.
+5: Cумка <pname> теперь заполнена!
+6: 
+6: 
+7: <pname> can't hold any more items!
+7: <pname> больше не может вместить предметы!
+8: <pname>'s bag is full!
+8: Cумка <pname> заполнена!
+9: You can't stow that item!
+9: Вы не можете убрать этот предмет!
+10: The chest is full!
+10: Сундук полон!
+11: <pname>'s party is full!
+11: В отряде <pname> нет места!
+12: That location is already full!
+12: В этой локации уже нет места!
+13: You can't say farewell to <def_sgl_string(lstr1)>!
+13: Нельзя прощаться с <def_sgl_string(lstr1)>!
+14: You can't discard locked letters!
+14: Вы не можете выбросить запечатаные письма!
+15: Please enter a message.
+15: Пожалуйста, введите сообщение.
+16: Please enter a name.
+16: Пожалуйста, введите имя.
+17: Keep your promise to Malroth!
+17: Выполните обещание Малроту!
+18: You can't remove that character from the party!
+18: Вы не можете удалить этого персонажа из отряда!
+19: It seems there's a letter waiting for <pname>!
+19: Кажется, Вас ждет письмо <pname>!
+20: The postbox is empty!
+20: Почтовый ящик пуст!
+21: 
+21: 
+22: 
+22: 
+23: There aren't any recipes to display!
+23: Нет рецептов для отображения!
+24: Not enough materials!
+24: Недостаточно материалов!
+25: 
+25: 
+26: <cap><def_sgl_string(lstr1)> has been destroyed!
+26: <cap><def_sgl_string(lstr1)> был уничтожен!
+27: You can't place any more crafting stations here!
+27: Здесь больше нельзя размещать верстаки!
+28: The Master of Destruction is wreathed in a dark aura!
+28: Владыка Разрушения окутан тёмной аурой!
+29: This field will be used to grow <plr_string(lstr1)>!
+29: Это поле будет использоваться для роста <plr_string(lstr1)>!
+30: No seeds will be sown in this field!
+30: В этом поле не будут посеяны семена!
+31: Watch out! The madusa might attack from above!
+31: Осторожно! Мадуза может атаковать сверху!
+32: You can't fish here!
+32: Здесь нельзя ловить рыбу!
+33: <pname>'s catch gets away!
+33: Улов <pname> уходит!
+34: Oh no! <pname> catches <indef_sgl_string(lstr1)>!
+34: О нет! <pname> ловит <indef_sgl_string(lstr1)>!
+35: And <pname> marks the end point!
+35: И <pname> отмечает конечную точку!
+36: <string(lstr1)>
+36: <string(lstr1)>
+37: <pname> can't hold any more items!
+37: <pname> больше не может вместить предметы!
+38: <cap><def_sgl_string(lstr1)> reaches level <num(lnum1)>!
+38: <cap><def_sgl_string(lstr1)> достигает уровня <num(lnum1)>!
+39: <cap><def_sgl_string(lstr1)> is already at the maximum level!
+39: <cap><def_sgl_string(lstr1)> уже на максимальном уровне!
+40: <cap><def_sgl_string(lstr1)> is training!
+40: <cap><def_sgl_string(lstr1)> тренируется!
+41: <pname> dies!
+41: <pname> сдох!
+42: <pname> comes back to life!
+42: <pname> возвращается к жизни!
+43: <pname> completes <def_sgl_string(lstr1)>!
+43: <pname> завершает <def_sgl_string(lstr1)>!
+44: <string(lstr1)>
+44: <string(lstr1)>
+45: <pname>'s <string(lstr1)> increases by <num(lnum1)>!
+45: <pname><string(lstr1)> увеличивается на <num(lnum1)>!
+46: <pname> is absolutely starving...
+46: <pname> проголодал<morf(ся,ась)>...
+47: Eureka! <pname> learns a new recipe!
+47: Эврика! <pname> узнаёт новый рецепт!
+48: Eureka! <pname> learns <num(lnum1)> new recipes!
+48: Эврика! <pname> узнает <num(lnum1)> новых рецептов!
+49: <pname> has a flash of inspiration!
+49: У <pname> вспышка вдохновения!
+50: 
+50: 
+51: You can't use that item!
+51: Эту вещь нельзя использовать!
+52: 
+52: 
+53: 
+53: 
+54: <pname> marks the start point of the sketch...
+54: <pname> отмечает начальную точку чертежа...
+55: Monsters are marching in to munch your crops!
+55: Монстры идут жрать ваши посевы!
+56: <pname> equips <indef_sgl_string(lstr1)>!
+56: <pname> экипирует <indef_sgl_string(lstr1)>!
+57: <pname> failed to protect <morf(his,her)> base!
+57: <pname> не удалось защитить свою базу!
+58: The base is restored to its former glory!
+58: База восстановлена к былой славе!
+59: The monsters are defeated!
+59: Монстры сражены!
+60: The madusa is enraged!
+60: Мадуза в ярости!
+61: <pname> gives <indef_sgl_string(lstr2)> to <def_sgl_string(lstr1)>!
+61: <pname> даёт <indef_sgl_string(lstr2)> <def_sgl_string(lstr1)>!
+62: You can't remove this blueprint!
+62: Вы не можете удалить этот чертёж!
+63: You don't meet the criteria!
+63: Вы не соответствуете критериям!
+64: <pname> обретает <IfSing(<indef_sgl_string(lstr1)>,<num(lnum1)> <plr_string(lstr1)>)>!
+64: <pname> обретает <IfSing(<indef_sgl_string(lstr1)>,<num(lnum1)> <plr_string(lstr1)>)>!
+65: This option is already in effect!
+65: Эта опция уже действует!
+66: The badboon barks for backup!
+66: Бадбун скулит за подкреплением!
+67: A group of monsters appear!
+67: Появляется группа монстров!
+68: The monsters are defeated!
+68: Монстры сражены!
+69: Nothing happens...
+69: Ничего не произходит...
+70: <cap><$indef_sgl_iname(47)> saves <pname> from death!
+70: <cap><$indef_sgl_iname(47)> спасает <pname> от гибели!
+71: <pname> can't use items right now!
+71: <pname> не может сейчас использовать предметы!
+72: What luck! <pname> catches <indef_sgl_string(lstr1)>!
+72: Повезло! <pname> ловит <indef_sgl_string(lstr1)>!
+73: This is no time to be sleeping!
+73: Сейчас не время спать!
+74: <pname> can't sleep when <morf(he,she)>'s under attack!
+74: <pname> не может заснуть, когда на не<morf(го,ё)> нападают!
+75: <cap><def_sgl_string(lstr1)> is cursed, and can't be removed!
+75: <cap><def_sgl_string(lstr1)> проклят и не может быть удален!
+76: <pname> suddenly feels a lot hungrier!
+76: <pname> вдруг чувствует себя намного голоднее!
+77: <cap><def_sgl_string(lstr1)> <IfPlrNoun(fall,falls)> apart!
+77: <cap><def_sgl_string(lstr1)> <IfPlrNoun(распадается,распадаются)>!
+78: You can't do that now!
+78: Сейчас нельзя!
+79: 
+79: 
+80: You can't use that now!
+80: Сейчас нельзя!
+81: <cap><def_sgl_string(lstr1)> starts training!
+81: <cap><def_sgl_string(lstr1)> начинает обучение!
+82: Oh no! <cap><def_sgl_string(lstr1)> is cursed!
+82: О нет! <cap><def_sgl_string(lstr1)> проклят!
+83: <cap><def_sgl_string(lstr1)> is cursed, and can't be removed!
+83: <cap><def_sgl_string(lstr1)> проклят и не может быть удален!
+84: You've placed the maximum number of blueprints!
+84: Вы разместили максимальное количество чертежей!
+85: 
+85: 
+86: Blank blueprint needed! Erase one in the Builderpedia.
+86: Требуется пустой чертёж! Сотрите один из них в строепедии.
+87: That area is empty!
+87: Эта область пуста!
+88: You can't overlap blueprints!
+88: Нельзя перекрывать чертежи!
+89: You can't plant that there!
+89: Вы не можете посадить это там!
+90: <pname> is repelled by a strange force!
+90: <pname> отталкивается странной силой!
+91: You can't place that there!
+91: Вы не можете поместить это туда!
+92: You can't place that there!
+92: Вы не можете поместить это туда!
+93: You can't place any more!
+93: Вы больше не можете размещать!
+94: You can't place any more <plr_string(lstr1)>!
+94: Вы больше не можете размещать <plr_string(lstr1)>!
+95: You can't place that there!
+95: Вы не можете поместить это туда!
+96: You can't place that there!
+96: Вы не можете поместить это туда!
+97: <pname>'s cuts and bruises begin to heal...
+97: Раны и синяки <pname> начинают заживать...
+98: No echoes can be heard...
+98: Эхо не слышно...
+99: You can't use that in multibuilder mode!
+99: Вы не можете использовать его в режиме мультистроителя!
+100: You can't use that on another player's island!
+100: Вы не можете использовать его на острове другого игрока!
+101: The monster horde runs away!
+101: Орда монстров удирает!
+102: <pname> becomes poisoned!
+102: <pname> становится отравленным!
+103: <pname> becomes paralysed!
+103: <pname> становится парализованным!
+104: <pname> becomes confused!
+104: <pname> в замешательстве!
+105: <pname> falls asleep!
+105: <pname> засыпает!
+106: <pname> is prevented from using items!
+106: <pname> запрещено использовать предметы!
+107: <pname>'s legs feel really heavy!
+107: Ноги <pname> очень тяжелые!
+108: You can't add any more tags!
+108: Вы больше не можете добавлять теги!
+109: The album is empty!
+109: Альбом пуст.
+110: Some monsters appear near the base!
+110: Рядом с базой появляются монстры!
+111: The monsters run away!
+111: Монстры убегают!
+112: A horde of monsters appear!
+112: Появляется орда монстров!
+113: The monster horde is defeated!
+113: Орда монстров побеждена!
+114: <pname>'s attack power increases!
+114: Сила атаки <pname> возрастает!
+115: <pname>'s attack power decreases!
+115: Сила атаки <pname> уменьшается!
+116: <pname>'s defence increases!
+116: Защита <pname> возрастает!
+117: <pname>'s defence decreases!
+117: Защита <pname> уменьшается!
+118: A mob of monsters appear!
+118: Появляется толпа монстров!
+119: The monster mob is defeated!
+119: Толпа монстров побеждена!
+120: You can't upload an island from here!
+120: Отсюда нельзя загрузить остров!
+121: You can't open your album right now!
+121: Вы не можете открыть свой альбом прямо сейчас!
+122: The brainy badboon bellows for backup!
+122: Гений Бэдбун вызывает подкрепление!
+123: The brainy badboon is apoplectic with anger!
+123: Гений Бэдбун рвёт и мечет!
+124: The brainy badboon is trying to destroy the farm!
+124: Гений Бэдбун пытается уничтожить ферму!
+125: The brainy badboon loses his balance! Now's your chance!
+125: Гений Бэдбун теряет равновесие! Это ваш шанс!
+126: The brainy badboon is fuming!
+126: Гений Бэдбун в ярости!
+127: Atlas focuses his strength!
+127: Атлас фокусирует силы!
+128: <pname> has attracted the enemy's attention!
+128: <pname> привлек внимание противника!
+129: The madusa is readying her stony glare!
+129: Мадуза готовит свой окаменяющий взор!
+130: The madusa summons some monster minions!
+130: Мадуза вызывает приспешников монстров!
+131: The madusa is petrified! Now's your chance!
+131: Мадуза окаменела! Это твой шанс!
+132: You really don't want to cook that!
+132: Ты же не хочешь это готовить!
+133: You can't go any further!
+133: Вам дальше нельзя!
+134: You can't pour that here!
+134: Нельзя налить это сюда!
+135: <pname>'s agility increases!
+135: Ловкость <pname> увеличивается!
+136: <pname>'s agility decreases!
+136: Ловкость <pname> понижается!
+137: <pname> gives the order <6><string(lstr1)><9>!
+137: <pname> приказывает <6><string(lstr1)><9>!
+138: They seem a little preoccupied right now...
+138: Кажется, они сейчас немного заняты...
+139: <pname> befriends the <sgl_string(lstr1)>!
+139: <pname> подружился с <sgl_string(lstr1)>!
+140: <cap><def_sgl_string(lstr1)> joins <pname>'s party!
+140: <cap><def_sgl_string(lstr1)> присоединяется к отряду <pname>!
+141: What a surprise! The <sgl_string(lstr1)> follows <pname>!
+141: Какой сюрприз! <sgl_string(lstr1)> идёт за <pname>!
+142: <pname> fills the bottomless pot with <string(lstr1)>!
+142: <pname> наполняет бездонный горшок <string(lstr1)>!
+143: You can't speak to people during a battle!
+143: Нельзя разговаривать с людьми во время боя!
+144: They seem a little preoccupied right now...
+144: Кажется, они сейчас немного заняты...
+145: There's no response... Try befriending it first!
+145: А вокруг тишина... Попробуйте сначала подружиться!
+146: Everyone from the Scarlet Sands comes over!
+146: Обыватели Алых песков сбиваются сюда!
+147: That area isn't wide enough to sketch!
+147: Эта область недостаточно широка, чтобы чертить!
+148: That area is too big to sketch!
+148: Эта область слишком большая для черчения!
+149: You need to mark the end point before you can start sketching!
+149: Вам нужно отметить конечную точку, прежде чем вы сможете начать чертить!
+150: You can only use that on the Isle of Awakening!
+150: Вы можете использовать его лишь на острове Пробуждения!
+151: 
+151: 
+152: 
+152: 
+153: 
+153: 
+154: 
+154: 
+155: You can only use that on the Isle of Awakening or Buildertopia!
+155: Вы можете использовать его лишь на Острове Пробуждения или Стройтопии!
+156: You can't use this right now!
+156: Вы не можете использовать это сейчас!
+157: That blueprint is too tall to fit here!
+157: Этот чертеж слишком высокий, чтобы поместиться здесь!
+158: <pname> builds <indef_sgl_string(lstr1)>!
+158: <pname> возводит <indef_sgl_string(lstr1)>!
+159: 
+159: 
+160: 
+160: 
+161: That blueprint is already placed somewhere else!
+161: Этот чертеж уже размещен где-то в другом месте!
+162: She's all milked out for today!
+162: На сегодня у нее кончилось молоко!
+163: You can't warp away now!
+163: Ты не можешь уехать сейчас!
+164: A group of monsters attack!
+164: Группа монстров атакует!
+165: <cap><indef_plr_string(lstr1)> appear!
+165: <cap><indef_plr_string(lstr1)> появиться!
+166: <cap><def_plr_string(lstr1)> attack!
+166: <cap><def_plr_string(lstr1)> атаковать!
+167: <cap><def_plr_string(lstr1)> are defeated!
+167: <cap><def_plr_string(lstr1)> побеждены!
+168: <pname> fails to make the item...
+168: <pname> не удается сделать элемент...
+169: You can't place anything else!
+169: Вы не можете разместить больше ничего!
+170: 
+170: 
+171: You can't carry animals!
+171: Вы не можете брать животных!
+172: <pname> removes the blueprint!
+172: <pname> удаляет чертёж!
+173: <pname> solves the puzzle!
+173: <pname> решает головоломку!
+174: You can't hand that over now!
+174: Вы не можете отдать это сейчас!
+175: A malicious monster draws near...
+175: Злобный монстр приближается...
+176: You can't use that during a battle!
+176: Вы не можете использовать это во время битвы!
+177: You can't start a battle when your base has no blocks in it!
+177: Вы не можете начать битву, если на вашей базе нет блоков!
+178: <pname>'s too far from the base to place that!
+178: <pname> слишком далеко от базы, чтобы строить!
+179: Monsters attack the base!
+179: Монстры атакуют базу!
+180: The monsters have damaged the base!
+180: Монстры повредили базу!
+181: Some spoilspores have sprouted at the farm!
+181: На ферме прорастают споры гнили!
+182: You can't change tools right now!
+182: Вы не можете менять инструменты прямо сейчас!
+183: You can't pick people up in multibuilder mode!
+183: Вы не можете забирать людей в режиме мультистроителя!
+184: The Buggy Blasters have no effect!
+184: Бластеры багги не задают эффекта!
+185: Malroth is in agony!
+185: Мальрот в агонии!
+186: Atlas summons his underlings!
+186: Атлас призывает своих подчиненных!
+187: Atlas is furious!
+187: Атлас в ярости!
+188: Defeat the monster Malroth has become!
+188: Победите монстра, которым стал Малрот!
+189: Atlas is exhausted!
+189: Атлас выдохся!
+190: The Master of Destruction's full power is unleashed!
+190: Вся мощь Владыки Разрушения высвобождена!
+191: The madusa emerges from the ground!
+191: Мадуза выходит из-под земли!
+192: More monsters join the fray!
+192: В бой вступает все больше монстров!
+193: The Master of Destruction becomes stronger!
+193: Владыка Разрушения становится сильнее!
+194: The Master of Destruction becomes even stronger!
+194: Владыка Разрушения становится еще сильнее!
+195: The Master of Destruction gathers his strength!
+195: Владыка Разрушения набирает силу!
+196: The soldiers are fighting to protect the base!
+196: Войны сражаются, чтобы защитить базу!
+197: The soldiers are on the brink of defeat!
+197: Войны на грани поражения!
+198: The soldiers are defeated...
+198: Войны побеждены...
+199: You can't scoop this up just yet...
+199: Ты пока не можешь это зачерпнуть...
+200: That material can't be cooked!
+200: Этот материал нельзя приготовить!
+201: You can't choose them yet!
+201: Вы пока не можете их выбрать!
+202: <pname> makes <morf(his,her)> first <$cdef(244)><sgl_string(lstr1)></color>!
+202: <pname> делает свой первый <$cdef(244)><sgl_string(lstr1)></color>!!
+203: You can now raise your base's level!
+203: Теперь вы можете повысить уровень своей базы!
+204: Malroth can't use that!
+204: Малрот не может использовать это!
+205: You can't use that while you're mounted on a monster!
+205: Вы не можете делать это сидя верхом на монстре!
+206: An echo can be heard somewhere <string(lstr1)><string(lstr2)>!
+206: Эхо можно услышать где-то у <string(lstr1)><string(lstr2)>!
+207: You can't make changes while an upload is in progress!
+207: Вы не можете вносить изменения во время загрузки!
+208: <pname> obtains an infinite supply of <string(lstr1)><$cdef(244)><plr_string(lstr1)></color>!
+208: <pname> получает бесконечный запас <string(lstr1)><$cdef(244)><plr_string(lstr1)></color>!
+209: 
+209: 
+210: 
+210: 
+211: 
+211: 
+212: 
+212: 
+213: 
+213: 
+214: 
+214: 
+215: <pname>'s capacity for destruction increases!
+215: У <pname> увеличивается способность к разрушениям!
+216: You can't stroke frightened animals!
+216: Нельзя гладить испуганных животных!
+217: The <sgl_string(lstr1)> has no effect in multiplayer!
+217: <sgl_string(lstr1)> не работает в многопользовательской игре!
+218: <pname> builds <string(lstr1)>!
+218: <pname> возводит <string(lstr1)>!
+219: Resident's signs don't work outside rooms or outside your base.
+219: Жилые знаки не работают вне комнат или за пределами вашей базы.
+220: There's no one who can live here right now.
+220: Сейчас здесь никто не может жить.
+221: You can't ring the bell right now!
+221: Вы не можете звонить в колокол прямо сейчас!
+222: <pname> discovers one of the Builderdom's Best creations!
+222: <pname> обнаруживает одну из лучших построек!
+223: <pname> discovers every Builderdom's Best in the <6><string(lstr1)><9> category!
+223: <pname> обнаруживает лучшие постройки в категории <6><string(lstr1)><9>!
+224: <pname> turns <def_sgl_string(lstr1)> and <sgl_string(lstr2)> into one room!
+224: <pname> переделывает <def_sgl_string(lstr1)> и <sgl_string(lstr2)> в одну комнату!
+225: and <def_sgl_string(lstr1)>
+225: и <def_sgl_string(lstr1)>
+226: 
+226: 
+227: 
+227: 
+228: 
+228: 
+229: 
+229: 
+230: 
+230: 
+231: Altas seems to have dropped something...
+231: Алтас, кажется, что-то уронил...
+232: The Master of Destruction's hand glows brightly...
+232: Рука Владыки Разрушения ярко светится...
+233: The Master of Destruction pulls <pname> in!
+233: Мастер Владыки затягивает <pname>!
+234: It's not time to use that yet!
+234: Ещё не время это использовать!
+235: <pname> can't use that until it's fully charged!
+235: <pname> нельзя использовать до полной зарядки!
+236: The emblem contains missing or invalid blocks!
+236: Эмблема содержит отсутствующие или недопустимые блоки!
+237: Time runs out before the monsters are defeated...
+237: Время истекает, прежде чем монстры будут побеждены...
+238: <pname> joins the rooms together to make <indef_sgl_string(lstr2)>!
+238: <pname> соединяет комнаты вместе, чтобы сделать <indef_sgl_string(lstr2)>!
+239: <pname> ticks the <$cdef(244)><sgl_string(lstr1)></color> off the list!
+239: <pname> вычеркивает <$cdef(244)><sgl_string(lstr1)></color> из списка!
+240: Any more items of this type that you place will not be usable.
+240: Любые другие предметы этого типа, которые вы разместите, не будут использоваться.
+241: You can't use that during the harvest festival.
+241: Вы не можете использовать это во время фестиваля жатвы.
+242: Oh no! A monster was summoned!
+242: О нет! Был призван морстр!
+243: You can't carry monsters!
+243: Вы не можете носить монстров!
+244: Everyone from the Green Gardens comes over!
+244: Обыватели Зеленых садов приходят сюда!
+245: You can't ride that right now!
+245: Вы не можете ездить на нём прямо сейчас!
+246: The Buggy Blasters can now break through the dark aura!
+246: Бластеры Багги теперь могут пронзать темную ауру!
+247: The Master of Destruction blocks the Kazapple cannon!
+247: Владыка Разрушения блокирует пушку Казепл!
+248: 
+248: 
+249: The room gets a bit fancier!
+249: Комната становится богаче!
+250: <pname> starts to boogie!
+250: <pname> начинает танцевать!
+251: You can't use that during a battle!
+251: Вы не можете использовать это во время битвы!
+252: <cap><indef_sgl_string(lstr1)> gives birth to a baby!
+252: <cap><indef_sgl_string(lstr1)> рожает ребенка!
+253: You can't feed it a moreberry right now!
+253: Вы не можете кормить его ягодами прямо сейчас!
+254: <string(lstr1)> discovers one of the Builderdom's Best creations!
+254: <string(lstr1)> обнаруживает одно из лучших строений!
+255: <pname> feels fitter than a fiddle!
+255: <pname> чувствует себя чудно!
+256: <pname> erases the marks <morf(he's,she's)> made.
+256: <pname> стирает свои пометки.
+257: <pname> can't use the transform-o-trowel here yet!
+257: <pname> пока нельзя использовать катапульту!
+258: The monster mob runs away!
+258: Толпа монстров убегает!
+259: <cap><def_sgl_string(lstr1)> heads for the <string(lstr2)>!
+259: <cap><def_sgl_string(lstr1)> идёт за <string(lstr2)>!
+260: You can't do that right now!
+260: Вы не можете сделать это прямо сейчас!
+261: You can't sow any more seeds!
+261: Вы больше не можете сеять семена!
+262: You can't swap blocks of the same type!
+262: Вы не можете поменять местами блоки одного типа!
+263: You can only use that on the Isle of Awakening or Buildertopia!
+263: Вы можете использовать это только на Острове Пробуждения или Стройтопии!
+264: You can only feed moreberries to adult animals!
+264: Вы можете скармливать больше ягод только взрослым животным!
+265: You can only do that on the Isle of Awakening or Buildertopia!
+265: Это можно сделать только на Острове Пробуждения или Стройтопии!
+266: You can only feed moreberries to maximally happy animals!
+266: Скармливать больше ягод можно только максимально счастливым животным!
+267: Animals can only eat one moreberry a day!
+267: Животные могут есть только одну ягоду в день!
+268: The Buggy Buggy returns to the garage!
+268: Багованый Багги возвращается в гараж!
+269: <pname> can't use that here!
+269: <pname> не может использовать это здесь!
+270: You can now warp to <string(lstr1)>!
+270: Теперь вы можете перемещаться в <string(lstr1)>!
+271: You can't ride monsters right now!
+271: Вы не можете ездить на монстрах прямо сейчас!
+272: Waiting for the host...
+272: Ждем админа...
+273: Repairs are underway...
+273: Ведутся ремонтные работы...
+274: Synchronising...
+274: Синхронизация...
+275: 
+275: 
+276: 
+276: 
+277: That feature isn't available in multibuilder mode!
+277: Эта функция недоступна в режиме мультистроителя!
+278: You can't use that now!
+278: Вы не можете использовать это сейчас!
+279: Soldiers assemble at <pname>'s side!
+279: Солдаты собираются на стороне <pname>!
+280: The soldiers return to their posts.
+280: Солдаты возвращаются на свои посты.
+281: It's too hard to chisel!
+281: Его будет тяжело обработать!
+282: Nothing else seems to produce an echo...
+282: Ничто другое, кажется, не вызывает эха...
+283: Your important items are now in storage. You'll get them back later!
+283: Ваши важные вещи сейчас на хранении. Вы получите их позже!
+284: <pname> can't sleep underwater!
+284: <pname> не может спать под водой!
+285: You can't discard this letter until you accept the gift!
+285: Вы не можете отказаться от этого письма, пока не примете подарок!
+286: <cap><def_sgl_string(lstr1)> looks like it wants to be <pname>'s friend!
+286: <cap><def_sgl_string(lstr1)> похоже, он хочет быть другом <pname>!
+287: A super-strong monster appears!
+287: Появляется суперсильный монстр!
+288: You have to copy that to your <sgl_string(lstr1)> first!
+288: Вы должны сначала скопировать это в <sgl_string(lstr1)>!
+289: Erase your <sgl_string(lstr1)> in the Builderpedia first.
+289: Сначала удалите <sgl_string(lstr1)> в Builderpedia.
+290: Multibuilder mode activated! Magic pencil sketches removed.
+290: Активирован режим мультистроителя! Удалены чертежи волшебного карандаша.
+291: You can't draft blueprints on <def_sgl_string(lstr1)>!
+291: Вы не можете рисовать чертежи на <def_sgl_string(lstr1)>!
+292: You can't leave while you're carrying something with your gloves!
+292: Вы не можете уйти, пока носите что-то в перчатках!
+293: Multibuilder mode deactivated! Multibuilder blueprint removed.
+293: Режим мультистроителя отключен! Чертеж мультистроителя удален.
+294: Copy it to a magic pencil sketch in the Builderpedia first!
+294: Скопируйте его сначала на эскиз волшебным карандашом в строепедии!
+295: A strange force prevents <pname> from building here...
+295: Странная сила мешает <pname> здесь строить...
+296: A strange force prevents <pname> from building here...
+296: Странная сила мешает <pname> здесь строить...
+297: A strange force prevents <pname> from building here...
+297: Странная сила мешает <pname> здесь строить...
+298: A strange force prevents <pname> from building here...
+298: Странная сила мешает <pname> здесь строить...
+299: A strange force prevents <pname> from building here...
+299: Странная сила мешает <pname> здесь строить...
+300: A strange force prevents <pname> from building here...
+300: Странная сила мешает <pname> здесь строить...
+301: A strange force prevents <pname> from building here...
+301: Странная сила мешает <pname> здесь строить...
+302: You can't place empty blueprints!
+302: Нельзя размещать пустые чертежи!
+303: <pname> retrieves <morf(his,her)> stuff from the storage sack!
+303: <pname> извлекает вещи из мешка для хранения!
+304: You can't talk to him while someone's riding in a vehicle.
+304: Вы не можете разговаривать с ним, пока кто-то едет в транспорте.
+305: You liked <string(lstr1)>'s snapshot!
+305: Вам понравился снапшот <string(lstr1)>!
+306: You added <string(lstr1)>'s snapshot to your favourites!
+306: Вы добавили в избранное снапшот <string(lstr1)>!
+307: You liked <string(lstr1)>'s island!
+307: Вам понравился остров <string(lstr1)>!
+308: You added <string(lstr1)>'s island to your favourites!
+308: Вы добавили остров <string(lstr1)> в избранное!
+309: Jump off the monster first!
+309: Сначала спрыгните с монстра!
+310: You can't talk to him while someone's riding a monster!
+310: Вы не можете разговаривать с ним, пока кто-то едет на монстре!
+311: You can't set sail while someone's riding a monster!
+311: Вы не можете отплыть, пока кто-то едет на монстре!
+312: Sorry, but that feature isn't available in the demo!
+312: Извините, но эта функция недоступна в демоверсии!
+313: You arrive on <string(lstr1)>'s island!
+313: Вы прибываете на остров <string(lstr1)>!
+314: Room limit reached! Any more you build will not be recognised.
+314: Достигнут лимит комнат! Другие комнаты не будут распознаны.
+315: Any more items of this type that you place will not be usable.
+315: Любые другие предметы этого типа, которые вы разместите, не применятся.
+316: Monsters will no longer appear in the <string(lstr1)>!
+316: Монстры больше не появятся в <string(lstr1)>!
+317: Monsters will no longer appear on the Isle of Awakening!
+317: Монстры больше не появятся на Острове Пробуждения!
+318: 
+318: 
+319: This water can't be scooped up.
+319: Эту воду нельзя зачерпнуть.
+320: The fish managed to escape...
+320: Рыбке удалось спастись...
+321: What luck! <pname> catches <indef_sgl_string(lstr1)>!
+321: Везуха! <pname> ловит <indef_sgl_string(lstr1)>!
+322: It's a big one!
+322: Большая!
+323: You can't release fish during a battle!
+323: Нельзя выпускать рыбу во время боя!
+324: You can't release fish right now.
+324: Сейчас нельзя выпускать рыбу.
+325: Invalid password.
+325: Неверный пароль.
+326: Password accepted!
+326: Пароль принят!
+327: You can't release any more fish here.
+327: Здесь нельзя больше выпускать рыбу.
+328: That item will not be usable.
+328: Этот элемент не будет использоваться.
+329: Crafting stations you place will no longer be recognised.
+329: Верстаки, которые вы размещаете, больше не будут распознаваться.
+330: Storage items you place will no longer be recognised.
+330: Размещенные вами предметы хранения больше не будут распознаваться.
+331: <pname> can swim like a fish!
+331: <pname> может плавать как рыбка!
+332: <string(lstr1)> hasn't been unlocked yet!
+332: <string(lstr1)> еще не разблокировано!
+333: You can't release that fish here!
+333: Вы не можете выпустить эту рыбу здесь!
+334: There are no residents to assign to this station.
+334: Нет жителей для назначения на эту станцию.
+335: <cap><def_sgl_string(lstr1)> is defeated!
+335: <cap><def_sgl_string(lstr1)> сражен!
+336: The island is too full for a baby to be born...
+336: Остров слишком полон для рождения ребенка...
+337: It doesn't seem to work right now...
+337: Кажется, сейчас это не работает...
+338: <cap><indef_sgl_string(lstr1)> appears!
+338: <cap><indef_sgl_string(lstr1)> появляется!
+339: <cap><def_sgl_string(lstr1)> attacks!
+339: <cap><def_sgl_string(lstr1)> атакует!
+340: You can't change the weather to sunny on this island!
+340: На этом острове нельзя менять погоду на солнечную!
+341: You can't change the weather to cloudy on this island!
+341: На этом острове нельзя менять погоду на облачную!
+342: You can't change the weather to rainy on this island!
+342: На этом острове нельзя менять погоду на дождливую!
+343: You can't change the weather to snowy on this island!
+343: На этом острове нельзя менять погоду на снежную!
+344: You can't change the weather to stormy on this island!
+344: На этом острове нельзя изменить погоду на шторм!
+345: Everyone comes over!
+345: Все приходят!
+346: Everyone goes back to what they were doing.
+346: Все возвращаются к тому, что делали.
+347: You can't use that password on an inhabited island!
+347: Вы не можете использовать этот пароль на обитаемом острове!
+348: You can't use that on another builder's island!
+348: Вы не можете использовать это на острове другого строителя!
+349: Жители Лазурной Степи приходят к нам!
+349: Приезжают все из Керулейской степи!
+350: The island has too many of that animal for a baby to be born...
+350: На острове слишком много этих животных, чтобы родился ребенок...
+351: That key is already assigned!
+351: Этот ключ уже назначен!
+352: That key cannot be used!
+352: Этот ключ нельзя использовать!
+353: That key cannot be changed!
+353: Этот ключ не может быть изменен!
